@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [FAQ](faq.md)
-* [The Application Video](untitled.md)
+* [The Application Video](video.md)
 
