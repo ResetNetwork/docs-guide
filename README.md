@@ -2,7 +2,7 @@
 description: This guide is designed for anyone considering seeking funding from Reset.
 ---
 
-# Reset Open Call Guide
+# Introduction
 
 {% hint style="success" %}
  If you're thinking about applying to Reset for funding, you're in the right place.
