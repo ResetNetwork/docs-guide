@@ -5,5 +5,7 @@
   * [Goals & Objectives](introduction/goals-objectives.md)
   * [Guiding principles and values](introduction/principles-values.md)
 * [FAQ](faq.md)
-* [The Application Video](video.md)
+* [Topical guidance](topical-guidance/README.md)
+  * [The Application Video](topical-guidance/video.md)
+  * [Overhead costs](topical-guidance/overhead-costs.md)
 
