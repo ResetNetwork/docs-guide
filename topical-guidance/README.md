@@ -1,8 +1,9 @@
 ---
-description: 'More information for specific application fields, criteria, and remit'
+description: >-
+  More information for specific application fields, criteria, remit, and/or
+  other issue-specific guidelines which come up regularly while submitting and
+  reviewing applications.
 ---
 
 # Topical guidance
-
-In this section, you'll find issue-specific guidelines which come up regularly while reviewing applications. We want to ensure that the descriptive criteria listed for each fund or fellowship are as accurate and clear as possible.
 
