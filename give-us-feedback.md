@@ -1,5 +1,7 @@
 ---
-description: We want to hear from you. Engage with this pages feedback functions.
+description: >-
+  We want to hear from you. We want to respond to you. We want to change for
+  you.
 ---
 
 # Give us feedback
