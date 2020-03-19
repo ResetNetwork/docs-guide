@@ -6,7 +6,14 @@ description: Frequently Asked Questions
 
 ## **What types of efforts does Reset support?**
 
-Comming soon...
+{% hint style="info" %}
+The following lists the type of work Reset supports:
+
+* **Policy/Advocacy:** The global development and advancement of a public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
+* **Research:** Networks of researchers studying the interplay between democracy and technology, with the aim of informing current policy debates, creating better technology, and improving civic engagement.
+* **Technology:** The design and implementation of both existing and new tools that support in-depth research, activist engagement, educational insights, and viable virtuous alternatives to the dominate exploitative platforms.
+* **Civic engagement:** Those working to educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
+{% endhint %}
 
 ## Does Reset support projects, individuals, or both?
 
