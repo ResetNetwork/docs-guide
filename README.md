@@ -4,9 +4,9 @@ description: This guide is designed for anyone considering applying to a Reset o
 
 # Our Guide to Open Calls
 
-{% hint style="success" %}
+{% embed url="https://hello@reset.tech" %}
+
  If you are thinking of to applying to a [**Reset open call**](https://wwww.reset.tech/open-calls/) for funding, you are in the right place.
-{% endhint %}
 
 Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page. 
 
