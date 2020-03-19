@@ -1,11 +1,11 @@
 ---
-description: This guide is designed for anyone considering seeking funding from Reset.
+description: This guide is designed for anyone considering applying to a Reset open call.
 ---
 
 # Our Guide to Open Calls
 
 {% hint style="success" %}
- If you are thinking of to applying to Reset for funding, you are in the right place.
+ If you are thinking of to applying to a [Reset open call](https://www.reset.tech/open-calls/) for funding, you are in the right place.
 {% endhint %}
 
 Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page. 
