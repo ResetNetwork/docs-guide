@@ -1,6 +1,12 @@
+---
+description: >-
+  Here we list the continually evolving principles and values that guide open
+  call process.
+---
+
 # Guiding principles and values
 
-The aim of our open calls and its goals guide our path, they set our direction our decisions point to. The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope create and maintain for all who participate in the open calls and become part of the Reset network. Just like the rest of our work, we continually adjust these principles and values and strive always to make them better.
+The aim of our open calls and its goals guide our path, they set our direction our decisions point to. The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope create and maintain for all who participate in the open calls and become part of the Reset network. 
 
 ## Principles
 
