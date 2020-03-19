@@ -16,13 +16,12 @@ The aim of our open calls and its goals guide our path, they set our direction o
 
 ## Values
 
-The fund’s values are Change, Collaboration, Results, Efficiency, Diversity, and Transparency. All our values are interlinked and work with one another to maintain and protect our culture.   
-****
+The fund’s values are **Change, Collaboration, Results, Efficiency, Diversity, and Transparency**. All our values are interlinked and work with one another to maintain and protect our culture. 
 
-* Change: We believe the greatest ideas are iterative innovations: supported by healthy ecosystems that share, use, and build openly and collaboratively; built by embracing change through experimentation, reflection, and adaptation without fear of failure.
-* Collaboration: Helping others is our priority, even when it is not immediately related to the goals that we are trying to achieve. 
-* Results: We do what we promise to each other, applicants, supported projects, those who support us, our other stakeholders, and the public. We expect the same in return.
-* Efficiency: We care about working on and supporting the right things, not doing more than needed, not duplicating work, working smarter not harder. This enables us to achieve more progress, have a greater effect, be apart of larger impacts, which makes the work we do more fulfilling.
-* Diversity: We recognize the importance and challenge of creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
-* Transparency: We strive to be open about as many things as possible, to share openly all possible aspects of our work, including what and how we learned and did it, with the public, and other stakeholders, in a non-competitive fashion. In this, we practice the doctrine of open philanthropy, governance, reduce the threshold for others to contribute, and to make collaboration easier.
+* **Change:** We believe the greatest ideas are iterative innovations: supported by healthy ecosystems that share, use, and build openly and collaboratively; built by embracing change through experimentation, reflection, and adaptation without fear of failure.
+* **Collaboration:** Helping others is our priority, even when it is not immediately related to the goals that we are trying to achieve. 
+* **Results:** We do what we promise to each other, applicants, supported projects, those who support us, our other stakeholders, and the public. We expect the same in return.
+* **Efficiency:** We care about working on and supporting the right things, not doing more than needed, not duplicating work, working smarter not harder. This enables us to achieve more progress, have a greater effect, be apart of larger impacts, which makes the work we do more fulfilling.
+* **Diversity:** We recognize the importance and challenge of creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
+* **Transparency:** We strive to be open about as many things as possible, to share openly all possible aspects of our work, including what and how we learned and did it, with the public, and other stakeholders, in a non-competitive fashion. In this, we practice the doctrine of open philanthropy, governance, reduce the threshold for others to contribute, and to make collaboration easier.
 
