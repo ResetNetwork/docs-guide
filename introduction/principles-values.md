@@ -15,7 +15,7 @@ The aim of our open calls and its goals guide our path, they set our direction o
 * **We know very little:** View every situation as an opportunity to learn, practice active listening, give feedback without fear, and are more interested in learning than being right.
 * **Be human-centred:** Measure the actual impact of what we do and what we support by evaluating the experience of those who are at the receiving end of the engagement. We view our work as building relationships over conducting transactions.
 * **Communicate clearly:** We speak our loudest and clearest with what and how we fund when we are succinct, candid, and kind. 
-* **Breadth over depth / Reach:** Always think about things in the broader sense, what broader effects it could have, without focusing on a specific challenge or solution.
+* **Breadth over depth but also reach:** Always think about things in the broader sense, what broader effects it could have, while focusing on a specific challenges or solutions, not either or.
 * **Assume scarcity:** Always try to stretch the resources we have, get excited when things have multiple uses, spend money like it is the last, and maintain a runway.
 * **Life balance:** This is a long-term challenge and we want as many people to join and thrive in that time, so it is important to take time off, work-life balance, and being a primarily remote-only team is a large part of the solution.
 * **Uphold our values:** Make all our decisions based on the following values, even if it is inconvenient.

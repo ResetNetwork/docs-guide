@@ -27,5 +27,9 @@ This guide is an open-source document. You can suggest changes to it by posting 
 * This doc: [https://github.com/ResetNetwork/docs-guide](https://github.com/ResetNetwork/docs-guide)
 * The app: [https://github.com/ResetNetwork/apply-app](https://github.com/ResetNetwork/apply-app) 
 
+## Twitter
+
+* User: [@resetdottech](https://twitter.com/resetdottech)
+
 
 
