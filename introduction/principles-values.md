@@ -37,9 +37,11 @@ Occasionally, values can contradict each other. For instance, transparency would
 
 | Values |  |  | Why  |
 | :--- | :--- | :--- | :---: |
-| **Results** |  |  | It is most important for us to focus on impact |
-| **Change** | **Transparency** | \*\*\*\* | We trust these values will lead to better results |
-| **Efficiency** | **Collaboration** | **Diversity** | These values distinguish applicants and us to others |
+| **Results** |  |  | _It is most important for us to focus on impact_ |
+| **Change** | **Transparency** | \*\*\*\* | _We trust these values will lead to better results_ |
+| **Efficiency** | **Collaboration** | **Diversity** | _These values distinguish applicants and us to others_ |
 
+Reflecting on values in any given context is not absolute. If one thinks of values as binary or zero sum, things will not go well, it will not work. Our value hierarchy is an attempt to relieve at least some of the tension. It won't preempt every debate, but it helps. There will always be interpretation, there's always magnitude to consider, and that is welcome.
 
+We maintain a hierarchy so that it's clear, in the end, the result matters most. For instance, we're not going to be transparent or diverse for the sake of it. We're not radical or trying to virtue signal these values. We do it because we think and see that it leads to better outcomes.
 
