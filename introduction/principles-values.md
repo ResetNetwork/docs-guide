@@ -36,10 +36,10 @@ The fund’s values are **Change, Collaboration, Results, Efficiency, Diversity,
 Occasionally, values can contradict each other. For instance, transparency would dictate we publish all applications publicly the moment they are submitted, but this could jeopardize the effect and impact of the applicants work. It's useful to keep in mind this hierarchy to resolve confusion about what to do in a specific circumstance, while remaining consistent with our core values.
 
 | Values |  |  | Why  |
-| :--- | :--- | :--- | ---: |
-| **Results** |  |  | Impact is the most important |
-| **Change** | **Transparency** | \*\*\*\* | This will lead to better results |
-| **Efficiency** | **Collaboration** | **Diversity** | Distinguishes applicants & us to |
+| :--- | :--- | :--- | :---: |
+| **Results** |  |  | It is most important for us to focus on impact |
+| **Change** | **Transparency** | \*\*\*\* | We trust these values will lead to better results |
+| **Efficiency** | **Collaboration** | **Diversity** | These values distinguish applicants and us to others |
 
 
 
