@@ -31,3 +31,15 @@ The fund’s values are **Change, Collaboration, Results, Efficiency, Diversity,
 * **Diversity:** We are committed to creating an environment where all voices feel valued, included, and are empowered to bring their perspectives to the table and have agency in solutions. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
 * **Transparency:** We strive to be open about as many things as possible, to share openly all possible aspects of our work, including what and how we learned and did it, with the public, and other stakeholders, in a non-competitive fashion. In this, we practice the doctrine of open philanthropy, governance, reduce the threshold for others to contribute, and to make collaboration easier.
 
+### Hierarchy
+
+Occasionally, values can contradict each other. For instance, transparency would dictate we publish all applications publicly the moment they are submitted, but this could jeopardize the effect and impact of the applicants work. It's useful to keep in mind this hierarchy to resolve confusion about what to do in a specific circumstance, while remaining consistent with our core values.
+
+| Values |  |  | Why  |
+| :--- | :--- | :--- | ---: |
+| **Results** |  |  | Impact is the most important |
+| **Change** | **Transparency** | \*\*\*\* | This will lead to better results |
+| **Efficiency** | **Collaboration** | **Diversity** | Distinguishes applicants & us to |
+
+
+
