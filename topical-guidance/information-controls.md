@@ -10,22 +10,26 @@ The same corporations, governments globally, and other highest bidders misguided
 
 Reset is working towards a future in which the commodification and misuse of mined personal information on a massive scale no longer come at the cost of human rights online \(digital rights\), democracy, and open societies. We believe a [quantified society](https://www.opensocietyfoundations.org/explainers/life-quantified-society) can exist without information controls that repress participation and evolution of democracy.
 
+The following is a non-exhaustive list of information controls that we confront often. Through our open calls, we seek to raise civil societies understanding of how they work, documenting and proving harm they cause, advance mitigation of those harms, and demonstrating alternatives that can exist without causing harm.
+
 | Information control examples |  |
 | :--- | :--- |
-| Collection of personal information |  |
-| Content monitoring / DPI / Surveillance |  |
-| Algorithmic bias / Filter bubbles |  |
+|  |  |
+| Deceptive collection of personal information or [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern) |  |
+| [Mass](https://en.wikipedia.org/wiki/Mass_surveillance) [deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection) or [surveillance](https://en.wikipedia.org/wiki/Surveillance_abuse) |  |
+| [Algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) |  |
 | Misinformation |  |
-| Disinformation / Propaganda |  |
+| Disinformation and propaganda |  |
 | Targeted advertisements |  |
-| Flooding |  |
+| Content flooding and us of bots |  |
 | Content modification |  |
-| Content deletion / moderation |  |
-| Account deletion / De-platforming |  |
-| [Doxing](https://en.wikipedia.org/wiki/Doxing) / Leaks |  |
+| Content deletion or moderation |  |
+| Account deletion or de-platforming |  |
+| Online harassment or cyber-bullying |  |
+| [Doxing](https://en.wikipedia.org/wiki/Doxing) or Leaks |  |
 | Service blocking |  |
 | App store removal |  |
-| Cyber-attack  |  |
+| Cyber-attacks and DDOS |  |
 | Network throttling |  |
 | Network shutdowns |  |
 
