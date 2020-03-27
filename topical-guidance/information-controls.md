@@ -10,26 +10,32 @@ The same corporations, governments globally, and other highest bidders misguided
 
 Reset is working towards a future in which the commodification and misuse of mined personal information on a massive scale no longer come at the cost of human rights online \(digital rights\), democracy, and open societies. We believe a [quantified society](https://www.opensocietyfoundations.org/explainers/life-quantified-society) can exist without information controls that repress participation and evolution of democracy.
 
-The following is a non-exhaustive list of information controls that we confront often. Through our open calls, we seek to raise civil societies understanding of how they work, documenting and proving harm they cause, advance mitigation of those harms, and demonstrating alternatives that can exist without causing harm.
+The following is a non-exhaustive list of information controls that we confront often. Through our open calls, we seek to raise civil societies ability to: 
 
-| Information control examples |  |
+* Understand of how they work;
+* document and prove harm from their misuse;
+* Mitigate of those harms;
+* Use them for good; and,
+* Demonstrate that alternatives can exist without causing harm.
+
+| **Information control examples** | \*\*\*\* |
 | :--- | :--- |
 |  |  |
 | Deceptive collection of personal information or [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern) |  |
 | [Mass](https://en.wikipedia.org/wiki/Mass_surveillance) [deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection) or [surveillance](https://en.wikipedia.org/wiki/Surveillance_abuse) |  |
-| [Algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias) and [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble) |  |
+| [Algorithmic bias](https://en.wikipedia.org/wiki/Algorithmic_bias), [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble), or [spamdexing](https://en.wikipedia.org/wiki/Spamdexing) |  |
 | Misinformation |  |
-| Disinformation and propaganda |  |
-| Targeted advertisements |  |
-| Content flooding and us of bots |  |
-| Content modification |  |
-| Content deletion or moderation |  |
+| [Disinformation](https://en.wikipedia.org/wiki/Disinformation), [propaganda](https://en.wikipedia.org/wiki/Propaganda), [fake news](https://en.wikipedia.org/wiki/Fake_news_website), or [astroturfing](https://en.wikipedia.org/wiki/Astroturfing) |  |
+| [Targeted advertisement](https://en.wikipedia.org/wiki/Targeted_advertising) |  |
+| [Spamming](https://en.wikipedia.org/wiki/Spamming), use of [bots](https://en.wikipedia.org/wiki/Social_bot), or [sockpuppetry](https://en.wikipedia.org/wiki/Sockpuppet_%28Internet%29) |  |
+| Content deletion or [moderation](https://en.wikipedia.org/wiki/Moderation_system) |  |
 | Account deletion or de-platforming |  |
 | Online harassment or cyber-bullying |  |
 | [Doxing](https://en.wikipedia.org/wiki/Doxing) or Leaks |  |
-| Service blocking |  |
-| App store removal |  |
-| Cyber-attacks and DDOS |  |
-| Network throttling |  |
-| Network shutdowns |  |
+| Website and service blocking |  |
+| [App store removal](https://en.wikipedia.org/wiki/Censorship_of_the_iTunes_Store) |  |
+| Cyber-attacks, content manipulation, or DDOS |  |
+| Network throttling and shutdowns |  |
+
+
 
