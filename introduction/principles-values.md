@@ -45,3 +45,7 @@ Reflecting on values in any given context is not absolute. If one thinks of valu
 
 We maintain a hierarchy so that it's clear, in the end, the result matters most. For instance, we're not going to be transparent or diverse for the sake of it. We're not radical or trying to virtue signal these values. We do it because we think and see that it leads to better outcomes.
 
+How we reinforce these values
+
+
+
