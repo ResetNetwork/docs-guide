@@ -17,7 +17,7 @@ Reset is working towards a future in which the commodification and misuse of min
 | Algorithmic bias / Filter bubbles |  |
 | Misinformation |  |
 | Disinformation / Propaganda |  |
-| Targeted advertisement |  |
+| Targeted advertisements |  |
 | Flooding |  |
 | Content modification |  |
 | Content deletion / moderation |  |
