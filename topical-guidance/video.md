@@ -19,11 +19,11 @@ If you have a demo for your project, there is a place in the application for tha
 
 If you can't be in the same room at the same time, you may want to record a video conference conversation instead.
 
-## **Don't mark it as private or disallow embedding on YouTube.**
+## **Don't mark it as private or disallow embedding.**
 
-We won't be able to see it. Please note that because of how our system is built, YouTube's view count will not increase even though we do watch your video.
+We won't be able to see it. Please note that because of how our system is built, the view count may not increase even though we do watch your video.
 
-## **If you are in a country where YouTube is unavailable, you may use an alternate service, like YouKu for China.** 
+## **If you are in a country where services like Vimeo or YouTube is unavailable, you may use an alternate service, like YouKu for China.** 
 
 If you use YouKu, you may want to set a password on your video. You can provide the password in the application.
 
