@@ -5,7 +5,7 @@ description: >-
   other key members or the project.
 ---
 
-# The Application Video
+# The application video
 
 ## **The video should be 1 minute long and should contain nothing except you or others talking.** 
 

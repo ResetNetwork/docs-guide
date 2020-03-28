@@ -6,7 +6,7 @@
   * [Guiding principles and values](introduction/principles-values.md)
 * [FAQ](faq.md)
 * [Topical guidance](topical-guidance/README.md)
-  * [The Application Video](topical-guidance/video.md)
+  * [The application video](topical-guidance/video.md)
   * [Overhead costs](topical-guidance/overhead-costs.md)
   * [Information controls](topical-guidance/information-controls.md)
 * [Give us feedback](give-us-feedback.md)
