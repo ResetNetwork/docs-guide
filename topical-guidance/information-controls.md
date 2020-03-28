@@ -15,7 +15,7 @@ The following is a non-exhaustive list of information controls that we confront 
 * Understand of how these information controls work;
 * Document and prove harm from their misuse;
 * Mitigate those harms;
-* Learn how to use them for good; and,
+* Learn how and when to use them for good; and,
 * Demonstrate that alternatives can exist without causing harm.
 
 | **Information control examples** | \*\*\*\* |
