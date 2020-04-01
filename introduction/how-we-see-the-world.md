@@ -24,9 +24,11 @@ The following is a non-complete list that we . You should always free to apply e
 
 ## Opportunities
 
+Coming soon :-/
 
+## Our strengths & weaknesses
 
-## Our strengths and weaknesses
+Coming soon :-/
 
 
 
