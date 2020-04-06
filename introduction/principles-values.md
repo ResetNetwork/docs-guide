@@ -4,9 +4,9 @@ description: >-
   call process.
 ---
 
-# Guiding principles and values
+# Principles & values
 
-The aim of our open calls and its goals guide our path, they set our direction our decisions point to. The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope create and maintain for all who participate in the open calls and become part of the Reset network. 
+The [Goals & Objectives](goals-objectives.md) of our open calls guide our path as we conduct open calls, they set our general direction and what our decisions point to. The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope create and maintain for all who participate in the open calls and become part of the Reset network. 
 
 ## Principles
 
@@ -28,6 +28,31 @@ The fund’s values are **Change, Collaboration, Results, Efficiency, Diversity,
 * **Collaboration:** Helping others is our priority, even when it is not immediately related to the goals that we are trying to achieve. 
 * **Results:** We do what we promise to each other, applicants, supported projects, those who support us, our other stakeholders, and the public. We expect the same in return.
 * **Efficiency:** We care about working on and supporting the right things, not doing more than needed, not duplicating work, working smarter not harder. This enables us to achieve more progress, have a greater effect, be apart of larger impacts, which makes the work we do more fulfilling.
-* **Diversity:** We recognize the importance and challenge of creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
+* **Diversity:** We are committed to creating an environment where all voices feel valued, included, and are empowered to bring their perspectives to the table and have agency in solutions. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
 * **Transparency:** We strive to be open about as many things as possible, to share openly all possible aspects of our work, including what and how we learned and did it, with the public, and other stakeholders, in a non-competitive fashion. In this, we practice the doctrine of open philanthropy, governance, reduce the threshold for others to contribute, and to make collaboration easier.
+
+### Hierarchy
+
+Occasionally, values can contradict each other. For instance, transparency would dictate we publish all applications publicly the moment they are submitted, but this could jeopardize the effect and impact of the applicants work. It's useful to keep in mind this hierarchy to resolve confusion about what to do in a specific circumstance, while remaining consistent with our core values.
+
+| Values |  |  | Why in this order |
+| :--- | :--- | :--- | :---: |
+| **Results** |  |  | _It is most important for us to focus on impact_ |
+| **Change** | **Transparency** | \*\*\*\* | _We trust these values will lead to better results_ |
+| **Efficiency** | **Collaboration** | **Diversity** | _These values distinguish applicants and us to others_ |
+
+Reflecting on values in any given context requires accepting nuance over thinking in absolutes. If one believes values-based decisions are binary or zero sum, coming to a decision will not go well, or work out at all. Our value hierarchy is an attempt to relieve at least some of the tension. It won't preempt every debate, but it helps. There will always be interpretation, there's always magnitude to consider, and that is welcome.
+
+We maintain a hierarchy so that it's clear, in the end, the result matters most. For instance, we're not going to be transparent or diverse for the sake of it. We're not radical or trying to virtue signal these values. We do it because we think and see that it leads to better outcomes.
+
+### How we reinforce these values
+
+The behavior we reward is the best reflection of our values. Therefore, we reinforce our values by:
+
+1. Expecting these values from each member of the open call team.
+2. Referring to our values for each application decision we make.
+3. Prioritizing applicants who embody them the most.
+4. Rewarding and complementing those who embody them the most.
+5. Criteria we use for evaluating success and impact of our open calls and individual effort we support.
+6. Always take feedback about them update them often.
 

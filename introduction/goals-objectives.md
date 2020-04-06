@@ -5,7 +5,7 @@ description: >-
   democracy, and open societies.
 ---
 
-# Goals & Objectives
+# Goals & objectives
 
 ## Goals
 
