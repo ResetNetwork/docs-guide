@@ -12,6 +12,10 @@ We make different types and sizes of investment and funding, depending on the op
 
 We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](give-us-feedback.md) as we are constantly looking for ways to improve our process.
 
+## When to Apply
+
+Most of open calls accept applications on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
+
 ## Stages
 
 1. **You apply:** It begins with you.
