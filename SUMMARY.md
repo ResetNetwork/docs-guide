@@ -6,6 +6,7 @@
   * [Guiding principles and values](introduction/principles-values.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
 * [FAQ](faq.md)
+* [Decision process](decision-process.md)
 * [Topical guidance](topical-guidance/README.md)
   * [The application video](topical-guidance/video.md)
   * [Overhead costs](topical-guidance/overhead-costs.md)
