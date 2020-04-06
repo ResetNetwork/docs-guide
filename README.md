@@ -6,7 +6,7 @@ description: This guide is designed for anyone considering applying to a Reset o
 
 {% embed url="https://hello@reset.tech" %}
 
-If you are thinking of to applying to a [**Reset open call**](https://wwww.reset.tech/open-calls/) for funding, you are in the right place.
+ If you are thinking of to applying to a [**Reset open call**](https://wwww.reset.tech/open-calls/) for funding, you are in the right place.
 
 Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page. 
 
@@ -14,7 +14,7 @@ If you only have time to read one thing, check out our [FAQ](faq.md)
 
 ## Purpose
 
-The purpose of this guide is to provide you with all the information you need to successfully submit an application to Reset and to understand why open calls are important to us. Whether you are planning to submit to one of the funds or fellowships, or you are simply curious about how our program works, this guide is for you. Through the sections found on the left, you'll find guidelines both general \(relevant to all our funding mechanisms\) and specific open calls.
+The purpose of this guide is to provide you with all the information you need to successfully submit an application to Reset. Whether you're planning to submit to one of the funds or fellowships, or you are simply curious about how our program works, this guide is for you. Through the sections found on the left, you'll find guidelines both general \(relevant to all our funding mechanisms\) and specific open calls.
 
 ## Inside the guide
 
@@ -22,5 +22,5 @@ This guide is designed to act as a starting point for understanding the goals of
 
 ## Always changing
 
-This guide is a living document. Much of the information found here here is informed by the numerous inquiries sent our way by curious would-be applicants, those who we dismissed, and those we awarded. If you came here with a question and you find your answer, it is thanks to them. In that spirit, we welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. We want your [feedback](give-us-feedback.md). Feel free to comment directly within the guide as reach out to us in whatever way is best for you.
+This guide is a living document. Much of the information found here here is informed by the numerous inquiries sent our way by curious would-be applicants, those who we dismissed, and those we awarded. If you came here with a question and you find your answer, it is thanks to them. In that spirit, we welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. Feel free to comment directly within the guide as you see fit, or write to us at hello@reset.tech
 
