@@ -2,7 +2,6 @@
 
 * [Our Guide to Open Calls](README.md)
 * [Introduction](introduction/README.md)
-  * [Untitled](introduction/untitled.md)
   * [Goals & objectives](introduction/goals-objectives.md)
   * [Principles & values](introduction/principles-values.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
