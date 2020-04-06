@@ -3,35 +3,35 @@
 
 
 {% tabs %}
-{% tab title="One" %}
+{% tab title="Stage 1" %}
 ## You apply
 {% endtab %}
 
-{% tab title="Two" %}
+{% tab title="Stage 2" %}
 ## Team review
 {% endtab %}
 
-{% tab title="Three" %}
+{% tab title="Stage 3" %}
 Initial determination
 {% endtab %}
 
-{% tab title="Four" %}
+{% tab title="Stage 4" %}
 
 {% endtab %}
 
-{% tab title="Five" %}
+{% tab title="Stage 5" %}
 
 {% endtab %}
 
-{% tab title="Six" %}
+{% tab title="Stage 6" %}
 
 {% endtab %}
 
-{% tab title="Seven" %}
+{% tab title="Stage 7" %}
 S
 {% endtab %}
 
-{% tab title="Eight" %}
+{% tab title="Stage 8" %}
 
 {% endtab %}
 {% endtabs %}
