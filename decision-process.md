@@ -1,16 +1,16 @@
 ---
 description: >-
   Our approach gives us the ability to make a wide range of non-profit and
-  for-profit investments.
+  for-profit investments to organizations and people.
 ---
 
 # Decision process
 
 We actively look for opportunities that align with our [goals & objectives](introduction/goals-objectives.md), are the [types of work](introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](introduction/principles-values.md).
 
-We make different types and sizes of investment and funding, depending on the opportunity. This helps us build an exciting and diverse portfolio of organisations and companies from around the world.
+We make different types and sizes of investment and funding, depending on the opportunity. This helps us build an exciting and diverse portfolio partners from around the world.
 
-We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These may be subject to change as we're constantly looking for ways to improve our process.
+We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](give-us-feedback.md) as we are constantly looking for ways to improve our process.
 
 ## Stages
 
@@ -52,6 +52,10 @@ If we decline your concept note, we’ll provide you with feedback on why your c
 
 {% tab title="4" %}
 ### Additional information
+
+At this stage, we will need more information. The scope, risk, and amount requested in the application will determine how much or how little additional information is required. We may only need a few attachments, more budget detail, or we may request that you complete an entirely new additional application. 
+
+You can expect us to contact you with follow-up questions or comments to solicit additional clarifying information; we do this for just about all of the projects we end up supporting. Ideal applicants are specific and cost-conscious in these areas, while drilling down on details that will help make your big-picture idea come to life.
 {% endtab %}
 
 {% tab title="5" %}
