@@ -1,5 +1,41 @@
 # Decision process
 
+
+
+{% tabs %}
+{% tab title="One" %}
+## You apply
+{% endtab %}
+
+{% tab title="Two" %}
+## Team review
+{% endtab %}
+
+{% tab title="Three" %}
+Initial determination
+{% endtab %}
+
+{% tab title="Four" %}
+
+{% endtab %}
+
+{% tab title="Five" %}
+
+{% endtab %}
+
+{% tab title="Six" %}
+
+{% endtab %}
+
+{% tab title="Seven" %}
+S
+{% endtab %}
+
+{% tab title="Eight" %}
+
+{% endtab %}
+{% endtabs %}
+
 <table>
   <thead>
     <tr>
@@ -33,35 +69,26 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <ul>
-          <li>The process begins as soon as you submit an application.</li>
-        </ul>
-      </td>
-      <td style="text-align:left">
-        <ul>
-          <li>After the application round deadline has passed, we will begin our internal
-            review process.</li>
-        </ul>
-      </td>
+      <td style="text-align:left">The process begins as soon as you submit an application.</td>
+      <td style="text-align:left">After the application round deadline has passed, we will begin our internal
+        review process.</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p></p>
-        <ul>
-          <li>A a diverse array of external subject matter experts will review your
-            application.</li>
-          <li>You will receive another determination with their feedback.</li>
-        </ul>
+        <p>A a diverse array of external subject matter experts will review your
+          application.</p>
+        <p></p>
+        <p>You will receive another determination with their feedback.</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p></p>
-        <ul>
-          <li>Documentation drafted by our legal team</li>
-          <li>Documentation sent for review and signature</li>
-          <li>Partnership can begin</li>
-        </ul>
+        <p>Documentation drafted by our legal team</p>
+        <p></p>
+        <p>Documentation sent for review and signature</p>
+        <p></p>
+        <p>Partnership can begin</p>
       </td>
       <td style="text-align:left"></td>
     </tr>
