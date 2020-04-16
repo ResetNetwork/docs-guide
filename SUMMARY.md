@@ -12,5 +12,6 @@
   * [The application video](topical-guidance/video.md)
   * [Overhead costs](topical-guidance/overhead-costs.md)
   * [Information controls](topical-guidance/information-controls.md)
+  * [The honorarium](topical-guidance/the-honorarium.md)
 * [Give us feedback](give-us-feedback.md)
 
