@@ -4,8 +4,8 @@ Flash grants are an experimental opportunity we offer qualifying applicants. The
 
 We are currently testing two types of flash grants:
 
-* Collaborative flash grants
-* Referral flash grants
+* [Collaborative flash grants](https://guide.reset.tech/fund-guidelines/flash-grants#collaborative-flash-grants)
+* [Referral flash grants](https://guide.reset.tech/fund-guidelines/flash-grants#referral-flash-grants)
 
 ## Why are we doing this?
 
