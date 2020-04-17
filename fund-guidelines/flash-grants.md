@@ -12,7 +12,7 @@ We are experimenting with two types of flash grants:
 To participate in both, you must:
 
 * Submit a complete application to one of our open calls;
-* _**NOT**_ opt-out of sharing application information with other applicants when submitting their application;
+* _**NOT**_ opt-out of sharing application information with other applicants when submitting your application;
 * Be the point of contact for an application we determined was within our remit; and,
 * Be the point of contact for an application no older than 1 year.
 
