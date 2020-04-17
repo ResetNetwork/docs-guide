@@ -20,8 +20,8 @@ To accomplish our above stated aim, our open calls prioritize technology-focused
 
 To accomplish our goals, with our open calls we continually work to:
 
-* **Distribute more resources:** Increase what is available ensure its redistributed to as many aligned people and partners as possible.
-* **Evolve the platform:** Better facilitate the exchange of knowledge, funds, and other resources by improving and expanding the open call offering.
+* **Distribute more resources:** Increase what is available and ensure its redistributed to as many aligned people and partners as possible.
+* **Evolve the platform:** Better facilitate the exchange of knowledge, funds, and other resources by improving and expanding our open call offerings.
 * **Maintain awareness:** Create and make available open opportunities for learning and sharing back.
 * **Fortify the field:** Further enable the ecosystem of people, institutions, organizations, projects, and communities to respond and persist.
 * **Grow community:** Ensure our good-standing by being a good actor within the communities and fields we rely upon.
