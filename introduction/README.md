@@ -16,7 +16,7 @@ Our open calls allow us to be a node within a larger network, providing us a uni
 
 ## Strategy as an iterative design process
 
-Our organization-wide strategy is a ongoing evolving process. The experience of operating open calls and the knowledge gained from reviewing applications is significant catalyst of change to that strategy. The two-month rhythm of our [decision process](../decision-process.md#when-to-apply) provides us a fixed, regularly repeating opportunity to factor in data from applicant feedback, information from new applications, and updates from current partners. The learning of this new knowledge creates a forcing-function to refactor our open call and organization wide strategy every two months, coinciding with the previous round of processed applications.
+Our organization-wide strategy is a ongoing evolving process. The experience of operating open calls and the knowledge gained from reviewing applications is significant catalyst of change to that strategy. The two-month rhythm of our [decision process](../decision-process/#when-to-apply) provides us a fixed, regularly repeating opportunity to factor in data from applicant feedback, information from new applications, and updates from current partners. The learning of this new knowledge creates a forcing-function to refactor our open call and organization wide strategy every two months, coinciding with the previous round of processed applications.
 
 
 

@@ -6,11 +6,11 @@ description: >-
 
 # Decision process
 
-Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](introduction/goals-objectives.md), are the [types of work](introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](introduction/principles-values.md).
+Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../introduction/goals-objectives.md), are the [types of work](../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../introduction/principles-values.md).
 
 We make different types and sizes of investment and funding, depending on the opportunity. This helps us build an exciting and diverse portfolio of partners from around the world.
 
-We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](give-us-feedback.md) as we are constantly looking for ways to improve our process.
+We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](../give-us-feedback.md) as we are constantly looking for ways to improve our process.
 
 ## When to Apply
 
