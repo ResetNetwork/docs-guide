@@ -23,7 +23,7 @@ We believe the knowledge and experience you provide us through your application 
 
 ### Defined by our network
 
-We believe the lasting impact we make will be defined by the individual nodes in our network, how we were able to positively change them, and they us.
+We believe the lasting impact we make will be defined by the individual nodes in our network, each node's agency to expand the network by making new and diverse connections, the positive change for each we are able to support, and then how they positively change us.
 
 ## Who can participate?
 
