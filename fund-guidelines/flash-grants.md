@@ -1,6 +1,6 @@
 # Flash grants
 
-Flash grants are an experimental opportunity we offer qualifying applicants. They are very much inspired by and directly modeled from Shuttleworth Foundation's own successful flash grant program.
+Our flash grant program is an experiment very much inspired by and directly modeled from Shuttleworth Foundation's own successful [flash grant program](https://www.shuttleworthfoundation.org/fellows/flash-grants/). They are one of the ways we are "[reimagining philanthropy](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119)". 
 
 We are currently testing two types of flash grants:
 
