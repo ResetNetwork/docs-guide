@@ -58,7 +58,7 @@ Yes but, Reset places high priority on funding the creation or ongoing support o
 ## Does Reset support overhead costs?
 
 {% hint style="info" %}
-Reset generally does not support standalone costs which are not directly associated with the completion of contractually stated objectives or deliverables. In the very limited instances where Reset determines that an overhead cost is permissible, such costs cannot be greater than 10% of the overall project cost. See our [guidance](topical-guidance/overhead-costs.md) for more information.
+Reset generally does not support standalone costs which are not directly associated with the completion of contractually stated objectives or deliverables. In the very limited instances where Reset determines that an overhead cost is permissible, such costs cannot be greater than 10% of the overall project cost. See our [guidance]() for more information.
 {% endhint %}
 
 ## Do I have to include an attachment with my application?
@@ -71,5 +71,11 @@ Attaching a resume or CV is required for first time applicants. If you’re appl
 
 {% hint style="info" %}
 Please note that English is the language of record for all applications, and those submitted in other languages may not be reviewed as competitively as those submitted in English.
+{% endhint %}
+
+## Do I own my work?
+
+{% hint style="info" %}
+Yes! We encourage collaboration and prioritize openness with the Reset network of partners and the public, but you’ll own the work you do as part of the work we support. We will work with on a disclosure strategy for any original findings. Be aware, we’re looking for applicants who share our desire to advance civil societies understanding. Therefore we will always ask applicants to make new methodologies, tools, other code, and findings they develop as part of their support an open source license—so Reset, the general public, others in the public interest tech ecosystem can benefit from a growing set of shared resources.
 {% endhint %}
 

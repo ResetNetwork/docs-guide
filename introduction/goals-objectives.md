@@ -5,7 +5,7 @@ description: >-
   democracy, and open societies.
 ---
 
-# Goals & Objectives
+# Goals & objectives
 
 ## Goals
 
@@ -26,13 +26,4 @@ To accomplish our goals, with our open calls we continually work to:
 * **Fortify the field:** Further enable the ecosystem of people, institutions, organizations, projects, and communities to respond and persist.
 * **Grow community:** Ensure our good-standing by being a good actor within the communities and fields we rely upon.
 * **Protect the network:** Maintain a productive, enriching, and safe network of supported people and partners.
-
-## Type of work
-
-The following lists the type of work we support to mitigate the harms and challenges created by surveillance capitalism. Ideal applications always fit within one of these types of work:
-
-* **Policy/Advocacy:** The global development and advancement of a public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
-* **Research:** Networks of researchers studying the interplay between democracy and technology, with the aim of informing current policy debates, creating better technology, and improving civic engagement.
-* **Technology:** The design and implementation of both existing and new tools that support in-depth research, activist engagement, educational insights, and viable virtuous alternatives to the dominate exploitative platforms.
-* **Civic engagement:** Those working to educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 

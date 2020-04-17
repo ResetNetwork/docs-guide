@@ -8,10 +8,10 @@
   * [A shared commitment](introduction/shared-commitment.md)
 * [FAQ](faq.md)
 * [Decision process](decision-process.md)
+* [Fund guidelines](fund-guidelines/README.md)
+  * [Fellowships](fund-guidelines/fellowships.md)
+  * [Flash Grants](fund-guidelines/flash-grants.md)
 * [Topical guidance](topical-guidance/README.md)
-  * [The application video](topical-guidance/video.md)
-  * [Overhead costs](topical-guidance/overhead-costs.md)
   * [Information controls](topical-guidance/information-controls.md)
-  * [The honorarium](topical-guidance/the-honorarium.md)
 * [Give us feedback](give-us-feedback.md)
 
