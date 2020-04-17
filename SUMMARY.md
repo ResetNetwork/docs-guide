@@ -11,7 +11,7 @@
   * [Reviewers](decision-process/reviewers.md)
 * [Fund guidelines](fund-guidelines/README.md)
   * [Fellowships](fund-guidelines/fellowships.md)
-  * [Flash Grants](fund-guidelines/flash-grants.md)
+  * [Flash grants](fund-guidelines/flash-grants.md)
 * [Topical guidance](topical-guidance/README.md)
   * [Information controls](topical-guidance/information-controls.md)
 * [Give us feedback](give-us-feedback.md)
