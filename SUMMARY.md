@@ -8,7 +8,7 @@
   * [A shared commitment](introduction/shared-commitment.md)
 * [FAQ](faq.md)
 * [Decision process](decision-process/README.md)
-  * [Reviewers](decision-process/reviewers.md)
+  * [Advisors and partners](decision-process/reviewers.md)
 * [Fund guidelines](fund-guidelines/README.md)
   * [Fellowships](fund-guidelines/fellowships.md)
   * [Flash grants](fund-guidelines/flash-grants.md)
