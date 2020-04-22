@@ -14,7 +14,7 @@ We always aim to be transparent about how we invest, so we’ve outlined the eig
 
 ## When to Apply
 
-Most of open calls accept applications on a rolling basis. There will always be at least open call that is always open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
+Most of open calls accept applications on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
 
 ## Stages
 

@@ -31,9 +31,9 @@ The fund’s values are **Change, Collaboration, Results, Efficiency, Diversity,
 * **Diversity:** We are committed to creating an environment where all voices feel valued, included, and are empowered to bring their perspectives to the table and have agency in solutions. Not only are we committed to taking on that challenge, but we will strive to better support underrepresented voices in the communities we support through a variety of means.
 * **Transparency:** We strive to be open about as many things as possible, to share openly all possible aspects of our work, including what and how we learned and did it, with the public, and other stakeholders, in a non-competitive fashion. In this, we practice the doctrine of open philanthropy, governance, reduce the threshold for others to contribute, and to make collaboration easier.
 
-### Hierarchy
+### Values can be prioritized 
 
-Occasionally, values can contradict each other. For instance, transparency would dictate we publish all applications publicly the moment they are submitted, but this could jeopardize the effect and impact of the applicants work. It's useful to keep in mind this hierarchy to resolve confusion about what to do in a specific circumstance, while remaining consistent with our core values.
+Occasionally, values can contradict each other. For instance, transparency would dictate we publish all applications publicly the moment they are submitted, but this could jeopardize the effect and impact of the applicants work. It is useful to keep in mind this nuance to resolve confusion about what to do in a specific circumstance, while remaining broadly consistent with our values.
 
 | Values |  |  | Why in this order |
 | :--- | :--- | :--- | :---: |
@@ -41,9 +41,9 @@ Occasionally, values can contradict each other. For instance, transparency would
 | **Change** | **Transparency** | \*\*\*\* | _We trust these values will lead to better results_ |
 | **Efficiency** | **Collaboration** | **Diversity** | _These values distinguish applicants and us to others_ |
 
-Reflecting on values in any given context requires accepting nuance over thinking in absolutes. If one believes values-based decisions are binary or zero sum, coming to a decision will not go well, or work out at all. Our value hierarchy is an attempt to relieve at least some of the tension. It won't preempt every debate, but it helps. There will always be interpretation, there's always magnitude to consider, and that is welcome.
+Reflecting on values in any given context requires accepting nuance rather than thinking in absolutes. If one believes values-based decisions are binary or zero sum, coming to a decision will not go well, or work out at all. Importantly, even this order of priority is not absolute. Each context will determine which values are the most important. Setting a default priority of values is an attempt to relieve at some of the tension at the start. It will not preempt or direct every debate, but it helps everyone know where we are coming from. There will always be interpretation, there is always magnitude to consider, and that is welcome.
 
-We maintain a hierarchy so that it's clear, in the end, the result matters most. For instance, we're not going to be transparent or diverse for the sake of it. We're not radical or trying to virtue signal these values. We do it because we think and see that it leads to better outcomes.
+We maintain an awareness that values are not always held equally so that it is clear, in the end, which matters most in any given context. For instance, we are not going to be transparent or diverse for the sake of it. We are not radical or trying to virtue signal these values. We do it because evidence supports working openly, improving diversity, and being inclusive leads to better outcomes.
 
 ### How we reinforce these values
 
