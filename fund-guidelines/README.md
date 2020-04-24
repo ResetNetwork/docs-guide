@@ -76,7 +76,11 @@ In even more limited instances where Reset decides to give a core or general ope
 
 ## The application video
 
-In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project.
+In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project. This is not required. This question is an opportunity for applicants to humanize the submission process. The effort required to review received number of applications in a timely way rarely provides the opportunity to engage applicants face-to-face during our review process. 
+
+We acknowledge the concerns raised in asking this question: anxiety, bias, awkward, time, etc. If you think the video is an opportunity to highlight something in your application not easily conveyed elsewhere, include one. If not, do not include a video.
+
+Below are some recommendations to follow if you are considering a video for your application.
 
 **The video should be 1 minute long and should contain nothing except you or others talking.** 
 
