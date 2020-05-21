@@ -12,11 +12,11 @@ Through our website and open calls, we maintain an open exchange for the network
 
 ## Knowledge sharing
 
-Our open calls allow us to be a node within a larger network, providing us a unique holistic vantage point and an hone our ability to curate what is most important to our goals. We are in-turn relied upon and trusted for the utility of this curated technology-centric view of the surveillance capitalism landscape’s emergent properties and patterns, ecosystems, and networks within, and those nodes in the weeds. We consider this an asset of value, made available from the trust of those in the network who share with us, and have a duty to responsibly redistribute what we have back out to the field.
+Our open calls allow us to be a node within a larger network, providing us a unique holistic vantage point and hone our ability to curate what is most important to our goals. We are in-turn relied upon and trusted for the utility of this curated technology-centric view of the surveillance capitalism landscape’s emergent properties and patterns, ecosystems, and networks within, and those nodes in the weeds. We consider this an asset of value, made available from the trust of those in the network who share with us, and have a duty to responsibly redistribute what we have back out to the field.
 
 ## Strategy as an iterative design process
 
-Our organization-wide strategy is a ongoing evolving process. The experience of operating open calls and the knowledge gained from reviewing applications is significant catalyst of change to that strategy. The two-month rhythm of our [decision process](../decision-process/#when-to-apply) provides us a fixed, regularly repeating opportunity to factor in data from applicant feedback, information from new applications, and updates from current partners. The learning of this new knowledge creates a forcing-function to refactor our open call and organization wide strategy every two months, coinciding with the previous round of processed applications.
+Our organization-wide strategy is an ongoing evolving process. The experience of operating open calls and the knowledge gained from reviewing applications is a significant catalyst of change to that strategy. The two-month rhythm of our [decision process](../decision-process/#when-to-apply) provides us a fixed, regularly repeating opportunity to factor in data from applicant feedback, information from new applications, and updates from current partners. This new knowledge creates a forcing-function to refactor our open call and organization wide strategy every two months, coinciding with the previous round of processed applications.
 
 
 
