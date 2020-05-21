@@ -9,24 +9,27 @@ description: Frequently Asked Questions
 {% hint style="info" %}
 The following lists the type of work Reset supports:
 
-* **Policy/Advocacy:** The global development and advancement of a public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
-* **Research:** Networks of researchers studying the interplay between democracy and technology, with the aim of informing current policy debates, creating better technology, and improving civic engagement.
-* **Technology:** The design and implementation of both existing and new tools that support in-depth research, activist engagement, educational insights, and viable virtuous alternatives to the dominate exploitative platforms.
-* **Civic engagement:** Those working to educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
+* **Policy & Advocacy:** Develop and advance a global public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
+{% endhint %}
+
+{% hint style="info" %}
+* **Research:** Study the ways in which technology is harming democracy, how this harm can be reversed by creating better technology, and how to design more effective legal and regulatory systems.
+* **Technology:** Design and implement both existing and new tools that support in-depth research, activist engagement and educational insights into surveillance commerce and digital threats to democracy, and viable virtuous alternatives to dominant exploitative platforms.
+* **Civic engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 {% endhint %}
 
 ## Does Reset support projects, individuals, or both?
 
 {% hint style="info" %}
-Reset does not have any requirements regarding an applicant’s status - whether for-profit, nonprofit, or a single individual, located inside or outside the United States, the United Kingdom, or the EU so long as the proposed effort fits within the aims of our open call, goals, and focus areas, it may be considered.
-
-Reset supports both individuals and projects through several different funding mechanisms. See [www.reset.tech](https://www.reset.tech/open-calls) for available options.
+Reset does not have any requirements regarding an applicant’s status - whether for-profit, nonprofit, or a single individual so long as the proposed effort fits within the aims of our Open Call, goals, and focus areas, it may be considered.  A consortia of multiple people or organisations with one individual or organisation designated as the lead applicant are all welcome to apply. Applicants may be located in or organized under the laws of any country, except for any country on which the United States, the United Kingdom, or the European Union has imposed trade restrictions or export sanctions.
 {% endhint %}
+
+
 
 ## Does my project sound like something Reset would support?
 
 {% hint style="info" %}
-Reset encourages any potential applicant to first explore Reset’s [**areas of work**](https://www.reset.tech/work/). If it sounds like your project might be a good fit, you’ll want to identify which [**fund or fellowship**](https://www.reset.tech/open-calls/) is most appropriate for you. From there, submitting a concept note is the best next step.
+Reset encourages any potential applicant to first explore Reset’s [**areas of work**](https://www.reset.tech/work/). If it sounds like your project might be a good fit, you’ll want to identify which [**fund or fellowship**](https://www.reset.tech/open-calls/) is most appropriate for you. From there, ensure that you meet the eligibility requirements and submit an application in response to an existing open call. Note that approval is not guaranteed.
 {% endhint %}
 
 ## When does Reset accept applications? When are the deadlines?
