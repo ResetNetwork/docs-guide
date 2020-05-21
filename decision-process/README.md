@@ -8,13 +8,11 @@ description: >-
 
 Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../introduction/goals-objectives.md), are the [types of work](../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../introduction/principles-values.md).
 
-We make different types and sizes of investment and funding, depending on the opportunity. This helps us build an exciting and diverse portfolio of partners from around the world.
-
 We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](../give-us-feedback.md) as we are constantly looking for ways to improve our process.
 
 ## When to Apply
 
-Most of open calls accept applications on a rolling basis. There will always be at least one open call that is always open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.
+Applications for all our Open Calls are accepted on a rolling basis. There will always be at least one open call that is always open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.  If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
 
 ## Stages
 
@@ -47,7 +45,7 @@ We conduct an assessment of the application. This may include speaking to partne
 
 Once we have had a chance to review your application, we will come to our initial determination.
 
-If we decline your application, we will provide you with feedback on why your concept was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application.
+If we decline your application, we will provide you with feedback on why your application was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application.
 
 If we are continuing to consider your application, you will receive an initial determination message from our submission system with next steps for us to gather additional information from you. In limited cases, we may ask narrow clarifying questions to make our initial determination.
 {% endtab %}
@@ -81,17 +79,17 @@ Upon completion of this stage, we will inform you whether your application has b
 {% tab title="7" %}
 ### Legal review
 
-* Documentation drafted by our legal team
-* Documentation sent for review and signature
-* Partnership can begin
+* The performance-based contract or funding agreement, as applicable, is drafted by our legal team
+* The performance-based contract or funding agreement, as applicable, is sent for your review and signature
+* Project can begin
 
-Once we have finalized approvals and the terms of the investment or grant, including agreeing structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for review and signature – and the partnership can begin.
+Once we have finalized approvals and the terms of the contract or funding agreement, including agreeing structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for review and signature – and the project can begin.
 {% endtab %}
 
 {% tab title="8" %}
 ### Oversight
 
-Once a partnership begins, we look forward to working closely with the organisation, company, project, or fellow and providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. Partners will work this team member to determine how best we can help moving forward. We encourage open communication, will schedule regular catch-ups, and agree on a regular reporting structure.
+Once the project begins, we look forward to working closely with the organization or individual to providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. We encourage open communication, will schedule regular catch-ups, and agree on a regular reporting structure.
 {% endtab %}
 {% endtabs %}
 
