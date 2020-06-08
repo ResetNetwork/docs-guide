@@ -2,9 +2,9 @@
 
 * [Our Guide to Open Calls](README.md)
 * [Introduction](introduction/README.md)
+  * [How we see the world](introduction/how-we-see-the-world.md)
   * [Goals & objectives](introduction/goals-objectives.md)
   * [Principles & values](introduction/principles-values.md)
-  * [How we see the world](introduction/how-we-see-the-world.md)
   * [A shared commitment](introduction/shared-commitment.md)
 * [FAQ](faq.md)
 * [Decision process](decision-process/README.md)
