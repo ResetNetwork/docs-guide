@@ -13,7 +13,7 @@ Those that align with our [**Goals**](https://guide.reset.tech/introduction/goal
 ## What do we mean when we say an application is in or out of scope and competitive or not? 
 
 {% hint style="info" %}
-These are terms we use when we do our [initial review](https://guide.reset.tech/decision-process#team-review) applications in a round. We call this stage in the workflow screening and these terms are screening statuses applied to all applications in a round.
+These are terms we use to classify applications when we do our [initial review](https://guide.reset.tech/decision-process#team-review) for a recently closed round. We call this stage in the workflow screening and these designations are called screening statuses. They are applied to all applications.
 
 **In Scope** means we have identified an application to be aligned with one or more of our [_Goals_](https://guide.reset.tech/introduction/goals-objectives#goals)_,_ conducting activities that fit within one or more of the [_Types of Work_](https://guide.reset.tech/introduction/goals-objectives#types-of-work) we support, and meeting any additional criteria specific to the particular open call applied for. **Out of Scope** means we have not identified an application in this way.
 
