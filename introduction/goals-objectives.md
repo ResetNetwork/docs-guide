@@ -27,3 +27,12 @@ To accomplish our goals, with our open calls we continually work to:
 * **Grow the network:** Ensure there are clear protocols to follow for healthy expansion and agency at the edges for new connections; and,
 * **Protect the network:** Maintain a productive, enriching, and safe network of good-standing people and organizations who are our partners.
 
+## Types of work
+
+To accomplish our objectives and goals, Reset conducts and supports activities within the following types of work:
+
+* **Policy & Advocacy:** Progressing the development and advancement of global public policy agendas that set fair rules and standards for Big Tech companies, ensuring they better serve democracy.
+* **Research:** Furthering the study of how technology is harming democracy, how this can be reversed by creating better technology, and how to design effective legal and regulatory systems.
+* **Technology:** Advancing the design and implement both existing and new tools that support in-depth research, activist engagement, and educational insights into surveillance commerce and digital threats to democracy, and viable virtuous alternatives to the dominant exploitative platforms.
+* **Civic engagement:** Educating the public about the problems caused by digital threats to democracy and the subversion of the internet.
+
