@@ -4,11 +4,11 @@ description: This guide is designed for anyone considering applying to a Reset o
 
 # Our Guide to Open Calls
 
-{% embed url="https://hello@reset.tech" %}
+{% embed url="https://hello@reset.tech" caption="" %}
 
 If you are thinking of to applying to a [**Reset open call**](https://wwww.reset.tech/open-calls/) for funding, you are in the right place.
 
-Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page. 
+Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page.
 
 If you only have time to read one thing, check out our [FAQ](faq.md)
 
@@ -22,7 +22,9 @@ This guide is designed to act as a starting point for understanding the goals of
 
 ## Always changing
 
-This guide is a living document. Much of the information found here here is informed by the numerous inquiries sent our way by curious would-be applicants, those who we dismissed, and those we awarded. If you came here with a question and you find your answer, it is thanks to them. In that spirit, we welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. We want your [feedback](give-us-feedback.md). Feel free to comment directly within the guide as reach out to us in whatever way is best for you.
+This guide is a living document. Much of the information found here is informed by the numerous inquiries sent our way by curious would-be applicants, those who we dismissed, and those we awarded. If you came here with a question and you find your answer, it is thanks to them. In that spirit, we welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. We want your [feedback](give-us-feedback.md). Feel free to comment directly within the guide as reach out to us in whatever way is best for you.
 
 ## Acknowledgement & appreciation
-Our open calls modelled and inspired by the successful [Open Technology Fund](https://www.opentech.fund/), [Data & Society](https://datasociety.net/initiatives/fellows-program/), [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/fellowships/), [New Media Ventures](https://www.newmediaventures.org/), [Indela](https://indela.fund), and [others](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) committed to open-calls. Thank you all.
+
+Our Open Calls modeled and inspired by the successful [Open Technology Fund](https://www.opentech.fund/), [Data & Society](https://datasociety.net/initiatives/fellows-program/), [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/fellowships/), [New Media Ventures](https://www.newmediaventures.org/), [Indela](https://indela.fund), and [others](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) committed to open-calls. Thank you all.
+
