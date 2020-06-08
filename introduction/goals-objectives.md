@@ -11,7 +11,7 @@ description: >-
 
 To accomplish our above stated aim, our open calls support technology-focused interventions with clear human-centered benefits for those negatively affected by surveillance capitalism. Everything we support or do ourselves first advances this and then fits within one or more of our goals, objectives, and the type of work we focus on. Starting with our goals, we strive to support efforts that:
 
-* **Improve the** _**integrity**_ **of democracy in our digital age:** by upholding and increasing the trust of our current governments, press, and other institutions critical of democratic processes;
+* **Improve the** _**integrity**_ **of democracy in our digital age:** by intervening directly with governments, press, and other institutions responsible for the trust and health of current democracies;
 * **Enhance digital** _**protections**_ **available to individuals:** by giving them the power to thwart surveillance capitalism’s ability to pervade;
 * **Raise** _**awareness**_ **on the state of surveillance capitalism:** by illuminating threats and opportunities.
 * **Stimulate the growth of virtuous** _**alternatives**_**:** by exploring better policy creation and money making models.
