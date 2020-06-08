@@ -7,7 +7,7 @@ description: Frequently Asked Questions
 ## **What types of efforts does Reset support?**
 
 {% hint style="info" %}
-Most importantly, those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals). Next, those whose activities fall within one of the [**Types of Work**](https://guide.reset.tech/introduction/goals-objectives#types-of-work) we support. 
+Those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****whose activities fall within one of the [**Types of Work**](https://guide.reset.tech/introduction/goals-objectives#types-of-work). 
 {% endhint %}
 
 ## What do we mean when we say an application is in or out of scope and competitive or not? 
