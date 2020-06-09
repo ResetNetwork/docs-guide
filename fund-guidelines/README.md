@@ -123,8 +123,6 @@ We regularly give up 10 seconds into a video because we can’t stand the random
 
 Make sure you can hear what you are saying. A significant fraction of the videos we get are inaudible. If you’re going to apply at all, you may as well apply with a video we can hear.
 
-## 
-
 ## **Review criteria**
 
 The following is a list of criteria Reset uses to evaluate all applications:
