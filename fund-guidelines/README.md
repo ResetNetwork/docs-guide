@@ -81,7 +81,7 @@ In even more limited instances where Reset decides to give a core or general ope
 
 ## The honorarium
 
-
+Coming soon :-/
 
 ## The application video
 
@@ -168,6 +168,10 @@ Monitoring and evaluation assessments are largely based on predetermined and agr
 Applicants and partners in our network must share our vision, strive to uphold our principles and values, and hold us accountable by providing us feedback, especially if that feedback is critical.
 
 ## Terms & conditions
+
+* [Data use policy for applicants to reset.tech](https://www.reset.tech/data-use-policy-applicants/)
+* [Data & privacy policy for reset.tech](https://www.reset.tech/data-privacy-policy/)
+* [Terms of use for reset.tech](https://www.reset.tech/terms-of-use/)
 
 
 
