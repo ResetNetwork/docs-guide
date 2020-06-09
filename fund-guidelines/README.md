@@ -53,7 +53,7 @@ We encourage individual applications from independent scholars and individuals e
 
 In a bid to empower a new pool of talent, Reset will prioritise projects coming from individuals or organisations who are new to the digital rights community, identify as under-represented within related fields, and are requesting less than $300,000 for efforts within a 12-month duration or less.
 
-Applicants that are already receiving support from other Omidyar Group organisations are eligible for an award from an Open Call. Generally, applicants who are new will be considered more competitive. 
+Applicants already receiving support or known to other [Omidyar Group](https://www.omidyargroup.com/organizations/) organisations are eligible for Open Call awards. That said, applicants new to us will generally be considered more competitive.
 
 ## Target beneficiaries
 
