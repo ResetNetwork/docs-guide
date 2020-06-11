@@ -8,7 +8,7 @@ description: >-
 
 ## Conflict of interest disclosure
 
-In line with our[ policy](https://guide.reset.tech/for-reviewers/conflict-of-interest-policy-for-reviewers), please disclose here if you have any financial interest or fiduciary relationship with the applicant or organisation\(s\) the applicant is affiliated with – this includes, but is not limited to, the receipt or holding of honoraria; educational grants; membership; employment; consultancies; stock ownership or other equity interests; and expert testimony or patent-licensing arrangements.
+In line with our[ **policy**](https://guide.reset.tech/for-reviewers/conflict-of-interest-policy-for-reviewers), please disclose here if you have any financial interest or fiduciary relationship with the applicant or organisation\(s\) the applicant is affiliated with – this includes, but is not limited to, the receipt or holding of honoraria; educational grants; membership; employment; consultancies; stock ownership or other equity interests; and expert testimony or patent-licensing arrangements.
 
 Personal or professional relationships with the applicant or organisations the applicant is affiliated with which are non-financial and non-fiduciary in nature do not need to be disclosed. If you are unsure of the nature of your relationship with an application or organisation the applicant is affiliated with, please disclose it here.
 
