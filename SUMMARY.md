@@ -23,6 +23,7 @@
 
 * [Evaluation worksheet](for-reviewers/evaluation-worksheet.md)
 * [General application considerations](for-reviewers/general-application-considerations.md)
+* [Conflict of interest policy for reviewers](for-reviewers/conflict-of-interest-policy-for-reviewers.md)
 
 ## For the team
 
