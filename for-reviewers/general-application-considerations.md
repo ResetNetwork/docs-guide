@@ -4,22 +4,22 @@ description: A deeper dive on the common considerations for reviewers.
 
 # General application considerations
 
-## Contribution and Relevance to Reset Goals and Principles
+## Contribution and relevance to Reset goals and principles
 
-### Organizational Profile
+### Organizational profile
 
 * Where is the organization physically and legally based?
 * If the organization is distributed, where is the main point of contact?
 * Does the organization have any conflicts of interest with Reset, the Advisory Council, Review Board, or other supported projects?
 * Is the project team an organization, community or an individual?
 
-### Organizational Culture
+### Organizational culture
 
 * Is the organization or its members already known to our network or within any relevant communities? If yes, what is their reputation and why?
 * What is the applicant and/or organization’s motivation and principles?
 * What are the applicant and/or organization’s motivation and principles?
 
-### Project Profile
+### Project profile
 
 * What are the goals and objectives of the project?
 * Is it a technology research, development, or deployment project?
@@ -32,7 +32,7 @@ description: A deeper dive on the common considerations for reviewers.
 * What is complementary and can it be explained clearly? I.e. geographic focus, technology, organization profile, etc.
 * What are the liabilities and risks of taking on this project? I.e. political personalities, financial concerns, technical controversial, etc.
 
-### Human-Centered / Demand-side Focus
+### Human-centered / Demand-side focus
 
 * How does the project define its “users”?
 * Is the project’s effort actually relevant to its defined users?
@@ -46,14 +46,14 @@ description: A deeper dive on the common considerations for reviewers.
 * How is the project localized?
 * How is the project representative of those it intended to help and is it appropriate? What experience does the project have with those it intends to help?
 
-### Evaluation Criteria
+### Evaluation criteria
 
 * Does the project measure success quantitatively or qualitatively?
 * If not, then how would the project demonstrate success? I.e. Does the project have potential quantitative or qualitative metrics?
 * Is there a road-map for the project? Is it public/open? If not, why?
 * Does Reset have the capacity to comprehend and manage the project?
 
-## Technical Merit
+## Technical merit
 
 * Does the project clearly articulate the technical problem, solution, and approach?
 * How is the problem clearly justifiable?
@@ -68,7 +68,7 @@ description: A deeper dive on the common considerations for reviewers.
 * What are the unintended or illicit uses and consequences of this technology?
 * Has the project identified and/or developed any safeguards for these consequences?
 
-### Technical Human Capacity 
+### Technical human capacity 
 
 * How many technologists are actively supporting the project?
 * How many of the original technologists are still with the project?
@@ -76,12 +76,12 @@ description: A deeper dive on the common considerations for reviewers.
 * If more people are needed, how do you plan on obtaining the additional technical expertise?
 * What other responsibilities and commitments do project technologists have?
 
-### Technical Assets 
+### Technical assets 
 
 * Is there any existing project code or technical assets?
 * Is the existing code or technical assets proof of concept, academic, or production quality?
 
-### Technical Evaluation
+### Technical evaluation
 
 * How does this technical approach and solution contribute to the larger technical community? And how is it measured?
 * How does the project make the technical development process visible?
