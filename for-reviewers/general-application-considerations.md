@@ -4,7 +4,7 @@ description: A deeper dive on the common considerations for reviewers.
 
 # General application considerations
 
-## Potential Contribution and Relevance to Reset Goals and Principles
+## Contribution and Relevance to Reset Goals and Principles
 
 ### Organizational Profile
 
