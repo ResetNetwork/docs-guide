@@ -6,6 +6,20 @@ description: >-
 
 # Evaluation worksheet
 
+## Conflict of interest disclosure
+
+In line with our[ policy](https://guide.reset.tech/for-reviewers/conflict-of-interest-policy-for-reviewers), please disclose here if you have any financial interest or fiduciary relationship with the applicant or organisation\(s\) the applicant is affiliated with – this includes, but is not limited to, the receipt or holding of honoraria; educational grants; membership; employment; consultancies; stock ownership or other equity interests; and expert testimony or patent-licensing arrangements.
+
+Personal or professional relationships with the applicant or organisations the applicant is affiliated with which are non-financial and non-fiduciary in nature do not need to be disclosed. If you are unsure of the nature of your relationship with an application or organisation the applicant is affiliated with, please disclose it here.
+
+### Do you have any conflicts to disclose?
+
+If no such relationship exists please leave the field blank or write “not applicable”.
+
+### Do you confirm that the information provided is true, complete and accurate to the best of your knowledge?
+
+Required checkbox.
+
 ## Specific topics
 
 Reviewers respond to each question using a scoring system on a 1-5 scale, with 1 being ‘poor’ or ‘very weak,’ 5 being ‘excellent’ or ‘very strong,’ and 0 being non-applicable. All of the below are required. In general, those with higher aggregate scores will progress farther in the workflow.
