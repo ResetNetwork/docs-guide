@@ -18,5 +18,12 @@
   * [Flash grants](for-applicants/fund-guidelines/flash-grants.md)
 * [Topical guidance](for-applicants/topical-guidance/README.md)
   * [Information controls](for-applicants/topical-guidance/information-controls.md)
-* [Untitled](for-applicants/untitled.md)
+
+## For Reviewers
+
+* [Untitled](for-reviewers/untitled.md)
+
+## For the team
+
+* [Running an Open Call](for-the-team/running-an-open-call.md)
 
