@@ -22,6 +22,7 @@
 ## For Reviewers
 
 * [Evaluation worksheet](for-reviewers/untitled.md)
+* [General application considerations](for-reviewers/general-application-considerations.md)
 
 ## For the team
 
