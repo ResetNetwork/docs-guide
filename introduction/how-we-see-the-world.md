@@ -12,10 +12,10 @@ At Reset, we're conducting Open Calls because we want to help create an open, in
 
 In arriving at this vision of the future, we hope our Open Calls help ensure a world of:
 
-* _**Technology for good**_: In which the ability to address social challenges with technology-backed solutions is limited only by the bounds of societies' collective knowledge and expertise;
-* _**Unrestricted knowledge**_: In which knowledge is open because it is free for all to use, reuse, and redistribute - without burdensome legal, social, economic, or technological restrictions \(removing longstanding barriers for those who have been historically excluded, underrepresented, or repressed\);
-* _**Openness**_: In which open data, open content, open access, and open source are universal underlying structures supporting better policy, technology, markets, and social norms; and
-* _**Free society**_: In which freedom of thought, expression, and speech \(and without repressive surveillance capitalism\) create limitless opportunities for innovation, replication, and growth.
+* _**Technology for good.**_ In which the ability to address social challenges with technology-backed solutions is limited only by the bounds of societies' collective knowledge and expertise;
+* _**Unrestricted knowledge.**_ In which knowledge is open because it is free for all to use, reuse, and redistribute - without burdensome legal, social, economic, or technological restrictions \(removing longstanding barriers for those who have been historically excluded, underrepresented, or repressed\);
+* _**Openness.**_ In which open data, open content, open access, and open source are universal underlying structures supporting better policy, technology, markets, and social norms; and
+* _**Free society.**_ In which freedom of thought, expression, and speech \(and without repressive surveillance capitalism\) create limitless opportunities for innovation, replication, and growth.
 
 ## Our vision's most pressing threat
 

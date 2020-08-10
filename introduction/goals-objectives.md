@@ -1,8 +1,8 @@
 ---
 description: >-
-  Our open calls support individuals, organizations, and communities addressing
-  the harms surveillance capitalism has on human rights, democracy, and open
-  societies.
+  Our Open Calls support the individuals, organizations, and communities working
+  to address the damage inflicted by surveillance capitalism on human rights,
+  democracy, and open societies.
 ---
 
 # Goals, objectives, & types of work
@@ -29,7 +29,7 @@ To accomplish our goals, with our open calls we continually work to:
 
 ## Types of work
 
-To accomplish our objectives and goals, Reset conducts and supports activities within the following types of work:
+To accomplish our objectives and goals, Reset conducts and supports activities within the following four types of work:
 
 * **Policy & Advocacy:** Progressing the development and advancement of global public policy agendas that set fair rules and standards for Big Tech companies, ensuring they better serve democracy;
 * **Research:** Furthering the study of how technology is harming democracy, how this can be reversed by creating better technology, and how to design effective legal and regulatory systems;
