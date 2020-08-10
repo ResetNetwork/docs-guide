@@ -4,7 +4,7 @@ description: >-
   sub-pages for guidelines specific to individual funds or fellowships.
 ---
 
-# Fund guidelines
+# Fund Guidelines
 
 ## Priorities
 

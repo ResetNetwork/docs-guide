@@ -4,7 +4,7 @@ description: >-
   you.
 ---
 
-# Give us feedback
+# Feedback
 
 ## E-mail
 

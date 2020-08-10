@@ -2,7 +2,7 @@
 description: Frequently Asked Questions
 ---
 
-# FAQ
+# FAQs
 
 ## **What types of efforts does Reset support?**
 

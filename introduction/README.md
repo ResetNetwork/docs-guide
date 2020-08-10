@@ -1,14 +1,17 @@
 ---
 description: >-
-  Here we describe why we are doing open calls, what we hope they accomplish,
-  and our collective commitment while we do this work.
+  In this section of the Guide we describe how we at Reset see the world, why
+  we're holding Open Calls and what we hope they will accomplish, and our
+  collective commitment to applicants and partners.
 ---
 
-# Introduction
+# Overview
 
-## Sustain a platform for open exchange
+Before diving into our vision for the future \(and how we hope our Open Calls help get us there\), we first note three unique aspects of Reset that we believe will be essential to our long-term success.
 
-Through our website and open calls, we maintain an open exchange for the network of practitioners that make up the technology-centered field fighting surveillance capitalism. In this role, our open calls facilitate and coordinate the transfer and redistribution of knowledge and resources. We seeded this work by first populating the network with ideas we have worked on and supported, engaged with those doing the same, and now maintain public our open calls to engage those we do not know.
+## A platform for open exchange
+
+Through our [**website**](https://www.reset.tech/) and [**Open Calls**](https://www.reset.tech/open-calls/), Reset maintains a platform for open exchange that can be utilised by practitioners in the technology-centered field who are fighting surveillance capitalism. In this role, our Open Calls help facilitate and coordinate the transfer and redistribution of knowledge and resources. We seeded this work by first populating the network with ideas we have worked on and supported, engaged with those doing the same, and now maintain public our open calls to engage those we do not know.
 
 ## Knowledge sharing
 

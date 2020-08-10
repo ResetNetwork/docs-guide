@@ -1,29 +1,29 @@
 # Table of contents
 
 * [Reset's Guide to Open Calls](README.md)
-* [Introduction](introduction/README.md)
+* [Overview](introduction/README.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
-  * [Goals & objectives](introduction/goals-objectives.md)
+  * [Goals, objectives, & types of work](introduction/goals-objectives.md)
   * [Principles & values](introduction/principles-values.md)
-  * [A shared commitment](introduction/shared-commitment.md)
-* [Give us feedback](give-us-feedback.md)
+  * [Collective commitment](introduction/shared-commitment.md)
+* [Feedback](give-us-feedback.md)
 
 ## For applicants
 
-* [FAQ](for-applicants/faq.md)
-* [Decision process](for-applicants/decision-process/README.md)
+* [FAQs](for-applicants/faq.md)
+* [Decision Process](for-applicants/decision-process/README.md)
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
-* [Fund guidelines](for-applicants/fund-guidelines/README.md)
+* [Fund Guidelines](for-applicants/fund-guidelines/README.md)
   * [Fellowships](for-applicants/fund-guidelines/fellowships.md)
   * [Flash grants](for-applicants/fund-guidelines/flash-grants.md)
-* [Topical guidance](for-applicants/topical-guidance/README.md)
+* [Topical Guidance](for-applicants/topical-guidance/README.md)
   * [Information controls](for-applicants/topical-guidance/information-controls.md)
 
 ## For Reviewers
 
-* [Evaluation worksheet](for-reviewers/evaluation-worksheet.md)
-* [General application considerations](for-reviewers/general-application-considerations.md)
-* [Conflict of interest policy for reviewers](for-reviewers/conflict-of-interest-policy-for-reviewers.md)
+* [Evaluation Worksheet](for-reviewers/evaluation-worksheet.md)
+* [General Application Considerations](for-reviewers/general-application-considerations.md)
+* [Conflict of Interest Policy for Reviewers](for-reviewers/conflict-of-interest-policy-for-reviewers.md)
 
 ## For the team
 

@@ -4,7 +4,7 @@ description: >-
   for-profit investments to organizations and people.
 ---
 
-# Decision process
+# Decision Process
 
 Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../../introduction/goals-objectives.md), are the [types of work](../../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../../introduction/principles-values.md).
 

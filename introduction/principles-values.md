@@ -6,7 +6,7 @@ description: >-
 
 # Principles & values
 
-The [Goals & Objectives](goals-objectives.md) of our open calls guide our path as we conduct open calls, they set our general direction and what our decisions point to. The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope to create and maintain for all who participate in the open calls and become part of the Reset network. 
+The following principles are the rules we abide by or standards we maintain, that govern our behaviour as we make our day-to-day decisions in the open calls. The following values help to form these principles, they are the qualities or beliefs that define our behaviour or how we conduct ourselves. Together, they form the foundation of the culture we hope to create and maintain for all who participate in the open calls and become part of the Reset network. 
 
 ## Principles
 

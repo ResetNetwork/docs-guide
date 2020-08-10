@@ -1,6 +1,6 @@
-# A shared commitment
+# Collective commitment
 
-## Collective commitment
+## A shared commitment
 
-We ask that applicants and partners in our network share our vision and strive to uphold our [principles and values](principles-values.md) as well as hold us accountable to them by providing us feedback, especially if that feedback is critical. We will do our best to make it as easy as possible to receive.
+We ask that all applicants and partners in our network share our vision and strive to uphold our [principles and values](principles-values.md). In turn, we ask to be held accountable, and encourage those in our network to provide us with [**feedback**](https://guide.reset.tech/give-us-feedback) - especially if it is critical. We will do our best to make it as easy as possible to receive.
 

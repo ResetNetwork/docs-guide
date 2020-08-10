@@ -4,7 +4,7 @@ description: >-
   evaluate applications.
 ---
 
-# Evaluation worksheet
+# Evaluation Worksheet
 
 ## Conflict of interest disclosure
 

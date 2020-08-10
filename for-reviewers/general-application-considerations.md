@@ -2,7 +2,7 @@
 description: A deeper dive on the common considerations for reviewers.
 ---
 
-# General application considerations
+# General Application Considerations
 
 ## Contribution and relevance to Reset goals and principles
 

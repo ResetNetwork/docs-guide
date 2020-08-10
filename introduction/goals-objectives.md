@@ -5,7 +5,7 @@ description: >-
   societies.
 ---
 
-# Goals & objectives
+# Goals, objectives, & types of work
 
 ## Goals
 
