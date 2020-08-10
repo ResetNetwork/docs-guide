@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Our Guide to Open Calls](README.md)
+* [Reset's Guide to Open Calls](README.md)
 * [Introduction](introduction/README.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
   * [Goals & objectives](introduction/goals-objectives.md)

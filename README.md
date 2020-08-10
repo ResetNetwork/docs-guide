@@ -1,30 +1,38 @@
 ---
-description: This guide is designed for anyone considering applying to a Reset Open Call.
+description: This Guide is designed for anyone considering applying to a Reset Open Call.
 ---
 
-# Our Guide to Open Calls
+# Reset's Guide to Open Calls
 
 {% embed url="https://hello@reset.tech" caption="" %}
 
-If you are thinking of applying to a [**Reset Open Call**](https://www.reset.tech/open-calls/) for funding, you are in the right place.
+## Welcome
 
-Use the menu on the left hand side to navigate, or simply click through to the next section via the button at the bottom of this page.
+If you or your organisation are thinking of applying to receive funding from a [**Reset Open Call**](https://www.reset.tech/open-calls/), you are in the right place! It is our hope that this Guide will help you navigate the application process while also providing transparency into our decision-making operations. Along the way, you'll learn why we believe Open Calls are so important to the work that we do.
 
-If you only have time to read one thing, check out our ****[**FAQs**](https://guide.reset.tech/for-applicants/faq).
+First-time visitors should be sure to check out the [**Introduction**](https://guide.reset.tech/introduction) and [**FAQs**](https://guide.reset.tech/for-applicants/faq), as these two sections provide helpful context for navigating the rest of the Guide. Return visitors, or those otherwise pressed for time, can choose to use the menu on the left to jump to a specific topic. Please note, however, that the Guide is structured to be read in sequential order - so if you're able to do so, we think you will be get the most out of reviewing the Guide by simply reading each page and then clicking through to the next section via the button at the end.
 
-## Purpose
+Below, we provide a bit more insight into the Guide itself. But first - a note on [**Reset**](https://www.reset.tech/). Reset is an initiative engaged in programmatic work on technology and democracy. We provide grants and contracts while working alongside partners with a shared policy, technology, and advocacy goal in countries with immediate opportunities for change. We operate internationally to ensure that the commercial interests of Big Tech companies are compatible with the values of robust and resilient democracies. You can learn more about our work [**here**](https://www.reset.tech/work/).
 
-The purpose of this guide is to provide you with all the information you need to successfully submit an application to Reset and to understand why open calls are important to us. Whether you are planning to submit to one of the funds or fellowships, or you are simply curious about how our program works, this guide is for you. Through the sections found on the left, you'll find guidelines both general \(relevant to all our funding mechanisms\) and specific open calls.
+## Inside the Guide
 
-## Inside the guide
+This Guide acts as a starting point for applicants and other interested parties looking to better understand the ins and outs of Reset's Open Call process. Covered information includes:
 
-This guide is designed to act as a starting point for understanding the goals of our open calls, funding criteria, what we look for in an ideal application, choosing the right funding mechanism, how to best structure your application, the application workflows, and other useful pointers about applying to us. In addition to making things more clear for would-be applicants, we hope that by compiling this information publicly, we’re making good on our commitment to openly share all possible aspects of our work as transparently as possible.
+* Open Call goals, 
+* funding criteria, 
+* what we look for in an ideal application, 
+* how to choose the right funding mechanism, 
+* how to best structure an application, 
+* application timing and workflows, and 
+* other useful application tips. 
 
-## Always changing
+In addition to clarifying the process for would-be applicants,  compiling and presenting this information in a public manner also helps us make good on our commitment to act transparently and openly share all possible aspects of our work.
 
-This guide is a living document. Much of the information found here is informed by the numerous inquiries sent our way by curious would-be applicants, those who we dismissed, and those we awarded. If you came here with a question and you find your answer, it is thanks to them. In that spirit, we welcome your feedback, thoughts, and opinions on how to make this guide more useful and relevant to your needs. We want your [feedback](give-us-feedback.md). Feel free to comment directly within the guide as reach out to us in whatever way is best for you.
+## A Living Document
 
-## Acknowledgement & appreciation
+This Guide is always changing - so check back often, and know that your input matters. Much of the information now found in the Guide was informed by the numerous inquiries sent our way by curious would-be applicants. Successful applications, as well as those that we ultimately decline, help shape the process for subsequent rounds and applicants. So, if you came here with a question and find your answer, know that it is thanks to those who came before you. In that spirit, we welcome your [**feedback**](https://guide.reset.tech/give-us-feedback), thoughts, and opinions on how to make this Guide more useful and relevant to your needs. Feel free to comment directly within the Guide, or [**reach out**](https://guide.reset.tech/give-us-feedback) to us in whatever way is best for you.
 
-Our Open Calls modeled and inspired by the successful [Open Technology Fund](https://www.opentech.fund/), [Data & Society](https://datasociety.net/initiatives/fellows-program/), [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/fellowships/), [New Media Ventures](https://www.newmediaventures.org/), [Indela](https://indela.fund), and [others](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) committed to open-calls. Thank you all.
+## Acknowledgement & Appreciation
+
+Reset's Open Calls are inspired by the successful models developed by [Open Technology Fund](https://www.opentech.fund/), [Data & Society](https://datasociety.net/initiatives/fellows-program/), [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/fellowships/), [New Media Ventures](https://www.newmediaventures.org/), [Indela](https://indela.fund), and various [others](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) committed to conducting Open Calls. Thank you all.
 
