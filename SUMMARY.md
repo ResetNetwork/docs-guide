@@ -3,7 +3,7 @@
 * [Reset's Guide to Open Calls](README.md)
 * [Overview](introduction/README.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
-  * [Goals, objectives, & types of work](introduction/goals-objectives.md)
+  * [Goals, objectives, & areas of work](introduction/goals-objectives.md)
   * [Principles & values](introduction/principles-values.md)
   * [Collective commitment](introduction/shared-commitment.md)
 * [Feedback](give-us-feedback.md)
