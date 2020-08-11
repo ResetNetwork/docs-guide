@@ -1,7 +1,7 @@
 ---
 description: >-
-  Below is a list of Frequently Asked Questions (FAQs), which many would-be
-  applicants and partners have asked in the past.
+  In this section of the Guide we address our most Frequently Asked Questions
+  (FAQs), which many would-be applicants and partners have asked in the past.
 ---
 
 # FAQs
@@ -103,6 +103,12 @@ Please note that applications must be submitted in English.
 ## Do I own my work?
 
 {% hint style="info" %}
-Yes! You retain ownership of any intellectual property that you submit to us. In short, what belongs to you stays yours. When you submit an application to Reset, you give us a non-exclusive, perpetual, irrevocable, royalty-free worldwide license to use, host, and store submitted content in whole or in part as outlined in our [**Data Use Policy for Applicants**](https://www.reset.tech/data-use-policy-applicants/). We require applicants to make new methodologies, tools, other code, and findings they develop available through an open-source license so that Reset, the general public, others in the public interest tech ecosystem can benefit from a growing set of shared resources..
+Yes! You retain ownership of any intellectual property that you submit to us. In short, what belongs to you stays yours. When you submit an application to Reset, you give us a non-exclusive, perpetual, irrevocable, royalty-free worldwide license to use, host, and store submitted content in whole or in part as outlined in our [**Data Use Policy for Applicants**](https://www.reset.tech/data-use-policy-applicants/). We require applicants to make new methodologies, tools, other code, and findings they develop available through an open-source license so that Reset, the general public, others in the public interest tech ecosystem can benefit from a growing set of shared resources.
+{% endhint %}
+
+## My question isn't addressed above - what should I do?
+
+{% hint style="info" %}
+If you have a question but don't see it answered here \(and can't find what you're looking for elsewhere in the Guide\), please reach out to us at [**hello@reset.tech**](mailto://hello@reset.tech) and we will do our best to answer your inquiry in a timely manner. 
 {% endhint %}
 
