@@ -1,16 +1,22 @@
 ---
 description: >-
-  Here we list the different people and organizations who we may share your
-  application with during our decision process
+  These are the people and organizations with whom we may share your application
+  during our decision process (please note this is a work-in-progress).
 ---
 
 # Advisors and partners
 
 ## Our team and advisory council
 
-## Review panels
+We at Reset are a small dedicated team made up of technologists, analysts, researchers, advocates and policy experts. You can check out the members of our team and Advisory Council [**here**](https://www.reset.tech/people/).
+
+## [R](https://www.reset.tech/people/)eview panels
+
+Coming soon...
 
 ## Other funders
+
+Coming soon...
 
 
 
