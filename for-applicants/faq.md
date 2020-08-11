@@ -21,7 +21,7 @@ We use these terms to classify applications during our initial review of a recen
 
 When an application is designated as **"In Scope"** it means we have identified the application: \(a\) is aligned with one or more of our [**goals**](https://guide.reset.tech/introduction/goals-objectives#goals), \(b\) will conduct activities that fall within one or more of the [**areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) we support, and \(c\) meets all other additional criteria required under the application's specific Open Call [**Fund or Fellowship**](https://www.reset.tech/open-calls/) ****\(e.g., Reset Our Future Fund, Information Control Fellowship, or Resident Fellowship\). 
 
-In turn, when an application receives an **"Out of Scope"** designation, it means we have identified the application does not meet at least one of the above criteria.
+When an application receives an **"Out of Scope"** designation, it means we have identified the application does not meet at least one of the above criteria.
 
 _**Note:**_  Applications that are screened as "In Scope" will also usually receive an additional designation of "Competitive" or "Not Competitive." Applications that are screened as "Out of Scope will not receive such a designation.
 
@@ -29,7 +29,7 @@ _**Note:**_  Applications that are screened as "In Scope" will also usually rece
 
 When an application is designated as **"In Scope/Competitive"** it means we have identified the "In Scope" application excels above others within the round at meeting the specific guidelines for an Open Call or the [**General guidelines**](fund-guidelines/) __for all Open Calls. Applications that we can clearly identify as aligning with or exceeding one or more of our [**Principles & values**](https://guide.reset.tech/introduction/principles-values), [**Review criteria**](https://guide.reset.tech/fund-guidelines#review-criteria)_,_ [**Ideal applicant criteria**](https://guide.reset.tech/fund-guidelines#ideal-applicants), or [**Target beneficiaries**](https://guide.reset.tech/fund-guidelines#target-beneficiaries) ****will often be considered "Competitive."
 
-In turn, when an application receives an "**In Scope"** or **"In Scope/Not Competitive"** designation it means the application has not been identified as clearly aligning with or exceeding one or more of the above criteria.
+When an application receives an "**In Scope"** or **"In Scope/Not Competitive"** designation it means the application has not been identified as clearly aligning with or exceeding one or more of the above criteria.
 
 _**Note:**_ Typically, only applications screened as "In Scope/Competitive" will proceed past the initial determination stage of the [**decision process**](https://guide.reset.tech/for-applicants/decision-process#initial-determination).
 {% endhint %}

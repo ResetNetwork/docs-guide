@@ -1,18 +1,18 @@
 ---
 description: >-
-  Our approach gives us the ability to make a wide range of non-profit and
-  for-profit investments to organizations and people.
+  In this section of the Guide we describe the various stages of the
+  decision-making process for reviewing Open Call applications.
 ---
 
 # Decision Process
 
-Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../../introduction/goals-objectives.md), are the [types of work](../../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../../introduction/principles-values.md).
+Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../../introduction/goals-objectives.md), are the [types of work](../../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../../introduction/principles-values.md). Our approach gives us the ability to make a wide range of non-profit and for-profit investments to organizations and people.
 
 We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](../../give-us-feedback.md) as we are constantly looking for ways to improve our process.
 
 ## When to Apply
 
-Applications for all our Open Calls are accepted on a rolling basis. There will always be at least one open call that is always open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.  If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
+Applications for all our Open Calls are accepted on a rolling basis. There will always be at least one Open Call that is open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.  If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
 
 ## Stages
 
