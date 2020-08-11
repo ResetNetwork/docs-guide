@@ -21,7 +21,7 @@ In arriving at this vision of the future, we hope our Open Calls help ensure a w
 
 Surveillance capitalism is the unilateral appropriation of society’s personal and behavioural information on a global scale, applied irresponsibly towards advancing machine intelligence products for profit. If you are new to the term, The Guardian's [_"The goal is to automate us: welcome to the age of surveillance capitalism"_](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook) __\(with founding [**Advisory Council**](https://www.reset.tech/people/) member [**Shoshana Zuboff**](https://shoshanazuboff.com/book/)\), is a terrific place to start. 
 
-This practice, which is consistently being used to harm democracy, is the biggest threat to our vision of the future. The decision of "[Big Tech](https://en.wikipedia.org/wiki/Big_Tech)" to rely on surveillance capitalism as its primary business model, coupled with an egregious lack of government oversight, has allowed the largest global information technology companies to serve as accessories to political misinformation campaigns that degrade democratic processes around the world. 
+We believe this practice, which is consistently being used to harm democracy, is the biggest threat to our vision of the future. That is because the decision of "[Big Tech](https://en.wikipedia.org/wiki/Big_Tech)" to rely on surveillance capitalism as its primary business model, coupled with an egregious lack of government oversight, has allowed the largest global information technology companies to serve as accessories to political misinformation campaigns that degrade democratic processes around the world. 
 
 ## Other harms, challenges, and o**bstacles**
 
