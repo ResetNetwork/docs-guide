@@ -24,8 +24,8 @@ description: >-
 
 This guide is an open-source document. You can suggest changes to it by posting issues. The app behind reset.tech \(hypha\) is also open source. Here are the links to view and submit issues for each:
 
-* This doc: [https://github.com/ResetNetwork/docs-guide](https://github.com/ResetNetwork/docs-guide)
-* The app: [https://github.com/ResetNetwork/apply-app](https://github.com/ResetNetwork/apply-app) 
+* **Doc**: [https://github.com/ResetNetwork/docs-guide](https://github.com/ResetNetwork/docs-guide)
+* **App**: [https://github.com/ResetNetwork/apply-app](https://github.com/ResetNetwork/apply-app) 
 
 ## Twitter
 
