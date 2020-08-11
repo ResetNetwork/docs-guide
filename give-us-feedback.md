@@ -1,7 +1,7 @@
 ---
 description: >-
   We want to hear from you. We want to respond to you. We want to change for
-  you.
+  you. So please, reach out.
 ---
 
 # Feedback
