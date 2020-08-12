@@ -23,7 +23,7 @@ Surveillance capitalism is the unilateral appropriation of society’s personal 
 
 We believe this practice, which is consistently being used to harm democracy, is the biggest threat to our vision of the future. That is because the decision of "[Big Tech](https://en.wikipedia.org/wiki/Big_Tech)" to rely on surveillance capitalism as its primary business model, coupled with an egregious lack of government oversight, has allowed the largest global information technology companies to serve as accessories to political misinformation campaigns that degrade democratic processes around the world. 
 
-## Other harms, challenges, and o**bstacles**
+## Other harms, challenges, & o**bstacles**
 
 In addition to perils posed by surveillance capitalism, many other interrelated obstacles stand in the way of achieving our vision for a better future. The list below is representative of the types of general project themes that would be relevant for Open Call applications. You should, however, feel free to apply even if your work addresses subjects that are not covered below \(the list will necessarily evolve and be informed by what we learn in reviewing Open Calls applications\).
 

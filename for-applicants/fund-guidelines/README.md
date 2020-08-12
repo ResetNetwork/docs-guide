@@ -35,11 +35,15 @@ _**Note:**_ By using the toolbar on the left, you can also check out the sub-pag
 
 ## Priorities
 
-What must be true is that you and/or your organisation have an understanding of the challenges of [surveillance capitalism](https://guide.reset.tech/introduction#our-visions-most-pressing-threat) within affected societies, a passion to see harms end, an idea or vision of your and/or your organisation’s role towards ending it, how Reset augments that vision, a clear way to disseminate the outcomes broadly, and excitement to be a part of the effort.
+_Applicant priorities_
 
-We seek proposals from all around the world, with a priority for interventions and projects that will have the greatest global-effect. Of utmost priority, are projects that clearly complement one or more efforts to positively shift policy, market, social norms, or other technical outcomes.
+Applicants must have a strong understanding of the challenges posed by [**surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) ****and a passion to see these harms end. In turn, all successful applications must demonstrate the applicant's idea or vision of their role in ending these harms and how support from Reset through an Open Call award will help augment that vision. A clear way to broadly disseminate project outcomes, and a general excitement to be involved in these efforts, are also required.
 
-Everything Reset supports must be a clear attempt to advance our _Goals_, conduct activities within one or more [_Types of Work_](https://guide.reset.tech/introduction/goals-objectives#types-of-work), focus on a one or more of the already known _Harms or Challenges_ \(or teach us about a new one\), and meet any required criteria laid out below or specific to a particular open call. Generally speaking, the first item listed in our goals and types of work we support are the most important to us.
+_Reset priorities_
+
+We seek out proposals from all around the world, prioritizing interventions and projects that will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
+
+Every project Reset supports must conduct activities within on or more of our supported [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) and be a direct attempt to advance our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals)**.** Such projects will necessarily focus on [**Our vision's greatest threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) or one or more of the **Other harms, challenges, & obstacles** \(or teach us about a new one\). and meet any required criteria laid out below or specific to a particular open call. Generally speaking, the first item listed in our goals and types of work we support are the most important to us.
 
 ## **Review panel & process** 
 
