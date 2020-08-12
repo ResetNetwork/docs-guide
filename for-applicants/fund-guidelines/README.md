@@ -1,10 +1,37 @@
 ---
 description: >-
-  No matter which fund you are applying to, the below is relevant. See the
-  sub-pages for guidelines specific to individual funds or fellowships.
+  In this section of the Guide we address the building block information that is
+  relevant for all applicants as they prepare to apply to an Open Call Fund or
+  Fellowship.
 ---
 
 # Fund Guidelines
+
+## Covered Topics
+
+The following subjects are discussed in this section. Interested applicants can click on any of the titles and immediately jump to a specific topic \(but remember, all of the following is relevant for all applications\). 
+
+* \*\*\*\*[**Priorities**](https://guide.reset.tech/for-applicants/fund-guidelines#priorities)\*\*\*\*
+* \*\*\*\*[**Review panel & process**](https://guide.reset.tech/for-applicants/fund-guidelines#review-panel-and-process)\*\*\*\*
+* \*\*\*\*[**Application deadlines**](https://guide.reset.tech/for-applicants/fund-guidelines#application-deadlines)\*\*\*\*
+* \*\*\*\*[**Eligibility**](https://guide.reset.tech/for-applicants/fund-guidelines#eligibility)\*\*\*\*
+* \*\*\*\*[**Restrictions**](https://guide.reset.tech/for-applicants/fund-guidelines#restrictions)\*\*\*\*
+* **Areas of work**
+* \*\*\*\*[**Ideal applicants**](https://guide.reset.tech/for-applicants/fund-guidelines#ideal-applicants)\*\*\*\*
+* \*\*\*\*[**Target beneficiaries**](https://guide.reset.tech/for-applicants/fund-guidelines#target-beneficiaries)\*\*\*\*
+* **Commitment to Diversity**
+* \*\*\*\*[**Overhead costs**](https://guide.reset.tech/for-applicants/fund-guidelines#overhead-costs)\*\*\*\*
+* \*\*\*\*[**The honorarium**](https://guide.reset.tech/for-applicants/fund-guidelines#the-honorarium)\*\*\*\*
+* **Application video**
+* \*\*\*\*[**Review criteria**](https://guide.reset.tech/for-applicants/fund-guidelines#review-criteria)\*\*\*\*
+* \*\*\*\*[**Term**](https://guide.reset.tech/for-applicants/fund-guidelines#term)\*\*\*\*
+* \*\*\*\*[**Funding**](https://guide.reset.tech/for-applicants/fund-guidelines#funding)\*\*\*\*
+* **Visas**
+* **Monitoring & evaluation**
+* \*\*\*\*[**Collective commitment**](https://guide.reset.tech/for-applicants/fund-guidelines#collective-commitment)\*\*\*\*
+* \*\*\*\*[**Terms & conditions**](https://guide.reset.tech/for-applicants/fund-guidelines#terms-and-conditions)\*\*\*\*
+
+_**Note:**_ By using the toolbar on the left, you can also check out the sub-pages of this section to review additional guidelines specific to individual Funds or Fellowships.
 
 ## Priorities
 
@@ -32,7 +59,7 @@ Reset does not have any requirements regarding an applicant’s status - whether
 
 Applicants must not provide any type of support for any member, affiliate or representative of a designated terrorist organisation, whether or not elected members of the government.
 
-## Type of work
+## Areas of work
 
 Ideal applications will fit within one of these four types of work:
 
@@ -65,7 +92,7 @@ Work with outcomes focused to intervene or affect policy in the EU, US, or the U
 
 When in doubt, apply.
 
-## **A commitment to diversity**
+## **Commitment to diversity**
 
 Reset seeks to embed diversity, equity and inclusion \(DEI\) into our work. We are committed to providing equal opportunity and an environment free of discrimination. For Open Calls, this means we will consider all applications equally, without regard to race, creed, colour, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, alienage, citizenship, age, marital status, physical or mental disability, medical condition, veteran status, genetic predisposition or carrier status, status as a victim or any other classification protected by applicable local law.
 
@@ -83,7 +110,7 @@ In even more limited instances where Reset decides to give a core or general ope
 
 Coming soon :-/
 
-## The application video
+## Application video
 
 In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project. This is not required. This question is an opportunity for applicants to humanize the submission process. The effort required to review received number of applications in a timely way rarely provides the opportunity to engage applicants face-to-face during our review process. 
 
@@ -153,11 +180,11 @@ Applications that request more than the award ceiling of $600,000 USD, or less t
 
 Reset reserves the right to award less or more than the funds requested or suggest an alternate agreement type than requested as deemed in the best interest of Reset priorities.
 
-## **VISAs**
+## **Visas**
 
 Any individual will need to acquire the appropriate work authorisation. Applicants will need to secure their own visa and work permit, if applicable. We are glad to provide visa letters upon request.
 
-## Monitoring and evaluation
+## Monitoring & evaluation
 
 Reset views monitoring and evaluation as a way to learn from the partners we support, share lessons learned with future applicants, and also raise our partner’s profile with other potential funders and the public writ large. This improves the collective knowledge of the community and contributes to its sustainability.
 
