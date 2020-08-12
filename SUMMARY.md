@@ -15,6 +15,7 @@
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
 * [Fund Guidelines](for-applicants/fund-guidelines/README.md)
   * [Fellowships](for-applicants/fund-guidelines/fellowships.md)
+  * [Funds](for-applicants/fund-guidelines/funds.md)
   * [Flash grants](for-applicants/fund-guidelines/flash-grants.md)
 * [Topical Guidance](for-applicants/topical-guidance/README.md)
   * [Information controls](for-applicants/topical-guidance/information-controls.md)
