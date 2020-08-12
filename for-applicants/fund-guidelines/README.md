@@ -41,7 +41,7 @@ Applicants must have a strong understanding of the challenges posed by [**survei
 
 _Reset priorities_
 
-We seek out proposals from all around the world, prioritizing interventions and projects that will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
+We seek out proposals from all around the world, prioritising interventions and projects that will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
 
 Every project Reset supports must conduct activities within on or more of our supported [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) and be a direct attempt to advance our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****\(generally speaking, the first items listed in our Goals and Areas of work are the ones most important to us\). Such projects will necessarily focus on [**Our vision's greatest threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) \(or teach us about a new one\). They will also meet all required criteria for the particular Open Call. 
 
@@ -78,6 +78,8 @@ Ideal applications will fit within one of these four [**Areas of work**](https:/
 * **Technology:** Design and implement both existing and new tools that support in-depth research, activist engagement, and educational insights into surveillance commerce and digital threats to democracy, and viable virtuous alternatives to the dominant exploitative platforms.
 * **Civic Engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 
+When in doubt, apply.
+
 ## Ideal applicants
 
 Applicant criteria varies per Open Call and specific criteria may be found in each Open Call description. In general, however, we are purposefully looking to support a diverse mix of partner organisations and individuals. Consistent with our [**Principles & values**](https://guide.reset.tech/introduction/principles-values), we are particularly interested in receiving applications from individuals, or from organisations with key team members that will be working on the project, who consider themselves underrepresented within the communities and fields affected by \(or responding to\) [**surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat).
@@ -86,41 +88,45 @@ We strongly encourage applications from computer scientists, human rights schola
 
 We also encourage individual applications from independent scholars and individuals employed by universities, civil society organisations, and corporations \(including those on sabbatical\). We are disciplinary agnostic and welcome people from critical, empirical, technical, legal, and humanistic fields.
 
+When in doubt, apply.
+
 _**Note:**_ In an effort to empower new talent and ideas, Reset will prioritise projects coming from individuals or organisations who are new to the digital rights community, identify as underrepresented within related fields, and are requesting less than $300,000 for efforts within a 12-month period or less. Applicants already receiving support or known to other [**Omidyar Group**](https://www.omidyargroup.com/organizations/) organisations are eligible for Open Call awards. That said, applicants new to us will generally be considered to be [**more competitive**](https://guide.reset.tech/for-applicants/faq#what-does-it-mean-when-an-application-is-designated-as-in-scope-or-out-of-scope-and-competitive-or-not-competitive).
 
 _**Note:**_ Reset does support projects that are commercial or proprietary in nature, but such projects are _less likely_ to be approved for funding because Reset places a high priority on funding the creation or ongoing support of projects that are open-source and freely available to download and use because these projects ensure a low barrier to user adoption and use \(and are thus more consistent with our [**Goals and objectives**](https://guide.reset.tech/introduction/goals-objectives)\).
 
 ## Target beneficiaries
 
-We are interested to find out who you are most concerned with helping. The options we present may be many but not exhaustive. Resist the temptation to select all that might apply. We are most interested in your top priorities, the ones you know apply.
+When completing your application, you will be asked to indicate what groups of people you aim to serve, as well as which geographies. In asking these questions we want to know who you believe your project will help the most. Resist the temptation to select all that might apply - we are most interested in your top priorities/the people and areas you know your work will impact.
 
-What about our priorities? We are most interested in efforts leading to better policy in places where the positive effects will be felt by more people than those within the country where the policy was set. The global affect EU's General Data Protection Regulation \(GDPR\) is an example. A good application does not have to be directly engaging in policy & advocacy as a type of work but it does need to clearly show how the outcomes for the selected beneficiaries will result in outcomes that will or could lead to policy change. For example, the countless research and technology projects demonstrating the myriad misuse of data justifying the need for GDPR would have been in scope \(and still are for enforcement or to point out limitations for future policy\). 
+As context, we are most interested in supporting efforts that will lead to better policy in places where the positive effects will be felt by more people than just those within the country/area where the policy was created. The broad, global effect of the European Union's [**General Data Protection Regulation \(GDPR\)**](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en#:~:text=The%20General%20Data%20Protection%20Regulation,free%20movement%20of%20such%20data.&text=The%20regulation%20entered%20into%20force,applies%20since%2025%20May%202018.) is a great example of this type of reach. 
 
-Work with outcomes focused to intervene or affect policy in the EU, US, or the UK are clear priorities. You should apply even if you do not identify your work as focused in these regions, especially if you are convinced the work will have wide effects. For example, we see opportunity for litigation in the Inter-American Court of Human Rights to advance policy throughout Latin American or Australian policy change to have effects throughout Oceania and East Asia.
+Work with outcomes focused to intervene or affect policy in the European Union, United States, or United Kingdom are clear priorities for us. Nonetheless, you should still apply even if you do not identify your work as focused in these regions - especially if you are convinced the work will have wide effects. For example, we see opportunity for litigation in the Inter-American Court of Human Rights to advance policy throughout Latin American or Australian policy change to have effects throughout Oceania and East Asia.
 
 When in doubt, apply.
 
+_**Note:**_ A competitive application does not have to directly engage in policy & advocacy as an [**Area of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work), but it _does_ need to clearly show how the outcomes for the selected beneficiaries will result in outcomes that will, or could, lead to policy change. For example, the research and technology projects that ultimately helped to justify the need for the GDPR by demonstrating the significant misuse of data would have been in scope \(and still are for enforcement purposes or to point out limitations for future policy\). 
+
 ## **Commitment to diversity**
 
-Reset seeks to embed diversity, equity and inclusion \(DEI\) into our work. We are committed to providing equal opportunity and an environment free of discrimination. For Open Calls, this means we will consider all applications equally, without regard to race, creed, colour, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, alienage, citizenship, age, marital status, physical or mental disability, medical condition, veteran status, genetic predisposition or carrier status, status as a victim or any other classification protected by applicable local law.
+Reset seeks to embed diversity, equity, and inclusion into our work. We are committed to providing equal opportunity and an environment free of discrimination. For Open Calls, this means we will consider all applications equally, without regard to race, creed, colour, religion, gender, sexual orientation, gender identity or expression, national origin or ancestry, alienage, citizenship, age, marital status, physical or mental disability, medical condition, veteran status, genetic predisposition or carrier status, status as a victim, or any other classification protected by applicable local law.
 
 ## Overhead costs
 
 _Reset typically supports projects, not overhead._
 
-Awards from our open calls generally do not support standalone costs which are not directly associated with the completion of objectives or deliverables. For example, indirect costs such as operational or administrative expenses are not supported. This is in part due to contractual vehicle we primarily relay upon to award open call applications. This policy ensures that programmatic funds are focused on accomplishing our goals.
+Awards from our Open Calls generally do not support standalone costs which are not directly associated with the completion of objectives or deliverables. For example, indirect costs such as operational or administrative expenses are not supported. This policy is in part due to the contractual vehicle we primarily rely upon to award Open Call applications. It also ensures that programmatic funds are focused on accomplishing our goals.
 
-In the limited instances where Reset determines that an overhead cost would be permitted, such costs cannot be greater than 10 percent of the overall cost of the award. Projects seeking an exception bear the burden of clearly demonstrating how the lack of such an inclusion will prevent the completion of the project’s objectives.
+In the limited instances where Reset determines that an overhead cost would be permitted, such costs cannot be greater than 10% of the overall cost of the award. Projects seeking an exception to the general prohibition on overhead costs bear the burden of clearly demonstrating how the lack of such an inclusion will _prevent_ the completion of the project’s objectives.
 
-In even more limited instances where Reset decides to give a core or general operating grant, the above does not apply.
+_**Note:**_ In the very limited instances where Reset decides to give a core or general operating grant, the above does not apply.
 
 ## The honorarium
 
-Coming soon :-/
+Coming soon...
 
 ## Application video
 
-In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project. This is not required. This question is an opportunity for applicants to humanize the submission process. The effort required to review received number of applications in a timely way rarely provides the opportunity to engage applicants face-to-face during our review process. 
+In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project. This is not required. This question is an opportunity for applicants to illuminate the human side of the submission process. The effort required to review received number of applications in a timely way rarely provides the opportunity to engage applicants face-to-face during our review process. 
 
 We acknowledge the concerns raised in asking this question: anxiety, bias, awkward, time, etc. If you think the video is an opportunity to highlight something in your application not easily conveyed elsewhere, include one. If not, do not include a video.
 
@@ -148,7 +154,7 @@ If you use YouKu, you may want to set a password on your video. You can provide 
 
 **Please do not recite a script written beforehand.** 
 
-Just talk spontaneously as you would to a friend. People delivering memorized speeches \(or worse still, text read off the screen\) usually come off as rigid. 
+Just talk spontaneously as you would to a friend. People delivering memorised speeches \(or worse still, text read off the screen\) usually come off as rigid. 
 
 **Please do not add any background music to your video.**
 
@@ -170,17 +176,17 @@ The following is a list of criteria Reset uses to evaluate all applications:
 
 ## Term
 
-Awards are generally six to 18 - and no more than 24 - months in duration. 
+Awards are generally 6 to 18 months in duration \(and no more than 24\). 
 
-From time to time Reset may consider applications to extend existing contracts beyond the initial project period. Any such decision will be subject to availability of funds, satisfactory progress of the applicants, and a determination that continued funding would be in the best interest of programme priorities. 
+Fellows commit to working between 10, 20, 30, 40 hours a week for a term of either three, six, nine, or 12 months in duration. Applicants who would like to apply for a fellowship but cannot commit to a full term, or have a specific start date in mind, should specify so in their application.
 
-Fellows commit to working between 10, 20, 30, 40 hours a week for a term of either three, six, nine, or 12 months in duration.  If you would like to apply for a fellowship but cannot commit to a full term or have a specific start date in mind, please specify that in your application.
+_**Note:**_ On occasion, Reset may consider applications seeking to extend existing contracts beyond the initial project period. Any such decision will be subject to availability of funds, satisfactory progress of the applicants, and a determination that continued funding would be in the best interest of Reset priorities. 
 
 ## Funding
 
 Reset awards are performance-based contracts or project funding agreements signed directly with the applicant. Reset has no legal obligation to make any payments unless and until an agreement is completed to the full satisfaction and executed by both parties. For contracts and project funding, payment is issued on completion of stated objectives, activities, and/or deliverable per a schedule outlined in the application and agreement.
 
-Based on the current priorities of the program, applicants are limited to one grant award from an Open Call. Once the term of an award expires, including any extension granted beyond the initial project period, an applicant is not eligible to apply for an Open Call. This limitation applies on an applicant-by-applicant basis. For example, an individual that receives an award is also able to apply for a different project on behalf of an organization and two for-profit businesses with the same owner are each eligible to apply for an award. 
+Based on the current priorities of the program, applicants are limited to one grant award from an Open Call. Once the term of an award expires, including any extension granted beyond the initial project period, an applicant is not eligible to apply for an Open Call. This limitation applies on an applicant-by-applicant basis. For example, an individual that receives an award is also able to apply for a different project on behalf of an organisation and two for-profit businesses with the same owner are each eligible to apply for an award. 
 
 Applications that request more than the award ceiling of $600,000 USD, or less than the award floor of $5,000 USD, may, at our discretion, be deemed technically ineligible. Note that our target support ceiling is $300,000 USD, with most supported efforts receiving between $50,000 USD and $200,000 USD.
 
@@ -190,23 +196,25 @@ Reset reserves the right to award less or more than the funds requested or sugge
 
 ## **Visas**
 
-Any individual will need to acquire the appropriate work authorisation. Applicants will need to secure their own visa and work permit, if applicable. We are glad to provide visa letters upon request.
+All individuals must acquire the appropriate work authorisation. Applicants will need to secure their own visa and work permit \(if applicable\). We are happy to provide visa letters upon request.
 
 ## Monitoring & evaluation
 
-Reset views monitoring and evaluation as a way to learn from the partners we support, share lessons learned with future applicants, and also raise our partner’s profile with other potential funders and the public writ large. This improves the collective knowledge of the community and contributes to its sustainability.
+Reset views monitoring and evaluation as a way to learn from the partners we support, share lessons learned with future applicants, and raise our partners' profiles with other potential funders and the public. Consistent with our [**Goals and objectives**](https://guide.reset.tech/introduction/goals-objectives), this type of activity improves the collective knowledge of the community and contributes to its overall sustainability.
 
-Monitoring and evaluation assessments are largely based on predetermined and agreed-upon metrics, deliverables and goals set out in the performance-based contract or funding agreement, as applicable. Successful applicants can expect regular contact with their assigned Reset team member and host organisation if applicable. Monitoring consists of monthly reports and phone, email, or in-person discussions and consultations as needed. We typically ask successful applicants to submit brief monthly updates about their work to Reset, their host organisation as applicable, and the broader Reset network. This allows others to review and comment on the work, encouraging collaboration.
+Accordingly, monitoring and evaluation assessments are predominately based on predetermined and agreed-upon metrics \(such as deliverables and goals\), set out in the performance-based contract or funding agreement \(as applicable\). Successful applicants can expect regular contact with their assigned Reset team member \(and host organisation, if applicable\). Monitoring consists of monthly reports and phone, email, or in-person discussions and consultations as needed. We typically ask successful applicants to submit brief monthly updates about their work to Reset, their host organisation \(if applicable\), and the broader Reset network. This allows others to review and comment on ongoing work, further encouraging collaboration and knowledge sharing.
 
 ## Collective commitment
 
-Applicants and partners in our network must share our vision, strive to uphold our principles and values, and hold us accountable by providing us feedback, especially if that feedback is critical.
+Applicants and partners in our network must share [**Our vision**](https://guide.reset.tech/introduction/how-we-see-the-world), strive to uphold our [**Principles & values**](https://guide.reset.tech/introduction/principles-values), and hold us accountable by providing us [**feedback**](https://guide.reset.tech/give-us-feedback), especially if that feedback is critical.
 
 ## Terms & conditions
 
-* [Data use policy for applicants to reset.tech](https://www.reset.tech/data-use-policy-applicants/)
-* [Data & privacy policy for reset.tech](https://www.reset.tech/data-privacy-policy/)
-* [Terms of use for reset.tech](https://www.reset.tech/terms-of-use/)
+The following terms and conditions apply:
+
+* [**Data use policy for applicants to reset.tech**](https://www.reset.tech/data-use-policy-applicants/)\*\*\*\*
+* [**Data & privacy policy for reset.tech**](https://www.reset.tech/data-privacy-policy/)\*\*\*\*
+* [**Terms of use for reset.tech**](https://www.reset.tech/terms-of-use/)\*\*\*\*
 
 
 
