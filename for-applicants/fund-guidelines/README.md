@@ -9,7 +9,7 @@ description: >-
 
 ## Covered Topics
 
-The following subjects are discussed in this section. Interested applicants can click on any of the titles and immediately jump to a specific topic \(but remember, all of the following is relevant for all applications\). 
+The following areas of interest are discussed in this section. Applicants can choose to click on any of the topic titles and immediately jump to a specific subject \(but remember, all the information is relevant for all applications\). 
 
 * \*\*\*\*[**Priorities**](https://guide.reset.tech/for-applicants/fund-guidelines#priorities)\*\*\*\*
 * \*\*\*\*[**Review panel & process**](https://guide.reset.tech/for-applicants/fund-guidelines#review-panel-and-process)\*\*\*\*
@@ -31,7 +31,7 @@ The following subjects are discussed in this section. Interested applicants can 
 * \*\*\*\*[**Collective commitment**](https://guide.reset.tech/for-applicants/fund-guidelines#collective-commitment)\*\*\*\*
 * \*\*\*\*[**Terms & conditions**](https://guide.reset.tech/for-applicants/fund-guidelines#terms-and-conditions)\*\*\*\*
 
-_**Note:**_ By using the toolbar on the left, you can also check out the sub-pages of this section to review additional guidelines specific to individual Funds or Fellowships.
+_**Note:**_ By using the toolbar on the left, you can also check out the sub-pages of this section to review additional specific guidelines for individual Funds or Fellowships.
 
 ## Priorities
 
