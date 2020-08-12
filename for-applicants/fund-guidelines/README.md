@@ -16,18 +16,18 @@ The following subjects are discussed in this section. Interested applicants can 
 * \*\*\*\*[**Application deadlines**](https://guide.reset.tech/for-applicants/fund-guidelines#application-deadlines)\*\*\*\*
 * \*\*\*\*[**Eligibility**](https://guide.reset.tech/for-applicants/fund-guidelines#eligibility)\*\*\*\*
 * \*\*\*\*[**Restrictions**](https://guide.reset.tech/for-applicants/fund-guidelines#restrictions)\*\*\*\*
-* **Areas of work**
+* \*\*\*\*[**Areas of work**](https://guide.reset.tech/for-applicants/fund-guidelines#areas-of-work)\*\*\*\*
 * \*\*\*\*[**Ideal applicants**](https://guide.reset.tech/for-applicants/fund-guidelines#ideal-applicants)\*\*\*\*
 * \*\*\*\*[**Target beneficiaries**](https://guide.reset.tech/for-applicants/fund-guidelines#target-beneficiaries)\*\*\*\*
-* **Commitment to Diversity**
+* \*\*\*\*[**Commitment to Diversity**](https://guide.reset.tech/for-applicants/fund-guidelines#commitment-to-diversity)\*\*\*\*
 * \*\*\*\*[**Overhead costs**](https://guide.reset.tech/for-applicants/fund-guidelines#overhead-costs)\*\*\*\*
 * \*\*\*\*[**The honorarium**](https://guide.reset.tech/for-applicants/fund-guidelines#the-honorarium)\*\*\*\*
-* **Application video**
+* \*\*\*\*[**Application video**](https://guide.reset.tech/for-applicants/fund-guidelines#application-video)\*\*\*\*
 * \*\*\*\*[**Review criteria**](https://guide.reset.tech/for-applicants/fund-guidelines#review-criteria)\*\*\*\*
 * \*\*\*\*[**Term**](https://guide.reset.tech/for-applicants/fund-guidelines#term)\*\*\*\*
 * \*\*\*\*[**Funding**](https://guide.reset.tech/for-applicants/fund-guidelines#funding)\*\*\*\*
-* **Visas**
-* **Monitoring & evaluation**
+* \*\*\*\*[**Visas**](https://guide.reset.tech/for-applicants/fund-guidelines#visas)\*\*\*\*
+* \*\*\*\*[**Monitoring & evaluation**](https://guide.reset.tech/for-applicants/fund-guidelines#monitoring-and-evaluation)\*\*\*\*
 * \*\*\*\*[**Collective commitment**](https://guide.reset.tech/for-applicants/fund-guidelines#collective-commitment)\*\*\*\*
 * \*\*\*\*[**Terms & conditions**](https://guide.reset.tech/for-applicants/fund-guidelines#terms-and-conditions)\*\*\*\*
 
