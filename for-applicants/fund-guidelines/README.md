@@ -126,19 +126,19 @@ Coming soon...
 
 ## Application video
 
-In our open calls, we may ask you for a video to introduce yourselves, explain what you're doing and why, and tell us anything else you want to about the other key members or the project. This is not required. This question is an opportunity for applicants to illuminate the human side of the submission process. The effort required to review received number of applications in a timely way rarely provides the opportunity to engage applicants face-to-face during our review process. 
+As part of the Open Call process, we may ask you to provide a video to introduce yourselves, explain what you're doing and why, and tell us anything else you would like about the project or other key team members. Please note that providing such a video is _not_ required. Providing a video is simply an opportunity for applicants to illuminate the human side of the submission process \(the significant amount of time required to review all applications rarely provides the opportunity for Reset team members to engage applicants in a face-to-face manner during the review process\). 
 
-We acknowledge the concerns raised in asking this question: anxiety, bias, awkward, time, etc. If you think the video is an opportunity to highlight something in your application not easily conveyed elsewhere, include one. If not, do not include a video.
+In making the request for such a video, we acknowledge the valid concerns it may raise \(anxiety, bias, time, etc.\). If you think providing a video will help you highlight something in your application not easily conveyed elsewhere, and are comfortable providing one,  consider doing so. If not, do not include a video.
 
-Below are some recommendations to follow if you are considering a video for your application.
+If you are considering providing a video with your application, observe the following recommendations:
 
-**The video should be 1 minute long and should contain nothing except you or others talking.** 
+**The video should be one minute long \(or less\) and should contain nothing except you or others talking.** 
 
-No screenshots or post-production wizardry please; we don’t want this to turn into a video making contest. If you’re going to spend time making something cool, put it into your project.
+No screenshots or post-production wizardry please; we don’t want this to turn into a video-making contest. If you’re going to spend time making something cool, put it into your project.
 
 **This is not the place to submit a demo or promotional video.**
 
-If you have a demo for your project, there is a place in the application for that. However, we don't want to see any promotional video. Here, we want to hear how you and your partners communicate.
+If you have a demo for your project, there is a place in the application for that. We don't, however, want to see any promotional video. We're only interested in how you and your partners \(if applicable\) communicate.
 
 **If you have more than one key partner or team member, try to have them in the video.**
 
@@ -146,23 +146,23 @@ If you can't be in the same room at the same time, you may want to record a vide
 
 **Don't mark it as private or disallow embedding.**
 
-We won't be able to see it. Please note that because of how our system is built, the view count may not increase even though we do watch your video.
+If you do, we won't be able to see the video. Please note that because of how our system is built, the view count may not increase even when we do watch your video.
 
 **If you are in a country where services like Vimeo or YouTube is unavailable, you may use an alternate service, like YouKu for China.** 
 
 If you use YouKu, you may want to set a password on your video. You can provide the password in the application.
 
-**Please do not recite a script written beforehand.** 
+**Please do not recite a written script.** 
 
-Just talk spontaneously as you would to a friend. People delivering memorised speeches \(or worse still, text read off the screen\) usually come off as rigid. 
+Simply talk spontaneously, as you would to a friend, about what yourself/your project. People delivering memorised speeches \(or text read off the screen\) usually come off as rigid - defeating the point of providing the video. 
 
 **Please do not add any background music to your video.**
 
-We regularly give up 10 seconds into a video because we can’t stand the random background music.
+Just you, please. Nothing more.
 
 **Watch your own video before you submit.** 
 
-Make sure you can hear what you are saying. A significant fraction of the videos we get are inaudible. If you’re going to apply at all, you may as well apply with a video we can hear.
+Make sure you can hear what you are saying! A surprising portion of the videos we get are in fact inaudible. If you’re going to take the time to provide a video, you may as well send one we can hear.
 
 ## **Review criteria**
 
@@ -172,7 +172,7 @@ The following is a list of criteria Reset uses to evaluate all applications:
 * **Ability to achieve objectives:** A relevant work plan should demonstrate substantive undertakings and logistical capacity of the organisation or individual. The work plan should adhere to the overview and guidelines described above. Objectives should be ambitious, yet measurable and achievable.
 * **Cost-effectiveness:** Any overhead and administrative components included in the application should be kept as low as possible. All items should be necessary and appropriate. Cost-sharing and/or matching funds from other sources is strongly encouraged and is viewed favourably by Reset.
 * **Multiplier effect/sustainability:** Applications should address how the expected results will contribute toward our goals. Applications should address how the effort will be sustained in the long-term.
-* **Applicants’ record and capacity:** Reset will consider the past performance of prior recipients and the demonstrated potential of new applicants. Proposed personnel and institutional resources should be adequate and appropriate to achieve the project’s objectives.
+* **Applicant's record and capacity:** Reset will consider the past performance of prior recipients and the demonstrated potential of new applicants. Proposed personnel and institutional resources should be adequate and appropriate to achieve the project’s objectives.
 
 ## Term
 
@@ -190,9 +190,9 @@ Based on the current priorities of the program, applicants are limited to one gr
 
 Applications that request more than the award ceiling of $600,000 USD, or less than the award floor of $5,000 USD, may, at our discretion, be deemed technically ineligible. Note that our target support ceiling is $300,000 USD, with most supported efforts receiving between $50,000 USD and $200,000 USD.
 
-**Fellows** will receive a monthly stipend based on the number of hours a week they commit to working, a travel stipend of up to $5,000 USD \(depending on project needs\), any hardware needed such as a computer or mobile device, and access to Reset internal resources \(depending on project needs\). The hourly rate for all fellows is $40 USD. As a result: a fellow committing to 20 hours a week for nine months would permit a total of $28,800 USD \(dispersed in $3,200 USD/month payments\). A 30 hour a week commitment for 12 months would permit the fellow to $57,600 USD \(dispersed in $4,800 USD/month payments\). A 10 hour week commitment for three months would permit the fellow $4,800 USD \(dispersed in $1,600 USD/month payments\).
+Fellows will receive a monthly stipend based on the number of hours a week they commit to working, a travel stipend of up to $5,000 USD \(depending on project needs\), any hardware needed such as a computer or mobile device, and access to Reset internal resources \(depending on project needs\). The hourly rate for all fellows is $40 USD. As a result: a fellow committing to 20 hours a week for nine months would permit a total of $28,800 USD \(dispersed in $3,200 USD/month payments\). A 30 hour a week commitment for 12 months would permit the fellow to $57,600 USD \(dispersed in $4,800 USD/month payments\). A 10 hour week commitment for three months would permit the fellow $4,800 USD \(dispersed in $1,600 USD/month payments\).
 
-Reset reserves the right to award less or more than the funds requested or suggest an alternate agreement type than requested as deemed in the best interest of Reset priorities.
+_**Note:**_ When deemed in the best interest of Reset priorities, Reset reserves the right to award less \(or more\) than the amount of funds requested, or suggest an alternate agreement type than that which was requested.
 
 ## **Visas**
 
