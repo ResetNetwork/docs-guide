@@ -1,18 +1,20 @@
 ---
 description: >-
-  In this section of the Guide we describe the various stages of the
+  In this section of the Guide we describe the various stages of our
   decision-making process for reviewing Open Call applications.
 ---
 
 # Decision Process
 
-Our [open calls](https://www.reset.tech/open-calls) provide people and organizations an always open door for us to learn about their work that aligns with our [goals & objectives](../../introduction/goals-objectives.md), are the [types of work](../../introduction/goals-objectives.md#type-of-work) we care most about, and support our [principles & values](../../introduction/principles-values.md). Our approach gives us the ability to make a wide range of non-profit and for-profit investments to organizations and people.
+Our approach to [**Open Calls**](https://www.reset.tech/open-calls) gives us the ability to make a wide range of non-profit and for-profit investments in the organisations and people working on projects that align with our [**Goals & objectives**](../../introduction/goals-objectives.md). Each awarded project will operate in one or more of the [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) that we support, and further support and reinforce our [**Principles & values**](https://app.gitbook.com/@resetnetwork/s/guide/~/drafts/-MEUvywkmho7U8UoyC9g/introduction/principles-values). 
 
-We always aim to be transparent about how we invest, so we’ve outlined the eight stages we typically follow below. These will change and we want your [feedback](../../give-us-feedback.md) as we are constantly looking for ways to improve our process.
+We always aim to be upfront about how we invest because transparency is one of our core values. Given this, we’ve outlined below the eight stages we typically follow when deciding whether or not to fund a project. We're also aware, however, that these stages will necessarily change and evolve over time because we also believe in [**strategy as an iterative design process**](https://guide.reset.tech/introduction#strategy-as-an-iterative-design-process). Your [**feedback**](https://app.gitbook.com/@resetnetwork/s/guide/~/drafts/-MEUvywkmho7U8UoyC9g/give-us-feedback), which we're constantly seeking, will help us improve the process.
 
 ## When to Apply
 
-Applications for all our Open Calls are accepted on a rolling basis. There will always be at least one Open Call that is open. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round.  If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
+Applications for all Open Calls are accepted on a [**rolling basis**](https://guide.reset.tech/for-applicants/faq#when-does-reset-accept-applications-when-are-the-deadlines), and there will always be at least one Open Call that is accepting applications. You can choose submit an application at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). 
+
+_**Note:**_ Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed in the next round. We review applications at the end of each round.
 
 ## Stages
 
@@ -35,9 +37,9 @@ The process begins as soon as you submit an application.
 {% tab title="2" %}
 ### Team review
 
-After the application round deadline has passed, we will begin our internal review process.
+After the application round deadline closes, we will begin our internal review process of all applications submitted during the round.
 
-We conduct an assessment of the application. This may include speaking to partners, other investors or funders, staff, and any other relevant third parties. Depending on the amount of applications we receive, this can take 2 or 3 weeks or 2 months. As we get through your application, our submission system and let you know our initial determination.
+During this initial "screening" process, we will conduct an assessment of the application. This may include speaking to partners, other investors or funders, staff, and any other relevant third parties. Depending on the number of applications we receive, this may take two or three weeks, or two or three months. By the end, we will be able to apply a [**screening status**](https://guide.reset.tech/for-applicants/faq#what-does-it-mean-when-an-application-is-designated-as-in-scope-or-out-of-scope-and-competitive-or-not-competitive) designation to each application \(e.g., "Out of Scope," "In Scope/Not Competitive," or "In Scope/Competitive"\).
 {% endtab %}
 
 {% tab title="3" %}
@@ -45,7 +47,7 @@ We conduct an assessment of the application. This may include speaking to partne
 
 Once we have had a chance to review your application, we will come to our initial determination.
 
-If we decline your application, we will provide you with feedback on why your application was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application.
+If we decline your application, we will provide you with feedback on why your application was not considered to move forward. We strongly encourage applicants to use this feedback as a means strengthen their application and re-apply to a subsequent round.
 
 If we are continuing to consider your application, you will receive an initial determination message from our submission system with next steps for us to gather additional information from you. In limited cases, we may ask narrow clarifying questions to make our initial determination.
 {% endtab %}
@@ -93,9 +95,7 @@ Once the project begins, we look forward to working closely with the organizatio
 {% endtab %}
 {% endtabs %}
 
-
-
-**Just a quick note:** Approval is not guaranteed at any stage of the process. If the opportunity is not approved, we will always explain why and provide clear and constructive feedback.
+**Just a quick reminder:** Approval is not guaranteed at any stage of the process. If your application is not approved, know that we will always explain why and provide clear and constructive feedback.
 
 
 
