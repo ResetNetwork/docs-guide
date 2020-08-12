@@ -47,17 +47,23 @@ Every project Reset supports must conduct activities within on or more of our su
 
 ## **Review panel & process** 
 
-For all Reset Open Calls, completing the application form is always the first step in the process. All applications will be reviewed by the Reset team. Selected applications may be invited to submit additional information. Finalists are reviewed by an independent panel of experts, for example from our Advisory Council or partner organisations, with deep knowledge and insight into topics related to our goals. Approval is not guaranteed at any stage of the application process. For more details, please review [Our Guide to Open Calls](https://guide.reset.tech/decision-process).
+Our Open Calls are a competitive process with publicly available open applications. The number of applications approved for funding from a round of Open Calls vary depending on the quality of applications, our capacity, and priorities. For every Open Call, an applicant completing and submitting their application is always the first step in the process. 
+
+All submitted applications will be reviewed by members of the Reset team. Based on this review, selected applications may be invited to submit additional information. Finalists are reviewed by an independent panel of experts with deep knowledge and insight into the topics related to our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) \(panelists may, for example, include members of our [**Advisory Council**](https://www.reset.tech/people/) or partner organisations\). For more details on the various stages of review, check out our [**Decision Process**](https://guide.reset.tech/for-applicants/decision-process) overview.
+
+_**Note:**_ Approval is not guaranteed at any stage of the application process.
 
 ## Application deadlines
 
-Applications for all our Open Calls are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines every other month. Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
+Applications for all our Open Calls are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
 
-To stay up to date on any changes to the Open Calls and other Reset funding opportunities, sign up to join the [Reset announcements](https://hello.reset.tech/announce).
+_**Note:**_ To make sure you're always up to date on any changes to our Open Calls, and to learn about other Reset funding opportunities, sign up for [**Reset announcements**](https://hello.reset.tech/announce).
 
 ## Eligibility 
 
-Reset does not have any requirements regarding an applicant’s status - whether for-profit, nonprofit, or a single individual, so long as the proposed effort fits within the aims of our Open Call, goals, and focus areas, it may be considered. A consortia of multiple people or organisations with one individual or organisation designated as the lead applicant are all welcome to apply. Applicants may be located in or organized under the laws of any country, except for any country on which the United States, the United Kingdom, or the European Union has imposed trade restrictions or export sanctions.
+Reset does not have any requirements regarding an applicant’s status - whether for-profit, nonprofit, or a single individual. A consortia of multiple people, or organisations with one individual, or an organisation designated as the lead applicant are all welcome to apply. Applications will be considered so long as their proposed efforts fit within the [**Goals, objectives, and areas of work**](https://guide.reset.tech/introduction/goals-objectives) requirements for all Open Call projects.
+
+_**Note:**_ Applicants may be located in or organised under the laws of any country, except for any country on which the United States, the United Kingdom, or the European Union has imposed trade restrictions or export sanctions.
 
 ## Restrictions
 
@@ -65,26 +71,24 @@ Applicants must not provide any type of support for any member, affiliate or rep
 
 ## Areas of work
 
-Ideal applications will fit within one of these four types of work:
+Ideal applications will fit within one of these four [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work):
 
-* **Policy & Advocacy:** Develop and advance a global public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
+* **Policy/Advocacy:** Develop and advance a global public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
 * **Research:** Study the ways technology is harming democracy, how this can be reversed by creating better technology, and how to design effective legal and regulatory systems.
 * **Technology:** Design and implement both existing and new tools that support in-depth research, activist engagement, and educational insights into surveillance commerce and digital threats to democracy, and viable virtuous alternatives to the dominant exploitative platforms.
-* **Civic engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
+* **Civic Engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 
 ## Ideal applicants
 
-Our Open Calls are a competitive process with publicly available open applications. The number of applications approved for funding from a round of Open Calls vary depending on the quality of applications, our capacity, and priorities.
+Applicant criteria varies per Open Call and specific criteria may be found in each Open Call description. In general, however, we are purposefully looking to support a diverse mix of partner organisations and individuals. Consistent with our [**Principles & values**](https://guide.reset.tech/introduction/principles-values), we are particularly interested in receiving applications from individuals, or from organisations with key team members that will be working on the project, who consider themselves underrepresented within the communities and fields affected by \(or responding to\) [**surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat).
 
-Applicant criteria varies per Open Call and specific criteria may be found in each Open Call description. In general, we are purposefully looking for a diverse mix of partner organisations and individuals.  We are particularly keen to receive applications from individuals, or from organizations with key team members that will be working on the project, who consider themselves under-represented within the communities and fields affected by or responding to surveillance capitalism.
+We strongly encourage applications from computer scientists, human rights scholars, human-computer interaction researchers, anthropologists, ethnographers, statisticians, and mathematicians who are seeking to apply their scientific and technical skills to social problems. In addition, we welcome all those whose [**Priorities**](https://guide.reset.tech/for-applicants/fund-guidelines#priorities) align with ours, including general technologists, software developers, engineers, information security researchers, data scientists, data visualisation experts, digital rights defenders, designers, lawyers, researchers, community organisers, social scientists, artists, advocates and activists, educators, journalists, entrepreneurs, industry actors, policy analysts, public intellectuals, those who recently served in a government office or position, and those whose practice doesn’t fit squarely into conventional categories. We encourage organisations with such individuals \(who will be working on the proposed project as key team members\) to apply as well.
 
-We strongly encourage applications from computer scientists, human rights scholars, human-computer interaction researchers, anthropologists, ethnographers, statisticians, and mathematicians who are seeking to apply their scientific and technical skills to social problems, and from organizations with such individuals as key team members that will be working on the project. We also welcome general technologists, software developers, engineers, information security researchers, data scientists, data visualisation experts, digital rights defenders, designers, lawyers, researchers, community organisers, social scientists, artists, advocates and activists, educators, journalists, entrepreneurs, industry actors, policy analysts, public intellectuals, those who recently served in a government office or position, those whose practice doesn’t fit squarely into conventional categories, and all others as individual applicants and key team members on an organization’s project.
+We also encourage individual applications from independent scholars and individuals employed by universities, civil society organisations, and corporations \(including those on sabbatical\). We are disciplinary agnostic and welcome people from critical, empirical, technical, legal, and humanistic fields.
 
-We encourage individual applications from independent scholars and individuals employed by universities, civil society organisations, and corporations, including those on sabbatical.  We are disciplinary agnostic and welcome people from critical, empirical, technical, legal, and humanistic fields.
+_**Note:**_ In an effort to empower new talent and ideas, Reset will prioritise projects coming from individuals or organisations who are new to the digital rights community, identify as underrepresented within related fields, and are requesting less than $300,000 for efforts within a 12-month period or less. Applicants already receiving support or known to other [**Omidyar Group**](https://www.omidyargroup.com/organizations/) organisations are eligible for Open Call awards. That said, applicants new to us will generally be considered to be [**more competitive**](https://guide.reset.tech/for-applicants/faq#what-does-it-mean-when-an-application-is-designated-as-in-scope-or-out-of-scope-and-competitive-or-not-competitive).
 
-In a bid to empower a new pool of talent, Reset will prioritise projects coming from individuals or organisations who are new to the digital rights community, identify as under-represented within related fields, and are requesting less than $300,000 for efforts within a 12-month duration or less.
-
-Applicants already receiving support or known to other [Omidyar Group](https://www.omidyargroup.com/organizations/) organisations are eligible for Open Call awards. That said, applicants new to us will generally be considered [more competitive](https://guide.reset.tech/faq#what-do-we-mean-when-we-say-an-application-is-in-or-out-of-scope-and-competitive-or-not).
+_**Note:**_ Reset does support projects that are commercial or proprietary in nature, but such projects are _less likely_ to be approved for funding because Reset places a high priority on funding the creation or ongoing support of projects that are open-source and freely available to download and use because these projects ensure a low barrier to user adoption and use \(and are thus more consistent with our [**Goals and objectives**](https://guide.reset.tech/introduction/goals-objectives)\).
 
 ## Target beneficiaries
 
