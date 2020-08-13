@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Reset's Guide to Open Calls](README.md)
-* [Overview](introduction/README.md)
+* [Reset Overview](introduction/README.md)
   * [How we see the world](introduction/how-we-see-the-world.md)
   * [Goals, objectives, & areas of work](introduction/goals-objectives.md)
   * [Principles & values](introduction/principles-values.md)
@@ -10,6 +10,7 @@
 
 ## For applicants
 
+* [Overview](for-applicants/overview.md)
 * [FAQs](for-applicants/faq.md)
 * [Decision Process](for-applicants/decision-process/README.md)
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
