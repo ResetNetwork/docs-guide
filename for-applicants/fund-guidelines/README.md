@@ -5,7 +5,7 @@ description: >-
   Fellowship.
 ---
 
-# Fund Guidelines
+# Application Guidelines
 
 ## Covered Topics
 

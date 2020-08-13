@@ -13,7 +13,7 @@
 * [FAQs](for-applicants/faq.md)
 * [Decision Process](for-applicants/decision-process/README.md)
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
-* [Fund Guidelines](for-applicants/fund-guidelines/README.md)
+* [Application Guidelines](for-applicants/fund-guidelines/README.md)
   * [Fellowships](for-applicants/fund-guidelines/fellowships.md)
   * [Funds](for-applicants/fund-guidelines/funds.md)
   * [Flash grants](for-applicants/fund-guidelines/flash-grants.md)
