@@ -1,76 +1,71 @@
 # Flash grants
 
-Our flash grant program is an experiment very much inspired by and directly modeled on the [**Shuttleworth Foundation**](https://www.shuttleworthfoundation.org/)'s successful [**flash grant program**](https://www.shuttleworthfoundation.org/fellows/flash-grants/). It is one of the ways we at Reset are [_**reimagining philanthropy**_](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119). 
+Our flash grant program is an experiment very much inspired by and directly modeled on the [**Shuttleworth Foundation**](https://www.shuttleworthfoundation.org/)'s successful [**flash grant program**](https://www.shuttleworthfoundation.org/fellows/flash-grants/). It is one of the ways we at Reset are [_**reimagining philanthropy**_](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119), with the hope of growing our network and work even further. 
 
 We are currently testing two types of flash grants:
 
 * [**Collaborative flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#collaborative-flash-grants)\*\*\*\*
 * \*\*\*\*[**Referral flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#referral-flash-grants)\*\*\*\*
 
-Learn more about each of these grants below, as well as why we're offering them, who can participate, and how they will work.
-
-## Why are we doing this?
-
-### You deserve more
-
-Through our Open Calls, we are only able to approve a small percentage of total number of applications we receive. We do not think it fair that you spent so much time sharing knowledge with us and did not get anything in return. That is one of the reasons why we are committed to sending everyone who is dismissed a good reason why \(we actually spend more time writing dismissal messages than approvals\).
-
-### Openness is power
-
-The harms of surveillance capitalism persist because of a knowledge asymmetry between Big Tech and everyone else. Traditional philanthropy often views intellectual property of those we support in similar competitive ways to recoup investment. Keeping good ideas locked away means they can not be expanded or built upon, money and time invested can be wasted rather than leveraged, or power gained can be consolidated rather than shared.
-
-### Sharing power
-
-We believe the knowledge and experience you provide us through your application is more powerful than the money we have. Traditionally, donors only share that power of money with themselves and those they fund. Because you shared your power, your knowledge with us, we want to try reaching further to share our power with you, who applied but we were not able to fund.
-
-### Defined by our network
-
-We believe the lasting impact we make will be defined by the individual nodes in our network, each node's agency to expand the network by making new and diverse connections, the positive change for each we are able to support, and then how they positively change us.
+Learn more about each of these grants below, including who can participate, how they will work, and why we're offering them.
 
 ## Who can participate?
 
-To participate in both, you must:
+To participate and be eligible to receive a Collaborative flash grant or a Referral flash grant, you must:
 
 * Submit a complete application to one of our Open Calls;
-* _**NOT**_ opt-out of sharing application information with other applicants when submitting your application;
+* When submitting your application, choose _**NOT**_ to opt-out of sharing application information with other applicants \(this step is essential\);
 * Be the point of contact for an application we determined was within our remit; and,
-* Be the point of contact for an application no older than 1 year.
+* Be the point of contact for an application no older than one year.
 
-To participate in a Referral flash grant, you must additionally:
+To participate in a Referral flash grant, you must also:
 
 * Have been successfully funded by Reset within the past year.
 
-## How does it work?
+## How do flash grants work?
 
 ### Collaborative flash grants
 
+Collaborative flash grants 
+
 1. You apply to one of our Open Calls.
-2. We complete our review.
-3. Upon meeting the above criteria, your application will be added to a registry of others like you. 
+2. We complete our review of your application.
+3. If you meet the above criteria, your application will be added to a registry of others like you. 
 4. You will be given access to that registry for review.
-5. If you see other interesting applications, reach out to their applicant, get to know them, and come up with an exciting idea, we want to know.
-6. Using a special short application form only available to you while listed in the registry, you and up to 5 other applicants can submit a flash grant for our review.
-7. We will complete a review.
-8. If accepted, each participating applicant will be awarded.
+5. If you see other interesting applications, reach out to their applicant, get to know them, and come up with an exciting idea.
+6. Using a special short application form \(which only becomes available to you while you are listed in the registry\), you and up to five other applicants can submit an application for a Collaborative flash grant.
+7. Once we receive your application, we will conduct a review to determine whether or not to issue an award.
+8. If the application is accepted, each participating applicant will be awarded.
 
 ### Referral flash grants
 
-1. Any applicant with an approved application is empowered to make a referral. This includes collaborative flash grant awardees.
-2.  After being approved, you will be given access to a referral from. 
-3. Once you complete the form, we will invite the referral to complete a special short application form.
-4. We do a very light review. It must be within our remit and legal but we do not have to believe in it. In very very very rare cases, we will not approve.
-5. When accepted, the applicant will be awarded. If they shared their application information, they would also be eligible for participating in a collaborative flash grant.
+Any applicant with an approved application is empowered to make a referral \(this includes Collaborative flash grant awardees\). After an application is approved, follow these steps to make a referral:
 
-#### Conditions
+1. Upon approval of your application, you will be given access to a referral form. 
+2. Complete and submit this referral form \(in which you will recommend another applicant or potential applicant to receive award\).
+3. Once we receive your completed referral form, we will invite the referred individual to complete and submit a special short application form for a Referral flash grant.
+4. Once we receive the referred individual's application, we will conduct a very light review to ensure making the award would be within our remit and legal. Only in extremely rare cases will we not approve.
+5. After we approve the application, the applicant will be awarded. If they shared their application information, they would also be eligible for participating in a Collaborative flash grant \(see above\).
+
+#### Conditions for Referral flash grants:
 
 * You can only do this within the first year of your approval, regardless of how long we fund you. 
 * You only get to make two referrals.
 * The referral cannot be to directly benefit an effort for your that we are already actively supporting. It is totally fine, however, if they are working closely in your space.
 
-## How much does it give?
+## How much funding does a flash grant provide?
 
-Each award is worth $5,000 USD per recipient.   
-- 
+Each award is worth $5,000 USD per recipient. 
+
+## Why are we doing this?
+
+### You deserve more
+
+Through our Open Calls, we are only able to approve a small percentage of the total number of applications we receive. Yet we believe the knowledge and experience you share through your application is more powerful than the money we have. Traditionally, donors only share that power of money with themselves and those they are able to initially fund. But because you shared your power and knowledge with us, we want to do our  best to find a way to share our power with you - even those who applied for funding but did not initially have their application accepted. That is why we are testing out flash grants, and why we are always committed to providing substantial feedback to every applicant whose Open Call application is not accepted \(we actually spend more time writing dismissal messages than approvals\).
+
+### Defined by our network
+
+Lastly, we believe the lasting impact we make will be defined by the individual nodes in our network, each node's agency to expand the network by making new and diverse connections, and the positive change that occurs through our support of each node \(both for their beneficiaries and us\). Providing flash grants is another opportunity for us to continue to expand our network.
 
 
 
