@@ -1,17 +1,19 @@
 # Flash grants
 
-Our flash grant program is an experiment very much inspired by and directly modeled from Shuttleworth Foundation's own successful [flash grant program](https://www.shuttleworthfoundation.org/fellows/flash-grants/). It is one of the ways at Reset we are [_reimagining philanthropy_](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119). 
+Our flash grant program is an experiment very much inspired by and directly modeled on the [**Shuttleworth Foundation**](https://www.shuttleworthfoundation.org/)'s successful [**flash grant program**](https://www.shuttleworthfoundation.org/fellows/flash-grants/). It is one of the ways we at Reset are [_**reimagining philanthropy**_](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119). 
 
 We are currently testing two types of flash grants:
 
-* [Collaborative flash grants](https://guide.reset.tech/fund-guidelines/flash-grants#collaborative-flash-grants)
-* [Referral flash grants](https://guide.reset.tech/fund-guidelines/flash-grants#referral-flash-grants)
+* [**Collaborative flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#collaborative-flash-grants)\*\*\*\*
+* \*\*\*\*[**Referral flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#referral-flash-grants)\*\*\*\*
+
+Learn more about each of these grants below, as well as why we're offering them, who can participate, and how they will work.
 
 ## Why are we doing this?
 
 ### You deserve more
 
-Unfortunately, we are only able to approve a small percentage of applications receive. We do not think it fair that you spent so much time sharing knowledge with us and did not get anything in return. That is one of the reasons why we are committed to sending everyone who is dismissed a good reason why. We actually spend more time writing dismissal messages than approvals because of this.
+Through our Open Calls, we are only able to approve a small percentage of total number of applications we receive. We do not think it fair that you spent so much time sharing knowledge with us and did not get anything in return. That is one of the reasons why we are committed to sending everyone who is dismissed a good reason why \(we actually spend more time writing dismissal messages than approvals\).
 
 ### Openness is power
 
@@ -29,12 +31,12 @@ We believe the lasting impact we make will be defined by the individual nodes in
 
 To participate in both, you must:
 
-* Submit a complete application to one of our open calls;
+* Submit a complete application to one of our Open Calls;
 * _**NOT**_ opt-out of sharing application information with other applicants when submitting your application;
 * Be the point of contact for an application we determined was within our remit; and,
 * Be the point of contact for an application no older than 1 year.
 
-To participate in a Referral flash grants, you must additionally:
+To participate in a Referral flash grant, you must additionally:
 
 * Have been successfully funded by Reset within the past year.
 
@@ -42,7 +44,7 @@ To participate in a Referral flash grants, you must additionally:
 
 ### Collaborative flash grants
 
-1. You apply to one of our open calls.
+1. You apply to one of our Open Calls.
 2. We complete our review.
 3. Upon meeting the above criteria, your application will be added to a registry of others like you. 
 4. You will be given access to that registry for review.
@@ -63,7 +65,7 @@ To participate in a Referral flash grants, you must additionally:
 
 * You can only do this within the first year of your approval, regardless of how long we fund you. 
 * You only get to make two referrals.
-* The referral can not be to directly benefit a effort we are actively supporting you for. It is totally fine if they are working closely in your space.
+* The referral cannot be to directly benefit an effort for your that we are already actively supporting. It is totally fine, however, if they are working closely in your space.
 
 ## How much does it give?
 
