@@ -26,7 +26,7 @@ This Guide acts as a starting point for applicants and other interested parties 
 * application timing and workflows, and 
 * other useful application tips. 
 
-In addition to clarifying the process for would-be applicants,  compiling and presenting this information in a public manner also helps us make good on our commitment to act transparently and openly share all possible aspects of our work. To this end, the Guide also provides a section for reviewers - enabling applicants to view the [**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet) and [**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations) that reviewers use when evaluating applications. Our hope is that granting applicants access to this kind of information will help them to prepare and submit their most competitive applications.
+In addition to clarifying the process for would-be applicants, compiling and presenting this information in a public manner also helps us make good on our commitment to act transparently and openly share all possible aspects of our work. To this end, the Guide also provides a section for reviewers - enabling applicants to view the [**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet) and [**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations) that reviewers use when evaluating applications. Our hope is that granting applicants access to this kind of information will help them to prepare and submit their most competitive applications.
 
 ## A Living Document
 
