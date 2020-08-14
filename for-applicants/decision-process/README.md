@@ -12,7 +12,7 @@ We always aim to be upfront about how we invest because transparency is one of o
 
 ## When to Apply
 
-Applications for all Open Calls are accepted on a [**rolling basis**](https://guide.reset.tech/for-applicants/faq#when-does-reset-accept-applications-when-are-the-deadlines), and there will always be at least one Open Call that is accepting applications. You can choose submit an application at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). 
+Applications for all Open Calls are accepted on a [**rolling basis**](https://guide.reset.tech/for-applicants/faq#when-does-reset-accept-applications-when-are-the-deadlines), and there will always be at least one Open Call that is accepting applications. You can choose to submit an application at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). 
 
 _**Note:**_ Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed in the next round. We review applications at the end of each round.
 
@@ -55,25 +55,25 @@ If we are continuing to consider your application, you will receive an initial d
 {% tab title="4" %}
 ### Additional information
 
-At this stage, we will need more information. The scope, risk, and amount requested in the application will determine how much or how little additional information is required. We may ask you to participate on a audio/video conversation for us to learn more, submit further information or even a complete another application for due diligence purposes. We will specify a date by which you will be expected to respond.
+At this stage in the process, we will need more information from you. The scope, risk, and amount requested in the application will determine how much or how little additional information is required. We may ask you to participate on an audio/video call to help us learn more, or you may be asked to submit further information or even a complete another application for due diligence purposes. We will specify a date by which you will be expected to respond.
 
-You can expect us to have follow-up questions or comments to solicit additional clarifying information; we do this for just about all of the projects we end up supporting. Ideal applicants are specific and cost-conscious in these areas, while drilling down on details that will help make your big-picture idea come to life.
+You can expect us to have follow-up questions or comments to solicit additional clarifying information; we do this for just about every project we end up supporting. Ideal applicants are specific and cost-conscious in these areas, while drilling down on details that will help make their big-picture idea come to life \(for reviewers, and then ultimately the public\).
 
-Once we our questions have been addressed, we will make another determination. Again, if we decline your application, we will provide you with feedback on why your concept was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application. If we continue to consider your application, at this stage we will present your application to our review panel for their thoughts.
+Once our questions have been addressed, we will make another determination. Again, if we decline your application, we will provide feedback on why your concept was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application. If we continue to consider your application at this stage, we will present your application to our review panel for their thoughts.
 {% endtab %}
 
 {% tab title="5" %}
 ### Review panel
 
-Our review panels are made up of a diverse array of subject matter experts who understand various relevant fields and issues as they relate to our goals and objectives. They are subject matter experts who have a vested interest in Reset funding decisions and are uniquely positioned to bolster our project oversight capacity, expertise, perspective, and accountability. At least two reviews from Advisory Council members are required before an application can move forward. 
+Our review panels are made up of a diverse array of subject-matter experts who understand various relevant fields and issues as they relate to our [**Goals & objectives**](https://guide.reset.tech/introduction/goals-objectives). These individuals have a vested interest in Reset funding decisions and are uniquely positioned to bolster our project oversight capacity, expertise, perspective, and accountability. At least two reviews from [**Advisory Council**](https://www.reset.tech/people/) members are required before an application can move forward. 
 
-Once we have reviews from the panel, we will make another determination. Again, if we decline your application, we will provide you with feedback on why your concept was not considered to move forward. We very much encourage people to use this feedback to re-apply with a stronger application. If we continue to consider your application, at this stage your application moves on to final approval.
+Once we have reviews from the panel, we will make another determination. Again, if we decline your application, we will provide you with feedback on why your concept was not considered to move forward. As always, we very much encourage applicants to use this feedback to re-apply with a stronger application. If we continue to consider your application at this stage, your application will move on to final approval.
 {% endtab %}
 
 {% tab title="6" %}
 ### Final approval
 
-Before formal approval of your application, we will consult our finance and legal teams, as well as any other relevant experts, and depending on the amount and risk, we may also consult our steering committee. For-profit investments often require more extensive structuring discussions at this stage, which may be an iterative process.
+Before formal approval of your application, we will consult our finance and legal teams, as well as any other relevant experts. Depending on the requested amount of funding and risk involved, we may also consult our steering committee. For-profit investments often require more extensive structuring discussions at this stage, which may be an iterative process.
 
 Upon completion of this stage, we will inform you whether your application has been accepted or declined and why.
 {% endtab %}
@@ -81,21 +81,23 @@ Upon completion of this stage, we will inform you whether your application has b
 {% tab title="7" %}
 ### Legal review
 
-* The performance-based contract or funding agreement, as applicable, is drafted by our legal team
-* The performance-based contract or funding agreement, as applicable, is sent for your review and signature
-* Project can begin
+In preparing the project agreements, the following will occur:
 
-Once we have finalised approvals and the terms of the contract or funding agreement, including agreeing structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for review and signature – and the project can begin.
+* The performance-based contract or funding agreement, as applicable, will be drafted by our legal team;
+* The performance-based contract or funding agreement, as applicable, will be sent to you for your review and signature;
+* Upon review and signing, the project will begin.
+
+Once we have finalised approvals and the terms of the contract or funding agreement, including agreeing to structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for your review and signature. After that, the project can begin!
 {% endtab %}
 
 {% tab title="8" %}
 ### Oversight
 
-Once the project begins, we look forward to working closely with the organisation or individual to providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. We encourage open communication, will schedule regular catch-ups, and agree on a regular reporting structure.
+Once the project begins, we look forward to working closely with the organisation or individual and providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. We encourage open communication, will schedule regular catch-ups, and will agree on a regular reporting structure.
 {% endtab %}
 {% endtabs %}
 
-**Just a quick reminder:** Approval is not guaranteed at any stage of the process. If your application is not approved, know that we will always explain why and provide clear and constructive feedback.
+**Just a quick reminder:** Approval is not guaranteed at any stage of the process. If your application is not approved, know that we will always explain why and provide clear and constructive feedback \(and you can always choose to re-apply based on this feedback\).
 
 
 
