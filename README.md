@@ -32,6 +32,8 @@ In addition to clarifying the process for would-be applicants, compiling and pre
 
 This Guide is always changing - so check back often, and know that your input matters. Much of the information now found in the Guide was in fact informed by the numerous inquiries sent our way by curious would-be applicants. Successful applications, as well as those that we ultimately decline, necessarily help shape the process for subsequent rounds and applicants. So, if you came here with a question and find your answer, know that it is thanks to those who came before you. In that spirit, we very much welcome your [**feedback**](https://guide.reset.tech/give-us-feedback), thoughts, and opinions on how to make this Guide more useful and relevant to your needs. Feel free to comment directly within the Guide, or [**reach out**](https://guide.reset.tech/give-us-feedback) to us in whatever way is best for you.
 
+_**Note:**_ To make sure you're always up to date on any changes to our Open Calls, and to learn about other Reset funding opportunities, sign up for [**Reset announcements**](https://hello.reset.tech/announce).
+
 ## Acknowledgement & Appreciation
 
 Reset's Open Calls are inspired by the successful models developed by the [**Open Technology Fund**](https://www.opentech.fund/), [**Data & Society**](https://datasociety.net/initiatives/fellows-program/), [**Shuttleworth Foundation**](https://www.shuttleworthfoundation.org/), [**Mozilla Foundation**](https://foundation.mozilla.org/en/fellowships/), [**New Media Ventures**](https://www.newmediaventures.org/), [**Indela**](https://indela.fund), and [**various others**](https://guide.opentech.fund/appendix-iv-alternative-sources-of-support) ****committed to conducting Open Calls. Thank you all.
