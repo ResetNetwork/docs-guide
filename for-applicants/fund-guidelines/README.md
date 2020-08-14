@@ -1,15 +1,15 @@
 ---
 description: >-
-  In this section of the Guide we address the building block information that is
-  relevant for all applicants as they prepare to apply to an Open Call Fund or
-  Fellowship.
+  In this section of the Guide we address the basic building block information
+  that is relevant for all applicants as they prepare to apply to an Open Call
+  Fund or Fellowship.
 ---
 
 # Application Guidelines
 
 ## Covered Topics
 
-The following areas of interest are discussed in this section. Applicants can choose to click on any of the topic titles and immediately jump to a specific subject \(but remember, all the information is relevant for all applications\). 
+The following topics are discussed in this section. Applicants can review the topics in order, or choose to click on a specific title and immediately jump to that subject \(in doing so, please keep in mind that all the information below is relevant for all applications\). 
 
 * \*\*\*\*[**Priorities**](https://guide.reset.tech/for-applicants/fund-guidelines#priorities)\*\*\*\*
 * \*\*\*\*[**Review panel & process**](https://guide.reset.tech/for-applicants/fund-guidelines#review-panel-and-process)\*\*\*\*
@@ -19,7 +19,7 @@ The following areas of interest are discussed in this section. Applicants can ch
 * \*\*\*\*[**Areas of work**](https://guide.reset.tech/for-applicants/fund-guidelines#areas-of-work)\*\*\*\*
 * \*\*\*\*[**Ideal applicants**](https://guide.reset.tech/for-applicants/fund-guidelines#ideal-applicants)\*\*\*\*
 * \*\*\*\*[**Target beneficiaries**](https://guide.reset.tech/for-applicants/fund-guidelines#target-beneficiaries)\*\*\*\*
-* \*\*\*\*[**Commitment to Diversity**](https://guide.reset.tech/for-applicants/fund-guidelines#commitment-to-diversity)\*\*\*\*
+* \*\*\*\*[**Commitment to diversity**](https://guide.reset.tech/for-applicants/fund-guidelines#commitment-to-diversity)\*\*\*\*
 * \*\*\*\*[**Overhead costs**](https://guide.reset.tech/for-applicants/fund-guidelines#overhead-costs)\*\*\*\*
 * \*\*\*\*[**The honorarium**](https://guide.reset.tech/for-applicants/fund-guidelines#the-honorarium)\*\*\*\*
 * \*\*\*\*[**Application video**](https://guide.reset.tech/for-applicants/fund-guidelines#application-video)\*\*\*\*
@@ -41,21 +41,21 @@ Applicants must have a strong understanding of the challenges posed by [**survei
 
 _Reset priorities_
 
-We seek out proposals from all around the world, prioritising interventions and projects that will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
+We seek out proposals from all around the world, prioritising interventions and projects that we believe will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
 
 Every project Reset supports must conduct activities within on or more of our supported [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) and be a direct attempt to advance our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****\(generally speaking, the first items listed in our Goals and Areas of work are the ones most important to us\). Such projects will necessarily focus on [**Our vision's greatest threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) \(or teach us about a new one\). They will also meet all required criteria for the particular Open Call. 
 
 ## **Review panel & process** 
 
-Our Open Calls are a competitive process with publicly available open applications. The number of applications approved for funding from a round of Open Calls vary depending on the quality of applications, our capacity, and priorities. For every Open Call, an applicant completing and submitting their application is always the first step in the process. 
+Our Open Calls are a competitive process with publicly available open applications. The number of applications approved for funding from a round of Open Calls varies depending on the quality of applications, our capacity, and priorities. 
 
-All submitted applications will be reviewed by members of the Reset team. Based on this review, selected applications may be invited to submit additional information. Finalists are reviewed by an independent panel of experts with deep knowledge and insight into the topics related to our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) \(panelists may, for example, include members of our [**Advisory Council**](https://www.reset.tech/people/) or partner organisations\). For more details on the various stages of review, check out our [**Decision Process**](https://guide.reset.tech/for-applicants/decision-process) overview.
+All submitted applications will be reviewed by members of the Reset team. Based on this initial review, selected applications may be invited to submit additional information. Finalists are reviewed by an independent panel of experts with deep knowledge and insight into the topics related to our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) \(panelists may, for example, include members of our [**Advisory Council**](https://www.reset.tech/people/) or partner organisations\). For more details on the various stages of review, check out our [**Decision Process**](https://guide.reset.tech/for-applicants/decision-process) overview.
 
 _**Note:**_ Approval is not guaranteed at any stage of the application process.
 
 ## Application deadlines
 
-Applications for all our Open Calls are accepted on a rolling basis. You can submit at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed in the next round. Reset reviews applications at the end of each round.
+Applications for all our Open Calls are accepted on a rolling basis. You can choose to submit at any time throughout the year, with “round” deadlines occurring every other month \(January 1, March 1, May 1, July 1, September 1, and November 1\). Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed as part of the next round. Reset reviews applications at the end of each round.
 
 _**Note:**_ To make sure you're always up to date on any changes to our Open Calls, and to learn about other Reset funding opportunities, sign up for [**Reset announcements**](https://hello.reset.tech/announce).
 
