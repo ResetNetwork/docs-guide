@@ -57,7 +57,7 @@ Applications for all our Open Calls are accepted on a rolling basis. You can sub
 
 Round deadlines occur on January 1, March 1, May 1, July 1, September 1, and November 1. Applications must be submitted no later than 23:59 \(11:59PM\) GMT on the date of the deadline in order to be considered as part of that round. If a submission is received after that time, it will be reviewed during the next round. Reset reviews applications at the end of each round.
 
-_**Note:**_ You can check out our existing Open Calls [**here**](https://www.reset.tech/open-calls/).
+_**Note:**_ You can check out our existing Open Calls [**here**](https://www.reset.tech/open-calls/). To make sure you're always up to date on any changes to our Open Calls, and to learn about other Reset funding opportunities, sign up for [**Reset announcements**](https://hello.reset.tech/announce).
 {% endhint %}
 
 ## Is there a minimum or maximum monetary amount for funding requests?
