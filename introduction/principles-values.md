@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here we discuss the evolving principles and values that guide our Open Call
-  process, noting how they are prioritised and reinforced.
+  These are the evolving principles and values that guide our Open Call process,
+  and the ways by which we prioritise and reinforce them.
 ---
 
 # Principles & values
@@ -12,19 +12,19 @@ Together, our principles and values form the foundation of the culture we hope t
 
 We adhere to the following principles as we make our day-to-day decisions in the Open Calls process: 
 
-* **Data privacy advances human rights:** Sustain and advance individual data privacy protections in everything we do. In the digital age, the misuse of personal information facilitates discrimination, deteriorates free expression, disrupts citizen participation in government, and many other declared human rights. We believe the best way to defend human rights today is by advancing data privacy.
-* **Tell the truth, be trusted:** “Honesty is a gift we can give to others, a source of power, and an engine of simplicity. Knowing that we told the truth in the past leaves us nothing to keep track of." Does what we do help us become a more trusted community member?
+* **Data privacy advances human rights:** Sustain and advance individual data privacy protections in everything we do. In the digital age, the misuse of personal information facilitates discrimination, deteriorates free expression, disrupts citizen participation in government, and endangers many other declared human rights. We believe the best way to defend human rights today is by advancing data privacy.
+* **Tell the truth, be trusted:** “Honesty is a gift we can give to others, a source of power, and an engine of simplicity. Knowing that we told the truth in the past leaves us nothing to keep track of \(paraphrasing Sam Harris' [_**Lying**_](https://samharris.org/books/lying/)\)." Does what we do help us become a more trusted community member?
 * **We know very little:** View every situation as an opportunity to learn, practice active listening, give feedback without fear, and be more interested in learning than being right.
 * **Be human-centered:** Measure the actual impact of what we do and what we support by evaluating the experience of those who are at the receiving end of the engagement. We view our work as building relationships by conducting transactions.
 * **Communicate clearly:** We speak our loudest and clearest with what and how we fund when we are succinct, candid, and kind. 
 * **Breadth over depth, but also reach:** Always think about things in the broader sense, what broader effects it could have, while focusing on a specific challenges or solutions \(not either/or\).
 * **Assume scarcity:** Always try to stretch the resources we have, get excited when things have multiple uses, spend money like it is the last, and maintain a runway.
-* **Life balance:** This is a long-term challenge and we want as many people to join and thrive in that time, so it is important to take time off and maintain a work-life balance. Being a primarily remote-only team is a large part of the solution.
+* **Life balance:** This is a long-term challenge and we want as many people to join and thrive in that time, so it is important to take time off and maintain a healthy work-life balance. Being a primarily remote-only team is a large part of the solution.
 * **Uphold our values:** Make all our decisions based on the values detailed below, even if it is inconvenient.
 
 ## Values
 
-The following interlinked values \(**Change, Collaboration, Results, Efficiency, Diversity,** and **Transparency**\) help define our interactions and protect our culture:
+The following interlinked values \(**Results, Change, Transparency, Efficiency, Collaboration,** and **Diversity**\) help define our interactions and protect our culture:
 
 * **Results:** We do what we promise to each other, applicants, supported projects, those who support us, our other stakeholders, and the public. We expect the same in return.
 * **Change:** We believe the greatest ideas are iterative innovations - supported by healthy ecosystems that share, use, and build openly and collaboratively; built by embracing change through experimentation, reflection, and adaptation without fear of failure.
@@ -34,7 +34,7 @@ The following interlinked values \(**Change, Collaboration, Results, Efficiency,
 
 * **Efficiency:** We care about working on and supporting the right things, not doing more than needed, not duplicating work, and working smarter not harder. This enables us to achieve more progress, have a greater effect, and be a part of larger impacts - which makes the work we do more fulfilling.
 * **Collaboration:** Helping others is our priority, even when it is not immediately related to the goals that we are trying to achieve. 
-* **Diversity:** We are committed to creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table and have agency in formulating solutions. We are we committed to taking on that challenge, and will strive to better support underrepresented voices in the communities we support through a variety of critical means.
+* **Diversity:** We are committed to creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table and have agency in formulating solutions. We are committed to taking on that challenge, and will strive to better support underrepresented voices in the communities we support through a variety of critical means.
 
 ### Values can be prioritised 
 
@@ -46,9 +46,9 @@ Occasionally, the values discussed above may contradict or come into conflict wi
 | **Change** | **Transparency** | \*\*\*\* | _We trust these values will lead to better results_ |
 | **Efficiency** | **Collaboration** | **Diversity** | _These values distinguish applicants and us to others_ |
 
-Reflecting on values in any given context necessarily requires accepting nuance rather than thinking only in absolutes. If one believes values-based decisions are binary or zero sum, coming to a decision will typically not go well - and often may result in failure. Fluidity and reasonableness are key. Notably, even the order of priority discussed above may not be absolute in all circumstances. Each specific context will determine which values are ultimately the most important to be adhered to. Nonetheless, setting a default priority of values is our attempt to ground the process \(and also achieve transparency\). It will not preempt or direct every debate, but it will help all parties better understand where we are coming from and what we hope to achieve. There will always be interpretation, there is always magnitude to consider, and that is welcome.
+Reflecting on our values in any given context necessarily requires accepting nuance rather than thinking only in absolutes. If one believes values-based decisions are binary or zero sum, coming to a decision will typically not go well - and often may result in failure. Fluidity and reasonableness are key. Notably, even the order of priority discussed above may not be absolute in all circumstances. Each specific context will determine which values are ultimately the most important to be adhered to. Nonetheless, setting a default priority of values is our attempt to ground the process \(and also achieve greater transparency\). Doing so will not preempt or direct every debate, but it will help all parties better understand where we are coming from and what we hope to achieve. There will always be interpretation, there is always magnitude to consider, and that is welcome.
 
-We maintain an awareness that values are not always held equally so that it is clear, in the end, which matters most in any given context. For instance, we are not going to be transparent or diverse for the sake of it. We are not radical or trying to virtue signal these values. We do it because evidence supports working openly, improving diversity, and being inclusive leads to better outcomes.
+We maintain an awareness that values are not always held equally in a manner that makes it clear, in the end, which matters most in any given context. For instance, we are not going to be transparent or diverse for the sake of it. We are not radical or trying to virtue signal these values. We do it because evidence supports working openly, improving diversity, and being inclusive leads to better outcomes.
 
 ### How we reinforce these values
 
