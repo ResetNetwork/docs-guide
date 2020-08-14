@@ -77,7 +77,7 @@ _**Note:**_ Although we always do our best to be as timely as possible, there is
 ## Does Reset support projects that are commercial or proprietary in nature?
 
 {% hint style="info" %}
-Yes - but please note that such projects are _less likely_ to be approved for funding because Reset places a high priority on funding the creation or ongoing support of projects that are open source and freely available to download and use because these projects ensure a lower barrier to user adoption \(and are thus more consistent with our [**Goals and objectives**](https://guide.reset.tech/introduction/goals-objectives)\).
+Yes - but please note that such projects are _less likely_ to be approved for funding because Reset places a high priority on funding the creation or ongoing support of projects that are open source and freely available to download and use because these projects ensure a lower barrier to user adoption \(and are thus more consistent with our [**Goals & objectives**](https://guide.reset.tech/introduction/goals-objectives)\).
 {% endhint %}
 
 ## Does Reset support overhead costs?
