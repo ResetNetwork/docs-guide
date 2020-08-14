@@ -1,7 +1,7 @@
 ---
 description: >-
   Here we discuss the evolving principles and values that guide our Open Call
-  process, noting how they are prioritized and reinforced.
+  process, noting how they are prioritised and reinforced.
 ---
 
 # Principles & values
@@ -36,9 +36,9 @@ The following interlinked values \(**Change, Collaboration, Results, Efficiency,
 * **Collaboration:** Helping others is our priority, even when it is not immediately related to the goals that we are trying to achieve. 
 * **Diversity:** We are committed to creating an environment where all voices feel valued, included, and empowered to bring their perspectives to the table and have agency in formulating solutions. We are we committed to taking on that challenge, and will strive to better support underrepresented voices in the communities we support through a variety of critical means.
 
-### Values can be prioritized 
+### Values can be prioritised 
 
-Occasionally, the values discussed above may contradict or come into conflict with one another. For instance, _transparency_ might dictate that we publicly publish all applications the moment they are submitted. Yet doing so could potentially jeopardize the ultimate _results_ of an applicant's work. Being aware of these potential conflicts helps us to resolve confusion about what to do in specific circumstances, while still remaining broadly consistent with our beliefs. Our values, in certain instances, can therefore be prioritized as follows:
+Occasionally, the values discussed above may contradict or come into conflict with one another. For instance, _transparency_ might dictate that we publicly publish all applications the moment they are submitted. Yet doing so could potentially jeopardise the ultimate _results_ of an applicant's work. Being aware of these potential conflicts helps us to resolve confusion about what to do in specific circumstances, while still remaining broadly consistent with our beliefs. Our values, in certain instances, can therefore be prioritised as follows:
 
 | Values |  |  | Why in this order |
 | :--- | :--- | :--- | :---: |
@@ -56,7 +56,7 @@ The behavior we reward is the best reflection of our values. Therefore, we reinf
 
 1. Expecting these values from each member of the Open Call team.
 2. Referring to our values in each application decision we make.
-3. Prioritizing applicants and rewarding those who most embody our values.
+3. Prioritising applicants and rewarding those who most embody our values.
 4. Utilising value-based criteria when evaluating the success and impact of our Open Calls and the individual efforts we support.
 5. Always accepting feedback about our values \(and updating them as often as necessary\).
 

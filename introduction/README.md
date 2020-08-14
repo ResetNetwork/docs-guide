@@ -21,7 +21,7 @@ Our Open Calls also allow us to be a node within a larger network, providing Res
 
 ### Strategy as an iterative design process
 
-Reset's organization-wide strategy is an evolving and iterative process, in which Open Calls and the knowledge gained from reviewing applications is a significant catalyst of change. The two-month cycle of our [**decision-making process**](../for-applicants/decision-process/#when-to-apply) provides us with a fixed and recurring opportunity to incorporate information from participant feedback, new applications, and current partners. This knowledge creates a forcing function to refactor our Open Call and organization-wide strategy every two months \(coinciding with the previous round of processed applications\).
+Reset's organisation-wide strategy is an evolving and iterative process, in which Open Calls and the knowledge gained from reviewing applications is a significant catalyst of change. The two-month cycle of our [**decision-making process**](../for-applicants/decision-process/#when-to-apply) provides us with a fixed and recurring opportunity to incorporate information from participant feedback, new applications, and current partners. This knowledge creates a forcing function to refactor our Open Call and organisation-wide strategy every two months \(coinciding with the previous round of processed applications\).
 
 
 

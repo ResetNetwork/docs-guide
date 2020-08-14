@@ -1,6 +1,6 @@
 ---
 description: >-
-  Our Open Calls support the individuals, organizations, and communities working
+  Our Open Calls support the individuals, organisations, and communities working
   to address the damage inflicted by surveillance capitalism on human rights,
   democracy, and open societies.
 ---
@@ -23,9 +23,9 @@ To accomplish our goals, we use our Open Calls to continually:
 * **Distribute more resources -** by increasing that which is available and ensuring it is redistributed to as many aligned partners as possible.
 * **Evolve the platform -** by better facilitating the exchange of knowledge, funds, and other resources via improving and expanding our Open Call offerings.
 * **Maintain awareness -** by creating and making available open opportunities for learning and sharing.
-* **Fortify the field -** by further enabling the ecosystem of people, institutions, organizations, projects, and communities to respond and persist.
+* **Fortify the field -** by further enabling the ecosystem of people, institutions, organisations, projects, and communities to respond and persist.
 * **Grow the network -** by ensuring clear protocols exist that can be followed to facilitate healthy expansion and new connections.
-* **Protect the network -** by maintaining a productive, enriching, and safe group of esteemed individuals and organizations as Reset partners.
+* **Protect the network -** by maintaining a productive, enriching, and safe group of esteemed individuals and organisations as Reset partners.
 
 ## Areas of work
 

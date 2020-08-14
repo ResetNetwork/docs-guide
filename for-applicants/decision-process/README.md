@@ -85,13 +85,13 @@ Upon completion of this stage, we will inform you whether your application has b
 * The performance-based contract or funding agreement, as applicable, is sent for your review and signature
 * Project can begin
 
-Once we have finalized approvals and the terms of the contract or funding agreement, including agreeing structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for review and signature – and the project can begin.
+Once we have finalised approvals and the terms of the contract or funding agreement, including agreeing structure and reporting requirements with the organisation, documentation will be drafted by our legal team and, if necessary, external counsel. It will then be sent for review and signature – and the project can begin.
 {% endtab %}
 
 {% tab title="8" %}
 ### Oversight
 
-Once the project begins, we look forward to working closely with the organization or individual to providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. We encourage open communication, will schedule regular catch-ups, and agree on a regular reporting structure.
+Once the project begins, we look forward to working closely with the organisation or individual to providing ongoing support. A Reset team member will be assigned to assist you for the duration of your work with us. We encourage open communication, will schedule regular catch-ups, and agree on a regular reporting structure.
 {% endtab %}
 {% endtabs %}
 

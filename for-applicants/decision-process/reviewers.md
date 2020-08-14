@@ -1,6 +1,6 @@
 ---
 description: >-
-  These are the people and organizations with whom we may share your application
+  These are the people and organisations with whom we may share your application
   during our decision process (please note this is a work-in-progress).
 ---
 
