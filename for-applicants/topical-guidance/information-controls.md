@@ -4,17 +4,17 @@
 
 The unchecked practice of [**surveillance capitalism**](../../introduction/#our-visions-most-pressing-threat) has provided a [**select few corporations**](https://en.wikipedia.org/wiki/Big_Tech) with an unprecedented degree of control over the global flow of information. 
 
-In turn, these corporations, along with governments and other bidders misguided by profit and power, are leveraging these new abilities \(and disregarding social norms and consequences\) to create and augment increasingly repressive information controls \(tools and practices employed to restrict the free flow of information via censorship, surveillance, throttling, etc.\). Examples of information controls that challenge democratic processes and slow the spread of democracy include the expansion of unfair government surveillance via irresponsible search platform data collection, or social media platforms acting as accessories to aid misinformation campaigns that increase political polarisation.
+In turn, these corporations, along with governments and other high bidders misguided by profit and power, are leveraging these new abilities \(and disregarding social norms and consequences\) to create and augment increasingly repressive information controls \(tools and practices used to restrict the free flow of information via censorship, surveillance, throttling, etc.\). Examples of information controls that obstruct democratic processes and slow the spread of democracy include the expansion of unfair government surveillance via irresponsible search platform data collection, and social media platforms acting as accessories to aid misinformation campaigns that increase political polarisation.
 
 Reset is working towards a future in which the mass-scale commodification and misuse of mined personal information no longer come at the expense of digital rights, democracy, and open societies. Even though it is not currently the case, we believe it is in fact possible for a [**quantified society**](https://www.opensocietyfoundations.org/explainers/life-quantified-society) to exist _without_ information controls being used to repress democratic participation and evolution. 
 
-The following is an illustrative list of the type of information controls we often confront in our work. Through our Open Calls, we seek to raise civil society's ability to: 
+The following is an illustrative list of the type of information controls we often confront in our work. Accordingly, through our Open Calls, we seek to raise civil society's ability to: 
 
 * Understand of how these and related information controls work;
 * Document and prove harm from their misuse;
 * Mitigate those harms;
 * Learn how and when to use them for good; and,
-* Demonstrate that alternatives can exist without causing harm.
+* Demonstrate that alternatives can exist that don't cause harm.
 
 | **Information control examples** | \*\*\*\* |
 | :--- | :--- |
