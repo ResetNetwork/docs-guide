@@ -1,7 +1,7 @@
 ---
 description: >-
-  This is the evaluation worksheet our team and Institutional Review Board use
-  to evaluate Open Call applications.
+  The following is the evaluation worksheet our team and Institutional Review
+  Board use to evaluate Open Call applications.
 ---
 
 # Evaluation Worksheet
