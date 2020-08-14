@@ -17,7 +17,7 @@ Covered topics include:
 * \*\*\*\*[**Application Guidelines**](https://guide.reset.tech/for-applicants/fund-guidelines)\*\*\*\*
 * \*\*\*\*[**Topical Guidance**](https://guide.reset.tech/for-applicants/topical-guidance)\*\*\*\*
 
-_**Note:**_ ****Would-be applicants should also take the time to read the section of the Guide designed [**For Reviewers**](https://guide.reset.tech/for-reviewers/overview)**.** There interested applicants can view the [**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet) and [**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations) that reviewers use when evaluating applications. By enabling applicants to view the criteria that reviewers will use, we believe applicants will be able to strengthen and submit even more competitive applications.
+_**Note:**_ ****Would-be applicants should also take the time to read the section of the Guide designed [**For Reviewers**](https://guide.reset.tech/for-reviewers/overview)**.** In that section interested applicants can view the [**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet) and [**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations) that reviewers use when evaluating applications. By enabling applicants to view the criteria that reviewers will use, we believe applicants will be able to strengthen and submit even more competitive applications.
 
 
 
