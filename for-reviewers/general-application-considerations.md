@@ -1,5 +1,7 @@
 ---
-description: A deeper dive on the common considerations for reviewers.
+description: >-
+  These are the common considerations that reviewers take into account when
+  reviewing Open Call applications.
 ---
 
 # General Application Considerations
