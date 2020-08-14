@@ -1,10 +1,8 @@
----
-description: Here we hope to answer how we define information controls
----
-
 # Information controls
 
-The unchecked practice of [surveillance capitalism](../../introduction/#our-visions-most-pressing-threat) has provided a [select few corporations](https://en.wikipedia.org/wiki/Big_Tech) unprecedented control on the flow of information to and from individual members of global society. 
+## Overview
+
+The unchecked practice of [**surveillance capitalism**](../../introduction/#our-visions-most-pressing-threat) has provided a [**select few corporations**](https://en.wikipedia.org/wiki/Big_Tech) with an unprecedented degree of control over the global flow of information. 
 
 The same corporations, governments globally, and other highest bidders misguided by profit and power are disregarding social consequences and leveraging these new abilities to both create novel and augment existing information controls. Examples of information controls that challenge democratic processes and slow the spread of democracy globally include social media platforms’ role as an accessory to misinformation campaigns increasing political polarization and search platforms’ irresponsible collection of data expanding unfair government surveillance.
 
