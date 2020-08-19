@@ -9,7 +9,7 @@ description: >-
 
 ## Goals
 
-Our Open Calls seek to support technology-focused interventions with clear human-centered benefits for those negatively affected by surveillance capitalism. Every project we support, or change we make, starts with this goal in mind. Accordingly, we strive to support efforts that:
+Our Open Calls seek to support technology-focused interventions with clear human-centred benefits for those negatively affected by surveillance capitalism. Every project we support, or change we make, starts with this goal in mind. Accordingly, we strive to support efforts that:
 
 * **Improve the integrity of democracy in our digital age -** by intervening directly with governments, press, and other institutions responsible for the trust and health of current democracies.
 * **Enhance digital protections available to individuals -** by giving them the power to thwart surveillance capitalism’s ability to pervade and exploit.
