@@ -71,7 +71,7 @@ Our Open Call awards provide a minimum of $5,000 and maximum of $600,000 for a y
 {% hint style="info" %}
 Immediately after submitting your application, you should receive an email from Reset confirming that we received your submission \(this is an automated response, so if you don't receive the email it means we didn't receive your application\). Within approximately one month of your round’s application window closing \(e.g., December 1 for a November 1 deadline\), Reset will contact you and let you know whether your application has been declined or is being considered further. You can check out the different stages of the decision process [**here**](https://guide.reset.tech/for-applicants/decision-process#initial-determination).
 
-_**Note:**_ Although we always do our best to be as timely as possible, there is no guarantee that you will receive word from us within a month a given round's closing. Various factors may contribute to this time period being longer than anticipated/hoped for.
+_**Note:**_ Although we always do our best to be as timely as possible, there is no guarantee that you will receive word from us within a month of a given round's closing. Various factors may contribute to this time period being longer than anticipated/hoped for.
 {% endhint %}
 
 ## Does Reset support projects that are commercial or proprietary in nature?
