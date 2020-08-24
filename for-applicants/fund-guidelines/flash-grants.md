@@ -1,3 +1,9 @@
+---
+description: >-
+  Reset currently offers two types of flash grants - Collaborative flash grants
+  and Referral flash grants.
+---
+
 # Flash grants
 
 During the process of managing Open Calls, we see many incredible applicants ultimately not receive an award due to various factors. We encourage all such applicants to apply again in the future - using our feedback to prepare a more competitive application with hopefully better results. In the meantime, however, we don't want those applicants to be sidelined. That's why we also offer two kinds of flash grants to initially unsuccessful applicants.
