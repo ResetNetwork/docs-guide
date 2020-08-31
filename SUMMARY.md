@@ -26,7 +26,7 @@
 * [Overview](for-reviewers/overview.md)
 * [Evaluation Worksheet](for-reviewers/evaluation-worksheet.md)
 * [General Application Considerations](for-reviewers/general-application-considerations.md)
-* [Conflict of Interest Policy for Reviewers](for-reviewers/conflict-of-interest-policy-for-reviewers.md)
+* [Reviewer commitments](for-reviewers/reviewer-commitments.md)
 
 ## For the team
 
