@@ -34,7 +34,7 @@
 
 ## For Everyone
 
-* [Code of Conduct](for-everyone/code-of-conduct/README.md)
+* [Reset Code of Conduct](for-everyone/code-of-conduct/README.md)
   * [Reporting](for-everyone/code-of-conduct/reporting.md)
   * [Committee](for-everyone/code-of-conduct/committee.md)
   * [Code of Conduct FAQ](for-everyone/code-of-conduct/faq.md)
