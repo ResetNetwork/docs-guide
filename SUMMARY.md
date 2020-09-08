@@ -11,7 +11,7 @@
 ## For applicants
 
 * [Overview](for-applicants/overview.md)
-* [FAQs](for-applicants/faq.md)
+* [Applicant FAQ](for-applicants/faq.md)
 * [Decision Process](for-applicants/decision-process/README.md)
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
 * [Application Guidelines](for-applicants/fund-guidelines/README.md)

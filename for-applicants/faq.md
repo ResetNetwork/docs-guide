@@ -4,7 +4,7 @@ description: >-
   (FAQs), which many would-be applicants and partners have asked in the past.
 ---
 
-# FAQs
+# Applicant FAQ
 
 ## **What types of projects does Reset support?**
 
