@@ -4,15 +4,15 @@ description: This code of conduct applies to all spaces managed by the Reset.
 
 # Code of Conduct
 
-Like civil society as a whole, the Reset team and network is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
+Like civil society as a whole, the Reset team and network is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of accomplishing our shared vision.
 
-Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to Reset staff, council members, applicants, and partners.
+Diversity is one of our huge strengths, but it can also lead to communication issues and unhappiness. To that end, we have a few ground rules that we ask people to adhere to. This code applies equally to Reset staff, council members, applicants, partners, and other participants in the spaces we manage.
 
-This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the technical communities in which we participate.
+This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to enrich all of us and the networks in which we participate.
 
 This code of conduct applies to all spaces managed by Reset. This includes our submission app at reset.tech, mailing lists, issue trackers, code repositories, Reset events, and any other forums created by the the Reset team which the network uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [conduct@](mailto:conduct@djangoproject.com)reset.tech. For more details please see our [Reporting Guidelines](https://www.djangoproject.com/conduct/reporting/)
+If you believe someone is violating the code of conduct, we ask that you report it by emailing [conduct@reset.tech](mailto:conduct@reset.tech). For more details please see our [Reporting Guidelines](reporting.md).
 
 * **Be friendly and patient.**
 * **Be welcoming.** We strive to be a network that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
@@ -33,5 +33,5 @@ Original text courtesy of [Django](https://www.djangoproject.com/conduct/).
 
 ### Questions?
 
-If you have questions, please see [the FAQ](https://www.djangoproject.com/conduct/faq/). If that doesn't answer your questions, feel free to [contact us](mailto:conduct@djangoproject.com).
+If you have questions, please see the [FAQ](faq.md). If that doesn't answer your questions, feel free to [contact us](mailto:conduct@reset.tech).
 

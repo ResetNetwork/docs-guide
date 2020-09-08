@@ -5,7 +5,7 @@ description: >-
   please feel free to contact us.
 ---
 
-# FAQ
+# Code of Conduct FAQ
 
 **Why have you adopted a Code of Conduct?**
 
