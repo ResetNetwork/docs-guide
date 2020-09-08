@@ -32,3 +32,12 @@
 
 * [Running an Open Call](for-the-team/running-an-open-call.md)
 
+## For Everyone
+
+* [Code of Conduct](for-everyone/code-of-conduct/README.md)
+  * [Reporting](for-everyone/code-of-conduct/reporting.md)
+  * [Committee](for-everyone/code-of-conduct/committee.md)
+  * [FAQ](for-everyone/code-of-conduct/faq.md)
+  * [Enforcement](for-everyone/code-of-conduct/enforcement.md)
+  * [Todo](for-everyone/code-of-conduct/todo.md)
+
