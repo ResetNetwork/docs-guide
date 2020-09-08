@@ -1,3 +1,7 @@
+---
+description: This code of conduct applies to all spaces managed by the Reset.
+---
+
 # Code of Conduct
 
 Like civil society as a whole, the Reset team and network is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
