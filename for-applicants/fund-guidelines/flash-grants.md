@@ -1,16 +1,16 @@
 ---
 description: >-
-  Reset currently offers two types of flash grants - Collaborative flash grants
-  and Referral flash grants.
+  Reset is currently developing two types of flash grants - Collaborative flash
+  grants and Referral flash grants.
 ---
 
 # Flash grants
 
-During the process of managing Open Calls, we see many incredible applicants ultimately not receive an award due to various factors. We encourage all such applicants to apply again in the future - using our feedback to prepare a more competitive application with hopefully better results. In the meantime, however, we don't want those applicants to be sidelined. That's why we also offer two kinds of flash grants to initially unsuccessful applicants.
+During the process of managing Open Calls, we see many incredible applicants ultimately not receive an award due to various factors. We encourage all such applicants to apply again in the future - using our feedback to prepare a more competitive application with hopefully better results. In the meantime, however, we don't want those applicants to be sidelined. That's why we're working on developing two kinds of flash grants for initially unsuccessful applicants.
 
 Inspired by and directly modeled on the Shuttleworth Foundation's successful [**programme**](https://www.shuttleworthfoundation.org/fellows/flash-grants/), our flash grant programme is another way we at Reset are [_**reimagining philanthropy**_](https://www.amazon.com/Fifty-Shades-Green-Reimagining-Philanthropy/dp/1694497119) - with the hope of growing our network and work even further.
 
-With an eye toward growing our network and work even further, Reset is currently testing two types of flash grants:
+With an eye toward growing our network and work even further, Reset is currently developing two types of flash grants:
 
 * [**Collaborative flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#collaborative-flash-grants) ****- these grants allow unsuccessful applicants to see each other's top-line project ideas \(with permission\). Applicants can then connect and come up with exciting collaborative projects for which they can apply to receive flash grant funding through an exclusive and short application process.
 * \*\*\*\*[**Referral flash grants**](https://guide.reset.tech/fund-guidelines/flash-grants#referral-flash-grants) ****- these grants allow existing partners \(including those who have joined Reset's network via a flash grant\) to refer new applicants and create new connections. Through a light workflow, existing partners can invite up to two other individuals to complete a short application and receive flash grant funding.
