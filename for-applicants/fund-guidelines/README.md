@@ -51,7 +51,7 @@ Our Open Calls are a competitive process with publicly available open applicatio
 
 All submitted applications will be reviewed by members of the Reset team. Based on this initial review, selected applications may be invited to submit additional information. Finalists are reviewed by an independent panel of experts with deep knowledge and insight into the topics related to our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) \(panelists may, for example, include members of our [**Advisory Council**](https://www.reset.tech/people/) or partner organisations\). For more details on the various stages of review, check out our [**Decision Process**](https://guide.reset.tech/for-applicants/decision-process) overview.
 
-_**Note:**_ Approval is not guaranteed at any stage of the application process.
+_**Note:**_ Approval is not guaranteed at any stage of the application process. Given the high number of applications Reset receives for each Open Call, the likelihood of success for any particular application is low.
 
 ## Application deadlines
 
