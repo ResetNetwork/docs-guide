@@ -97,7 +97,7 @@ Once the project begins, we look forward to working closely with the organisatio
 {% endtab %}
 {% endtabs %}
 
-**Just a quick reminder:** Approval is not guaranteed at any stage of the process. If your application is not approved, know that we will always explain why and provide clear and constructive feedback \(and you can always choose to re-apply based on this feedback\).
+**Just a quick reminder:** Approval is not guaranteed at any stage of the process. Given the high number of applications Reset receives for each Open Call, the likelihood of success for any particular application is low. If your application is not approved, know that we will always explain why and provide clear and constructive feedback \(and you can always choose to re-apply based on this feedback\).
 
 
 
