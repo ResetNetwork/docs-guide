@@ -17,7 +17,7 @@ Covered topics include:
 
 * \*\*\*\*[**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet)\*\*\*\*
 * \*\*\*\*[**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations)\*\*\*\*
-* \*\*\*\*[**Conflict of Interest Policy for Reviewers**](https://guide.reset.tech/for-reviewers/conflict-of-interest-policy-for-reviewers)\*\*\*\*
+* \*\*\*\*[**Reviewer Commitments**](https://guide.reset.tech/for-reviewers/reviewer-commitments)\*\*\*\*
 
 ## 
 
