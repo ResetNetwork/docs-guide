@@ -47,7 +47,7 @@ _**Note**:_ Applicants may be located in or organised under the laws of any coun
 {% hint style="info" %}
 Before applying, all potential applicants should take the time to explore Reset's [**Areas**](https://www.reset.tech/work/)[ **of work**](https://www.reset.tech/work/). If it sounds like your project might be a good fit for the type of work we do, you’ll next want to identify which specific [**Fund or Fellowship**](https://www.reset.tech/open-calls/) is most appropriate for you to apply to \(e.g., Reset Our Future Fund, Information Control Fellowship, or Resident Fellowship\). From there, make sure that you meet the eligibility requirements, craft your application with an eye to receiving an "In Scope/Competitive" screening designation \(as discussed above\), and then submit your application in response to an [**existing Open Call**](https://www.reset.tech/open-calls/). 
 
-_**Note:**_ Approval is not guaranteed at any stage of the process.
+_**Note:**_ Approval is not guaranteed at any stage of the process. Given the high number of applications Reset receives for each Open Call, the likelihood of success for any particular application is low.
 {% endhint %}
 
 ## When does Reset accept applications? When are the deadlines?
