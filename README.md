@@ -1,5 +1,8 @@
 ---
-description: This Guide is designed for anyone considering applying to a Reset Open Call.
+description: >-
+  This Guide is designed for anyone considering applying to - or otherwise
+  involved with - a Reset Open Call. Applicants and reviewers alike are
+  encouraged to read all sections of the Guide.
 ---
 
 # Reset's Guide to Open Calls
