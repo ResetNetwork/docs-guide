@@ -26,7 +26,7 @@
 * [Overview](for-reviewers/overview.md)
 * [Evaluation Worksheet](for-reviewers/evaluation-worksheet.md)
 * [General Application Considerations](for-reviewers/general-application-considerations.md)
-* [Reviewer commitments](for-reviewers/reviewer-commitments.md)
+* [Reviewer Commitments](for-reviewers/reviewer-commitments.md)
 
 ## For the team
 

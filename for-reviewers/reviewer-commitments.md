@@ -5,7 +5,7 @@ description: >-
   will compromise their own integrity.
 ---
 
-# Reviewer commitments
+# Reviewer Commitments
 
 ## Conflict of interest
 
