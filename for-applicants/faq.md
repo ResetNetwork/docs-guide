@@ -9,7 +9,7 @@ description: >-
 ## **What types of projects does Reset support?**
 
 {% hint style="info" %}
-Those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****and whose activities fall within one of our four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work). Importantly, each project should address either the perils posed by [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) \(surveillance capitalism\) or one of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) ****outlined in this Guide.
+Those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****and whose activities fall within one of our four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work). Each successful project will address either the perils posed by [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) \(surveillance capitalism\) or one of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) ****outlined in this Guide.
 {% endhint %}
 
 ## What does it mean when an application is designated as "In Scope \(or Out of Scope\)" and "Competitive \(or Not Competitive\)"? 
