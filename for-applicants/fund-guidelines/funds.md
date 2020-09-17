@@ -1,5 +1,5 @@
 ---
-description: Reset currently offers one primary Open Call - the Reset Our Future Fund.
+description: Reset currently offers one primary Open Call fund - the Reset Our Future Fund.
 ---
 
 # Funds
