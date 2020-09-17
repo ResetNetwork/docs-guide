@@ -32,7 +32,7 @@ The following topics are discussed in this section. Applicants can review the to
 * \*\*\*\*[**Collective commitment**](https://guide.reset.tech/for-applicants/fund-guidelines#collective-commitment)\*\*\*\*
 * \*\*\*\*[**Terms & conditions**](https://guide.reset.tech/for-applicants/fund-guidelines#terms-and-conditions)\*\*\*\*
 
-_**Note:**_ By using the toolbar on the left, you can also check out the sub-pages of this section to review additional specific guidelines for individual Funds or Fellowships.
+_**Note:**_ By using the toolbar on the left, you can also check out the sub-pages of this section to review additional specific guidelines for individual funds or fellowships.
 
 ## Priorities
 
