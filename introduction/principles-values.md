@@ -38,7 +38,7 @@ The following interlinked values \(**Results, Change, Transparency, Diversity, E
 
 ### Values can be prioritised 
 
-Each of the interlinked values discussed above help guide our actions and shape Reset's culture. Occasionally, however, there may be instances where they contradict or come into conflict with one another. For example, _transparency_ might dictate that we publicly publish all applications the moment they are submitted. Yet doing so could potentially jeopardise the ultimate _results_ of an applicant's work. Being aware of these potential conflicts helps us to resolve confusion about what to do in specific circumstances, while still remaining broadly consistent with our beliefs. Our values, in certain instances, can therefore be prioritised as follows:
+Each of the interlinked values discussed above help guide our actions and fundamentally shape Reset's culture. Occasionally, however, there may be instances where these values contradict or come into conflict with one another. For example, _transparency_ might dictate that we publicly publish all applications the moment they are submitted. Yet doing so could potentially jeopardise the ultimate _results_ of an applicant's work. Being aware of these potential conflicts helps us to resolve confusion about what to do in specific circumstances, while still remaining broadly consistent with our beliefs. Our values, in certain instances, can therefore be prioritised as follows:
 
 | Values |  |  | Why in this order |
 | :--- | :--- | :--- | :---: |
