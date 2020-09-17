@@ -17,6 +17,7 @@ The following topics are discussed in this section. Applicants can review the to
 * \*\*\*\*[**Eligibility**](https://guide.reset.tech/for-applicants/fund-guidelines#eligibility)\*\*\*\*
 * \*\*\*\*[**Restrictions**](https://guide.reset.tech/for-applicants/fund-guidelines#restrictions)\*\*\*\*
 * \*\*\*\*[**Areas of work**](https://guide.reset.tech/for-applicants/fund-guidelines#areas-of-work)\*\*\*\*
+* \*\*\*\*[**Problems addressed**](https://guide.reset.tech/for-applicants/fund-guidelines#problems-addressed)\*\*\*\*
 * \*\*\*\*[**Ideal applicants**](https://guide.reset.tech/for-applicants/fund-guidelines#ideal-applicants)\*\*\*\*
 * \*\*\*\*[**Target beneficiaries**](https://guide.reset.tech/for-applicants/fund-guidelines#target-beneficiaries)\*\*\*\*
 * \*\*\*\*[**Commitment to diversity**](https://guide.reset.tech/for-applicants/fund-guidelines#commitment-to-diversity)\*\*\*\*
