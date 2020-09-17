@@ -9,7 +9,7 @@ description: >-
 ## **What types of projects does Reset support?**
 
 {% hint style="info" %}
-Those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****and whose activities fall within one of our four core [**Areas of Work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work). 
+Those that align with our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****and whose activities fall within one of our four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work). Importantly, each project should address either the perils posed by [**Surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) or one of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) ****outlined in this Guide.
 {% endhint %}
 
 ## What does it mean when an application is designated as "In Scope \(or Out of Scope\)" and "Competitive \(or Not Competitive\)"? 
@@ -45,7 +45,7 @@ _**Note**:_ Applicants may be located in or organised under the laws of any coun
 ## Does my project sound like something Reset would support?
 
 {% hint style="info" %}
-Before applying, all potential applicants should take the time to explore Reset's [**Areas**](https://www.reset.tech/work/)[ **of work**](https://www.reset.tech/work/). If it sounds like your project might be a good fit for the type of work we do, you’ll next want to identify which specific [**Fund or Fellowship**](https://www.reset.tech/open-calls/) is most appropriate for you to apply to \(e.g., Reset Our Future Fund, Information Control Fellowship, or Resident Fellowship\). From there, make sure that you meet the eligibility requirements, craft your application with an eye to receiving an "In Scope/Competitive" screening designation \(as discussed above\), and then submit your application in response to an [**existing Open Call**](https://www.reset.tech/open-calls/). 
+Before applying, all potential applicants should take the time to explore Reset's [**Areas**](https://www.reset.tech/work/)[ **of work**](https://www.reset.tech/work/). Note that each proposed project should address either the perils posed by [**Surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) or one of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) ****outlined in this Guide. If it sounds like your project might be a good fit for the type of work we do, you’ll next want to identify which specific [**Fund or Fellowship**](https://www.reset.tech/open-calls/) is most appropriate for you to apply to \(e.g., Reset Our Future Fund, Information Control Fellowship, or Resident Fellowship\). From there, make sure that you meet the eligibility requirements, craft your application with an eye to receiving an "In Scope/Competitive" screening designation \(as discussed above\), and then submit your application in response to an [**existing Open Call**](https://www.reset.tech/open-calls/). 
 
 _**Note:**_ Approval is not guaranteed at any stage of the process. Given the high number of applications Reset receives for each Open Call, the likelihood of success for any particular application is low.
 {% endhint %}
