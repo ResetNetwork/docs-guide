@@ -43,7 +43,7 @@ _Reset priorities_
 
 We seek out proposals from all around the world, prioritising interventions and projects that we believe will have the greatest global effect. Projects that clearly complement one or more efforts to positively shift policy, market, or social norms, or produce other technical outcomes, receive our highest priority.
 
-Every project Reset supports must conduct activities within on or more of our supported [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) and be a direct attempt to advance our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****\(generally speaking, the first items listed in our Goals and Areas of work are the ones most important to us\). Such projects will necessarily focus on [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) ****\(surveillance capitalism\) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) outlined in this Guide \(or, alternatively, teach us about a new one\). They will also meet all required criteria for the particular Open Call. 
+Every project Reset supports must conduct activities within on or more of our supported [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work) and be a direct attempt to advance our [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) ****\(generally speaking, the first items listed in our Goals and Areas of work are the ones most important to us\). Such projects will necessarily address [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) ****\(surveillance capitalism\) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) outlined in this Guide \(or, alternatively, teach us about a new one\). They will also meet all required criteria for the particular Open Call. 
 
 ## **Review panel & process** 
 
@@ -79,6 +79,12 @@ Ideal applications will fit within one of these four [**Areas of work**](https:/
 * **Civic Engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 
 When in doubt, apply.
+
+## Problems addressed
+
+All successful projects will address [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) ****\(surveillance capitalism\) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) outlined in this Guide.
+
+_**Note:**_ The Open Call applications for both funds and fellowships ask applicants to answer the following question when describing their proposed project: "What problem or challenge does this address?" This question is intended to provide an opportunity for applicants to describe the problem they hope to solve and demonstrate how that problem is tied to surveillance capitalism or one of the other interrelated obstacles Reset is working to overcome.
 
 ## Ideal applicants
 
