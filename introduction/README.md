@@ -13,11 +13,11 @@ Before diving into our vision for the future \(and how we hope our Open Calls he
 
 ### A platform for open exchange
 
-Through our [**website**](https://www.reset.tech/) and [**Open Calls**](https://www.reset.tech/open-calls/), Reset maintains a platform for open exchange that can be utilised by practitioners in the technology-centered field who are working to dismantle [**surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat). In this manner, our Open Calls help facilitate and coordinate the transfer and redistribution of knowledge and resources.
+Through our [**website**](https://www.reset.tech/) and [**Open Calls**](https://www.reset.tech/open-calls/), Reset maintains a platform for open exchange that can be utilised by practitioners in the technology-centered field who are working to dismantle [**surveillance capitalism**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat). In this manner, our Open Calls help facilitate and coordinate the transfer and redistribution of knowledge and resources. 
 
 ### Knowledge sharing
 
-Our Open Calls also allow us to be a node within a larger network, providing Reset with a holistic vantage point and unique ability to curate what is most important to accomplishing our goals. In response, those in the network and broader community rely on us to maximise this curated technology-centric view of surveillance capitalism’s emergent properties and patterns, ecosystems, and networks. Because our unique status comes directly from the trust of those in the network who have chosen to share their work with us, we believe we have a responsibility to redistribute this knowledge back out into the field.
+One of the key aspects of Reset is our desire to create an interconnected network of individuals and organisations working together to achieve common goals. To this end, Our Open Calls allow us to be a node within a larger network, providing Reset with a holistic vantage point and unique ability to curate what is most important to accomplishing our goals. In response, those in the network and broader community rely on us to maximise this curated technology-centric view of surveillance capitalism’s emergent properties and patterns, ecosystems, and networks. Because our unique status comes directly from the trust of those in the network who have chosen to share their work with us, we believe we have a responsibility to redistribute this knowledge back out into the field.
 
 ### Strategy as an iterative design process
 
