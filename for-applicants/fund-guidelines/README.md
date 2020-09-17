@@ -85,6 +85,8 @@ When in doubt, apply.
 
 All successful projects will address [**Our vision's most pressing threat**](https://guide.reset.tech/introduction/how-we-see-the-world#our-visions-most-pressing-threat) ****\(surveillance capitalism\) or one or more of the [**Other harms, challenges, & obstacles**](https://guide.reset.tech/introduction/how-we-see-the-world#other-harms-challenges-and-obstacles) outlined in this Guide.
 
+When in doubt, apply.
+
 _**Note:**_ The Open Call applications for both funds and fellowships ask applicants to answer the following question when describing their proposed project: "What problem or challenge does this address?" This question is intended to provide an opportunity for applicants to describe the problem they hope to solve and demonstrate how that problem is tied to surveillance capitalism or one of the other interrelated obstacles Reset is working to overcome.
 
 ## Ideal applicants
