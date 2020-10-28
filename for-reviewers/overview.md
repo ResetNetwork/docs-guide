@@ -15,9 +15,9 @@ Consistent with our [**Principles & values**](https://guide.reset.tech/introduct
 
 Covered topics include:
 
-* **Frequently Asked Questions \(FAQs\)**
-* **Network Investment Council Onboarding**
-* **Reviewing Applications**
+* \*\*\*\*[**Frequently Asked Questions \(FAQs\)**](https://guide.reset.tech/for-reviewers/reviewer-faq)\*\*\*\*
+* \*\*\*\*[**Network Investment Council Onboarding**](https://guide.reset.tech/for-reviewers/network-investment-council-onboarding)\*\*\*\*
+* \*\*\*\*[**Reviewing Applications**](https://guide.reset.tech/for-reviewers/reviewing-applications)\*\*\*\*
 
 _**Note:**_ This section will continue to grow and provide reviewers with access to the tools and criteria they  need to evaluate Open Call applications, as well as the applicable Conflict of Interest Policy \(which applies to all reviewers\). 
 
