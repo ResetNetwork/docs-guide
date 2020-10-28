@@ -10,7 +10,7 @@ description: >-
 
 When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough for all applicants. And, by asking the same questions for each application, Reset is able to best maximize the efficiency and effectiveness of each ultimate award investment. 
 
-The following types of considerations are addressed in this section:
+The following types of considerations are addressed below:
 
 * \*\*\*\*[**Contribution and relevance to Reset goals and principles**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#contribution-and-relevance-to-reset-goals-and-principles)\*\*\*\*
 * \*\*\*\*[**Technical merit**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#technical-merit)\*\*\*\*
