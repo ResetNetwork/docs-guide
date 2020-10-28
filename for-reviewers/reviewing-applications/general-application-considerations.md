@@ -8,7 +8,7 @@ description: >-
 
 ## Covered Topics
 
-When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough. Asking the same questions for each application is also the best way for Reset to maximize the efficiency and effectiveness of each investment. 
+When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough for all applicants. And, by asking the same questions for each application, Reset is able to best maximize the efficiency and effectiveness of each award investment. 
 
 The following types of considerations are addressed in this section:
 
@@ -19,7 +19,7 @@ The following types of considerations are addressed in this section:
 
 ## **Contribution and relevance to Reset goals and principles**
 
-These considerations speak to the proposed project's ability to contribute to Reset's [**goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner \(i.e. in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work)\).
+These considerations speak to the proposed project's ability to contribute to Reset's [**goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work).
 
 ### Organisational profile
 
@@ -120,6 +120,8 @@ These considerations speak to the proposed project's financial feasibility in bo
 * Is the asking amount reasonable and justified?
 
 ## Overall considerations
+
+These considerations speak to the proposed project's overall qualifications.
 
 In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the Reset team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
 
