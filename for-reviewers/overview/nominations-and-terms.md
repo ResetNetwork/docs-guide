@@ -1,4 +1,4 @@
-# Nominations & Terms
+# Nominations & terms
 
-todo
+Coming soon...
 

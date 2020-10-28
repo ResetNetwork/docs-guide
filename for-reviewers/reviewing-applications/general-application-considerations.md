@@ -4,7 +4,7 @@ description: >-
   reviewing Open Call applications.
 ---
 
-# General Application Considerations
+# General application considerations
 
 ## Contribution and relevance to Reset goals and principles
 

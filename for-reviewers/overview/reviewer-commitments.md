@@ -5,7 +5,7 @@ description: >-
   if/when doing so will compromise their integrity.
 ---
 
-# Reviewer Commitments
+# Reviewer commitments
 
 ## Overview
 

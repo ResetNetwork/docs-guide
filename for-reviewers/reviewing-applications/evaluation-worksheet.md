@@ -4,7 +4,7 @@ description: >-
   Board use to evaluate Open Call applications.
 ---
 
-# Evaluation Worksheet
+# Evaluation worksheet
 
 ## Conflict of interest disclosure
 
