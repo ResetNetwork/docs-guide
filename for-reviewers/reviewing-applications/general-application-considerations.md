@@ -115,21 +115,21 @@ In terms of overall review considerations, please base your review solely on the
 
 1. Are the project objectives and timeline realistic?
 2. Should additional collaboration be included?
-3. Are the proposed outputs tailored to improve the likelihood of third party use such as utilizing more digestible and short form formats?
+3. Are the proposed outputs tailored to improve the likelihood of third party use such as utilising more digestible and short form formats?
 4. Are there clear means of assessing the success of the project?
 5. What changes or additions need to be made to the proposed effort?
 
 Also, please note that this review is the same one as the OTF team uses. As a result, some of these questions may be less applicable. Please include any information you think is relevant regardless of whether they align with a specific question. As you might have guessed, the questions are areas where we have seen previous fellows have challenges with after the project is underway. The overall length of reviews vary considerably. Some AC members have included a few sentences whereas others include multiple paragraphs. Please know that there is no minimum or maximum nor an expectation of review length from OTF’s end. In terms of more general considerations to keep in mind:
 
-• The fellow’s ability to contribute strategic value to the overall goals of the host and partner organizations, the Information Controls Fellowship Program, and OTF’s goals;
+• The fellow’s ability to contribute strategic value to the overall goals of the host and partner organisations, the Information Controls Fellowship Program, and OTF’s goals;
 
 • The fellow’s qualifications, demonstrated skills and experience relevant to the proposed project;
 
-• The proposed project’s fit with the host organization’s mission and the topic of the fellowship \(Information Controls\);
+• The proposed project’s fit with the host organisation’s mission and the topic of the fellowship \(Information Controls\);
 
 • The proposed project’s well-defined goals, outlined objectives, and activities;
 
-• The host organization’s suitability, qualifications and ability to support the project and the fellow; and
+• The host organisation’s suitability, qualifications and ability to support the project and the fellow; and
 
 • The outputs of the project and the contribution to the larger community in the form of publicly open-sourced code, creative commons licensed content, open hardware licenses, or other models that promotes universal free access to project outputs.
 
