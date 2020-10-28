@@ -10,10 +10,10 @@ description: >-
 
 The following topics are discussed in this section. Reviewers can read the topics in order, or choose to click on a specific title and immediately jump to that subject \(in doing so, however, please keep in mind that all the information below is relevant for all applications\). 
 
-* **Contribution and relevance to Reset goals and principles**
-* **Technical merit**
-* **Cost realism, sustainability, & readiness**
-* **Additional considerations**
+* \*\*\*\*[**Contribution and relevance to Reset goals and principles**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#contribution-and-relevance-to-reset-goals-and-principles)\*\*\*\*
+* \*\*\*\*[**Technical merit**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#technical-merit)\*\*\*\*
+* \*\*\*\*[**Cost realism, sustainability, & readiness**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#cost-realism-sustainability-and-readiness)\*\*\*\*
+* \*\*\*\*[**Additional considerations**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#additional-considerations)\*\*\*\*
 
 ## **Contribution and relevance to Reset goals and principles**
 
