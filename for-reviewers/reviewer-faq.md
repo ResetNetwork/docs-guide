@@ -16,9 +16,5 @@ From a more general perspective: Does the narrative tie nicely to the objects an
 
 _**Note:**_ You may also have thoughts regarding the non-technical aspects of the application, such as the socio-political or other implications of the project. Please include these important observations, even if the form fields don’t appear to specifically allow for them. If you this occurs, please let us know how we can change the review forms to be more inclusive.
 
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
 
 
