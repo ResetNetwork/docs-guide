@@ -8,7 +8,9 @@ description: >-
 
 ## Covered Topics
 
-The following topics are discussed in this section. Reviewers can read the topics in order, or choose to click on a specific title and immediately jump to that subject \(in doing so, however, please keep in mind that all the information below is relevant for all applications\). 
+When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough. Asking the same questions for each application is also the best way for Reset to maximize the efficiency and effectiveness of each investment. 
+
+The following types of considerations are addressed in this section:
 
 * \*\*\*\*[**Contribution and relevance to Reset goals and principles**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#contribution-and-relevance-to-reset-goals-and-principles)\*\*\*\*
 * \*\*\*\*[**Technical merit**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#technical-merit)\*\*\*\*
@@ -16,6 +18,8 @@ The following topics are discussed in this section. Reviewers can read the topic
 * \*\*\*\*[**Additional considerations**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#additional-considerations)\*\*\*\*
 
 ## **Contribution and relevance to Reset goals and principles**
+
+These considerations
 
 ### Organisational profile
 
@@ -66,6 +70,8 @@ The following topics are discussed in this section. Reviewers can read the topic
 
 ## Technical merit
 
+These considerations
+
 ### Technical overview
 
 * Does the project clearly articulate the technical problem, solution, and approach?
@@ -102,6 +108,8 @@ The following topics are discussed in this section. Reviewers can read the topic
 
 ## Cost realism, sustainability, & readiness
 
+These considerations
+
 * Is the project receiving any other financial support? How is this information disclosed?
 * Can we discuss the project with existing financial supporters?
 * What in-kind support or other revenue streams is the project receiving \(i.e., volunteer developers, service or product sales, etc.\)? 
@@ -111,7 +119,7 @@ The following topics are discussed in this section. Reviewers can read the topic
 * Does the project provide a detailed and realistic description of effort and schedule \(i.e., is the project capable of creating a work plan including objectives, activities, and deliverables\)?
 * Is the asking amount reasonable and justified?
 
-## Additional considerations
+## Overall considerations
 
 In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the Reset team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
 
