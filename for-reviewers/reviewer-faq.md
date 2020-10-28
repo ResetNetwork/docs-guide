@@ -10,7 +10,7 @@ description: >-
 
 That’s OK, you’re not alone. Everyday the Reset team reviews applications that any one of us alone does not have much knowledge about. In those cases, there are usually non-technical but equally important factors you may be able to weigh in on. 
 
-For example: Do the output costs seem reasonable? Is the timeframe appropriate? Do the listed organizations and individuals seem capable of completing the proposed work? Does it seem like the applicants are, or will be, collaborating with others? Do the applicants point to existing efforts or complementary projects? 
+For example: Do the output costs seem reasonable? Is the timeframe appropriate? Do the listed organisations and individuals seem capable of completing the proposed work? Does it seem like the applicants are, or will be, collaborating with others? Do the applicants point to existing efforts or complementary projects? 
 
 From a more general perspective: Does the narrative tie nicely to the objects and work sections? Is the overall proposal well written? 
 
