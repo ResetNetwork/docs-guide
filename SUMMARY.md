@@ -23,10 +23,18 @@
 
 ## For Reviewers
 
-* [Overview](for-reviewers/overview.md)
-* [Evaluation Worksheet](for-reviewers/evaluation-worksheet.md)
-* [General Application Considerations](for-reviewers/general-application-considerations.md)
-* [Reviewer Commitments](for-reviewers/reviewer-commitments.md)
+* [Overview](for-reviewers/overview/README.md)
+  * [Background](for-reviewers/overview/background.md)
+  * [Designations, benefits, expectations](for-reviewers/overview/designations-benefits-expectations.md)
+  * [Communications & engagement](for-reviewers/overview/communications-and-engagement.md)
+  * [Nominations & Terms](for-reviewers/overview/nominations-and-terms.md)
+  * [Reviewer Commitments](for-reviewers/overview/reviewer-commitments.md)
+  * [Representing Reset](for-reviewers/overview/representing-reset.md)
+* [Reviewer FAQ](for-reviewers/reviewer-faq.md)
+* [Reviewing applications](for-reviewers/reviewing-applications/README.md)
+  * [Application system](for-reviewers/reviewing-applications/application-system.md)
+  * [General Application Considerations](for-reviewers/reviewing-applications/general-application-considerations.md)
+  * [Evaluation Worksheet](for-reviewers/reviewing-applications/evaluation-worksheet.md)
 
 ## For the team
 
