@@ -10,7 +10,7 @@
 
 ## For applicants
 
-* [Overview](for-applicants/overview.md)
+* [Applicant Overview](for-applicants/overview.md)
 * [Applicant FAQ](for-applicants/faq.md)
 * [Decision Process](for-applicants/decision-process/README.md)
   * [Advisors and partners](for-applicants/decision-process/reviewers.md)
@@ -23,8 +23,8 @@
 
 ## For Reviewers
 
-* [Overview](for-reviewers/overview/README.md)
-  * [Background](for-reviewers/overview/background.md)
+* [Review Process Overview](for-reviewers/overview/README.md)
+  * [Introduction](for-reviewers/overview/background.md)
   * [Designations, benefits, expectations](for-reviewers/overview/designations-benefits-expectations.md)
   * [Communications & engagement](for-reviewers/overview/communications-and-engagement.md)
   * [Nominations & terms](for-reviewers/overview/nominations-and-terms.md)
