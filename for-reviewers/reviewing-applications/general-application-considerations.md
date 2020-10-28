@@ -15,11 +15,11 @@ The following types of considerations are addressed in this section:
 * \*\*\*\*[**Contribution and relevance to Reset goals and principles**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#contribution-and-relevance-to-reset-goals-and-principles)\*\*\*\*
 * \*\*\*\*[**Technical merit**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#technical-merit)\*\*\*\*
 * \*\*\*\*[**Cost realism, sustainability, & readiness**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#cost-realism-sustainability-and-readiness)\*\*\*\*
-* \*\*\*\*[**Additional considerations**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#additional-considerations)\*\*\*\*
+* \*\*\*\*[**Overall considerations**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#overall-considerations)\*\*\*\*
 
 ## **Contribution and relevance to Reset goals and principles**
 
-These considerations
+These considerations speak to the proposed project's ability to contribute to Reset's [**goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner \(i.e. in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work)\).
 
 ### Organisational profile
 
@@ -70,7 +70,7 @@ These considerations
 
 ## Technical merit
 
-These considerations
+These considerations speak to the proposed project's technical feasibility, capacity, and assets.
 
 ### Technical overview
 
@@ -108,7 +108,7 @@ These considerations
 
 ## Cost realism, sustainability, & readiness
 
-These considerations
+These considerations speak to the proposed project's financial feasibility in both the short and long term.
 
 * Is the project receiving any other financial support? How is this information disclosed?
 * Can we discuss the project with existing financial supporters?
