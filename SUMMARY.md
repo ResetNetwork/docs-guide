@@ -26,7 +26,6 @@
 * [Reviewer Overview](for-reviewers/overview.md)
 * [Reviewer FAQ](for-reviewers/reviewer-faq.md)
 * [Network Investment Council Onboarding](for-reviewers/network-investment-council-onboarding/README.md)
-  * [Welcome](for-reviewers/network-investment-council-onboarding/welcome.md)
   * [Designations, benefits, & expectations](for-reviewers/network-investment-council-onboarding/designations-benefits-and-expectations.md)
   * [Reviewer commitments](for-reviewers/network-investment-council-onboarding/reviewer-commitments.md)
   * [Communications & engagement](for-reviewers/network-investment-council-onboarding/communications-and-engagement.md)
