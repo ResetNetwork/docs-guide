@@ -10,12 +10,14 @@ description: >-
 
 When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough for all applicants. And, by asking the same questions for each application, Reset is able to best maximize the efficiency and effectiveness of each ultimate award investment. 
 
-The following types of considerations are addressed below:
+The following types of considerations \(based on areas where we have seen previous projects struggle after they are already underway\) are addressed below:
 
 * \*\*\*\*[**Contribution and relevance to Reset goals and principles**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#contribution-and-relevance-to-reset-goals-and-principles)\*\*\*\*
 * \*\*\*\*[**Technical merit**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#technical-merit)\*\*\*\*
 * \*\*\*\*[**Cost realism, sustainability, & readiness**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#cost-realism-sustainability-and-readiness)\*\*\*\*
 * \*\*\*\*[**Overall considerations**](https://guide.reset.tech/for-reviewers/reviewing-applications/general-application-considerations#overall-considerations)\*\*\*\*
+
+_**Note:**_  The review considerations provided on this page are the same ones used by the Reset team. As a result, some of these questions/considerations may be less applicable for NIC members. Nonetheless, when evaluating an application reviewers should always include any information they think is relevant regardless of whether it aligns with a specific question/consideration. 
 
 ## **Contribution and relevance to Reset goals and principles**
 
@@ -125,25 +127,20 @@ These considerations speak to the proposed project's overall qualifications.
 
 In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the Reset team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
 
-1. Are the project objectives and timeline realistic?
+1. Are the project's objectives and timeline realistic?
 2. Should additional collaboration be included?
-3. Are the proposed outputs tailored to improve the likelihood of third party use such as utilising more digestible and short form formats?
+3. Are the proposed outputs tailored to improve the likelihood of third-party use such as utilising more digestible and short form formats?
 4. Are there clear means of assessing the success of the project?
 5. What changes or additions need to be made to the proposed effort?
 
-Also, please note that this review is the same one as the Reset team uses. As a result, some of these questions may be less applicable for NIC members. Please include any information you think is relevant regardless of whether they align with a specific question. As you might have guessed, the questions are areas where we have seen previous applicants have challenges with after the project is underway. The overall length of reviews vary considerably. Please know that we do not have a minimum or maximum expectation of review length. Some NIC members include a few sentences, whereas others include multiple paragraphs.
-
 In terms of more general considerations to keep in mind:
 
-• The fellow’s ability to contribute strategic value to the overall goals of the host and partner organisations, the Information Controls Fellowship Program, and OTF’s goals;
+* The proposed project's ability to contribute strategic value to the overall goals of Reset and any applicable host/partner organisations;
+* The applicant's qualifications, demonstrated skills, and experience relevant to the proposed project;
+* The proposed project’s well-defined goals, outlined objectives, and activities;
+* The proposed project’s fit with the host organisation’s mission and area of work \(if applicable\);
+* The host organisation’s suitability, qualifications, and ability to support the project \(if applicable\); and
+* The outputs of the project and the contribution to the larger community in the form of publicly open-sourced code, creative commons licensed content, open hardware licenses, or other models that promotes universal free access to project outputs.
 
-• The fellow’s qualifications, demonstrated skills and experience relevant to the proposed project;
-
-• The proposed project’s fit with the host organisation’s mission and the topic of the fellowship \(Information Controls\);
-
-• The proposed project’s well-defined goals, outlined objectives, and activities;
-
-• The host organisation’s suitability, qualifications and ability to support the project and the fellow; and
-
-• The outputs of the project and the contribution to the larger community in the form of publicly open-sourced code, creative commons licensed content, open hardware licenses, or other models that promotes universal free access to project outputs.
+_**Note:**_ The overall length of reviews varies considerably. Please know that we do not have a minimum or maximum expectation of review length for each application/reviewer. Some NIC members may choose to provide a sentence or two in answering a question, whereas others may include multiple paragraphs.
 
