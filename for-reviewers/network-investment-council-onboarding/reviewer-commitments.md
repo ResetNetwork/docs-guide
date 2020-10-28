@@ -37,7 +37,7 @@ In order to preserve the integrity of the review process, when a reviewer has a 
 
 ### What we ask
 
-Reviewers commit not to disclose any of the non-public, proprietary, or confidential information contained within an application, whether or not labeled as such, without prior written consent from Reset. If disclosure of application information will occur in the future, reviewers commit to notify Reset and the relevant applicant at least 30 days in advance. If disclosure of application information occurs without notice, reviewers commit to notifying Reset and the applicant as soon as they realize a disclosure has been made.
+Reviewers commit not to disclose any of the non-public, proprietary, or confidential information contained within an application, whether or not labeled as such, without prior written consent from Reset. If disclosure of application information will occur in the future, reviewers commit to notify Reset and the relevant applicant at least 30 days in advance. If disclosure of application information occurs without notice, reviewers commit to notifying Reset and the applicant as soon as they realise a disclosure has been made.
 
 ### Why we ask
 
@@ -49,5 +49,5 @@ For each application, each reviewer must affirm their agreement to abide by this
 
 ### Reset's role
 
-In order to preserve the integrity of the review process and maintain applicant trust, where a reviewer has been found to have disclosed application information outside of the public interest and against this policy, Reset will, following an investigation \(where required\) and at its discretion, remove the reviewer's access to application information, remove any publicly stated affiliation with the reviewer, and apologize to affected applicants.
+In order to preserve the integrity of the review process and maintain applicant trust, where a reviewer has been found to have disclosed application information outside of the public interest and against this policy, Reset will, following an investigation \(where required\) and at its discretion, remove the reviewer's access to application information, remove any publicly stated affiliation with the reviewer, and apologise to affected applicants.
 
