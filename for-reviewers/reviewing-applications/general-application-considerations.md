@@ -6,7 +6,16 @@ description: >-
 
 # General application considerations
 
-## Contribution and relevance to Reset goals and principles
+## Covered Topics
+
+The following topics are discussed in this section. Reviewers can read the topics in order, or choose to click on a specific title and immediately jump to that subject \(in doing so, however, please keep in mind that all the information below is relevant for all applications\). 
+
+* **Contribution and relevance to Reset goals and principles**
+* **Technical merit**
+* **Cost realism, sustainability, & readiness**
+* **Additional considerations**
+
+## **Contribution and relevance to Reset goals and principles**
 
 ### Organisational profile
 
@@ -89,7 +98,7 @@ description: >-
 * How does the project make the technical development process visible?
 * How is the technical development progress measured by the project?
 
-## Cost realism, sustainability, and readiness
+## Cost realism, sustainability, & readiness
 
 * Is the project receiving any other financial support? How is this information disclosed?
 * Can we discuss the project with existing financial supporters?
@@ -100,11 +109,9 @@ description: >-
 * Does the project provide a detailed and realistic description of effort and schedule \(i.e., is the project capable of creating a work plan including objectives, activities, and deliverables\)?
 * Is the asking amount reasonable and justified?
 
+## Additional considerations
 
-
-
-
-In terms of review considerations, please base your review solely on the merits of the project rather comparing it to others for the purposes of resource allocation. If the OTF team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
+In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the OTF team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
 
 1. Are the project objectives and timeline realistic?
 2. Should additional collaboration be included?
