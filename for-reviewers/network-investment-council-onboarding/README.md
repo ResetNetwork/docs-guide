@@ -14,5 +14,5 @@ We depend on you being an external and independent set of individuals as a prima
 
 The benefit is felt most by the applicants and those most affected by the harms. We consider it an honor and a primary role of ours to pass on what you give us to them. Time and time again, we hear from applicants how valuable the feedback is from open calls. We hear this equally from applicants who were dismissed and approved. We see the results with better first-time and new applications from people and places that surprise us. In return, we hope that you gain valuable insights on emerging solutions to tough and interesting challenges that align with your own interests.
 
-_**Note:**_ We recognize this document could be improved and encourage you to leave comments that will help us do so. We welcome your [**feedback**](https://guide.reset.tech/give-us-feedback).
+_**Note:**_ We recognise this document could be improved and encourage you to leave comments that will help us do so. We welcome your [**feedback**](https://guide.reset.tech/give-us-feedback).
 
