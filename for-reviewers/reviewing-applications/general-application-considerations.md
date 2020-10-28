@@ -123,17 +123,17 @@ These considerations speak to the proposed project's financial feasibility in bo
 
 ## Overall considerations
 
-These considerations speak to the proposed project's overall qualifications.
+These final considerations speak to the proposed project's overall qualifications.
 
-In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the Reset team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
+In terms of general review considerations, reviewers should base their assessment solely on the merits of the specific project rather than comparing it to other projects for the purposes of resource allocation. While reviewing an application, it is useful to keep in mind the following five questions:
 
-1. Are the project's objectives and timeline realistic?
-2. Should additional collaboration be included?
-3. Are the proposed outputs tailored to improve the likelihood of third-party use such as utilising more digestible and short form formats?
-4. Are there clear means of assessing the success of the project?
-5. What changes or additions need to be made to the proposed effort?
+* Are the project's objectives and timeline realistic?
+* Should additional collaboration be included?
+* Are the proposed outputs tailored to improve the likelihood of third-party use such as utilising more digestible and short form formats?
+* Are there clear means of assessing the success of the project?
+* What changes or additions need to be made to the proposed effort?
 
-In terms of more general considerations to keep in mind:
+In addition, maintaining a general awareness of these overall considerations will help streamline the review process:
 
 * The proposed project's ability to contribute strategic value to the overall goals of Reset and any applicable host/partner organisations;
 * The applicant's qualifications, demonstrated skills, and experience relevant to the proposed project;
@@ -141,6 +141,21 @@ In terms of more general considerations to keep in mind:
 * The proposed project’s fit with the host organisation’s mission and area of work \(if applicable\);
 * The host organisation’s suitability, qualifications, and ability to support the project \(if applicable\); and
 * The outputs of the project and the contribution to the larger community in the form of publicly open-sourced code, creative commons licensed content, open hardware licenses, or other models that promotes universal free access to project outputs.
+
+Ultimately, when completing a review, the following twelve questions must be answered in the [**Evaluation worksheet**](https://guide.reset.tech/for-reviewers/reviewing-applications/evaluation-worksheet):
+
+1. How clear is the general narrative and strategy?
+2. How clearly stated are the goals, objectives, tasks, and/or outcomes?
+3. How well aligned are the described methods and strategy to stated goals and objectives?
+4. How human-centered or demand-centered is the stated work?
+5. How feasible are the stated outcomes/how likely are they to be accomplished?
+6. How well does the application present an adversarial risk analysis?
+7. How sustainable is this project beyond our support?
+8. How open and collaborative is the stated approach?
+9. How realistic and commensurate is the budget with stated goals, objectives, and time-frame?
+10. How clearly identified is the person or team/how clearly identified are their qualifications to accomplish the work?
+11. How measurable are the outcomes and milestones/how clear will success or failure be?
+12. How well does the project align with our own goals and objectives?
 
 _**Note:**_ The overall length of reviews varies considerably. Please know that we do not have a minimum or maximum expectation of review length for each application/reviewer. Some NIC members may choose to provide a sentence or two in answering a question, whereas others may include multiple paragraphs.
 
