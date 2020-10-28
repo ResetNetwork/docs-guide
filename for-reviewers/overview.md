@@ -5,19 +5,21 @@ description: >-
   applicants receive a comparable review.
 ---
 
-# Overview
+# Reviewer Overview
 
 ## Introduction
 
-In addition to clarifying the process for would-be applicants, this Guide also serves as a resource for reviewers. Accordingly, this section provides all reviewers with equal and open access to the tools and criteria they will need to evaluate Open Call applications, as well as the applicable Conflict of Interest Policy \(which applies to all reviewers\).
+This section of the Guide provides reviewers \(i.e., Reset [**Network Investment Council**](https://www.reset.tech/people/#network-investment-council) ****members\) with the information they need to review Open Call applications and understand the role they play for Reset. In addition to reading the pages that follow, reviewers should also be sure to check out the [**Reset Overview**](https://guide.reset.tech/introduction) ****section of the Guide, which provides key insight into why we're holding Open Calls and what we hope they will accomplish.
 
-Consistent with our [**Principles & values**](https://guide.reset.tech/introduction/principles-values) ****\(specifically our commitment to act transparently and openly share all possible aspects of our work\), we have compiled this information in a public manner. In addition to serving as a resource for reviewers, it is our hope that this section of the Guide will also be useful for applicants. By enabling applicants to view the criteria that reviewers will use when evaluating applications, we believe applicants will be able to strengthen and submit even more competitive applications.
+Consistent with our [**Principles & values**](https://guide.reset.tech/introduction/principles-values) ****\(specifically our commitment to act transparently and openly share all possible aspects of our work\), we have compiled this information in a public manner. In addition to serving as a resource for reviewers, it is our hope that this section of the Guide will also be useful for applicants and members of the general public. By enabling applicants to view the criteria that reviewers will use when evaluating applications, we believe applicants will be able to strengthen and submit even more competitive applications.
 
 Covered topics include:
 
-* \*\*\*\*[**Evaluation Worksheet**](https://guide.reset.tech/for-reviewers/evaluation-worksheet)\*\*\*\*
-* \*\*\*\*[**General Application Considerations**](https://guide.reset.tech/for-reviewers/general-application-considerations)\*\*\*\*
-* \*\*\*\*[**Reviewer Commitments**](https://guide.reset.tech/for-reviewers/reviewer-commitments)\*\*\*\*
+* **Frequently Asked Questions \(FAQs\)**
+* **Network Investment Council Onboarding**
+* **Reviewing Applications**
+
+_**Note:**_ This section will continue to grow and provide reviewers with access to the tools and criteria they  need to evaluate Open Call applications, as well as the applicable Conflict of Interest Policy \(which applies to all reviewers\). 
 
 ## 
 

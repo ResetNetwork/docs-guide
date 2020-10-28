@@ -23,14 +23,15 @@
 
 ## For Reviewers
 
-* [Review Process Overview](for-reviewers/overview/README.md)
-  * [Introduction](for-reviewers/overview/background.md)
-  * [Designations, benefits, expectations](for-reviewers/overview/designations-benefits-expectations.md)
-  * [Communications & engagement](for-reviewers/overview/communications-and-engagement.md)
-  * [Nominations & terms](for-reviewers/overview/nominations-and-terms.md)
-  * [Reviewer commitments](for-reviewers/overview/reviewer-commitments.md)
-  * [Representing Reset](for-reviewers/overview/representing-reset.md)
+* [Reviewer Overview](for-reviewers/overview.md)
 * [Reviewer FAQ](for-reviewers/reviewer-faq.md)
+* [Network Investment Council Onboarding](for-reviewers/network-investment-council-onboarding/README.md)
+  * [Welcome](for-reviewers/network-investment-council-onboarding/welcome.md)
+  * [Designations, benefits, & expectations](for-reviewers/network-investment-council-onboarding/designations-benefits-and-expectations.md)
+  * [Reviewer commitments](for-reviewers/network-investment-council-onboarding/reviewer-commitments.md)
+  * [Communications & engagement](for-reviewers/network-investment-council-onboarding/communications-and-engagement.md)
+  * [Nominations & terms](for-reviewers/network-investment-council-onboarding/nominations-and-terms.md)
+  * [Representing Reset](for-reviewers/network-investment-council-onboarding/representing-reset.md)
 * [Reviewing Applications](for-reviewers/reviewing-applications/README.md)
   * [Application system](for-reviewers/reviewing-applications/application-system.md)
   * [General application considerations](for-reviewers/reviewing-applications/general-application-considerations.md)
