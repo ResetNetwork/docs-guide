@@ -21,7 +21,7 @@ The following topics are discussed in this section. Reviewers can read the topic
 
 * Where is the organisation physically and legally based?
 * If the organisation is distributed, where is the main point of contact?
-* Does the organisation have any conflicts of interest with Reset, the Advisory Council, Review Board, or other supported projects?
+* Does the organisation have any conflicts of interest with Reset, the Advisory Council, the Network Investment Council, or other supported projects?
 * Is the project team an organisation, community, or an individual?
 
 ### Organisational culture
@@ -36,9 +36,9 @@ The following topics are discussed in this section. Reviewers can read the topic
 * Is it a technology research, development, or deployment project?
 * Can the project’s effort be explained to external audiences and non-technical people?
 * What tools, if any, currently exist to solve this problem? How is this project different?
-* What problem are they trying to solve, and is the solution strategical or tactical?
+* What problem is the project trying to solve, and is the solution strategical or tactical?
 * Is the project strategically or tactically important to our goals, principles, and rationale? To other supported efforts? How?
-* Does the effort have any overlap with existing Reset, Luminate, or larger Omidiyar Group supported projects?
+* Does the effort have any overlap with existing Reset, Luminate, or larger Omidyar Group supported projects?
 * Is the overlap complementary or duplicative?
 * What is complementary and can it be explained clearly \(i.e., geographic focus, technology, organisation profile, etc.\)?
 * What are the liabilities and risks of taking on this project \(i.e., political personalities, financial concerns, technical controversial, etc.\)? 
@@ -49,22 +49,24 @@ The following topics are discussed in this section. Reviewers can read the topic
 * Is the project’s effort actually relevant to its defined users?
 * Does the project’s defined user base align with the priorities of Reset?
 * Could other priority user groups benefit from this project?
-* Are there existing users? If not, why?
+* Are there any existing users? If not, why?
 * How do existing users find the user experience? Is it versatile and usable, or useful but unusable?
 * What steps has the project taken to appeal to its defined users?
 * Does the project have a plan to attract more users and make the project accessible \(e.g., conduct usability testing or hold training sessions\)? 
 * What is the user threat model? Who are they being protected from and what are the consequences of failure?
 * How is the project localised?
-* How is the project representative of those it intends to help and is it appropriate? What experience does the project have with those it intends to help?
+* How is the project representative of those it intends to help? Is it appropriate? What experience does the project have with those it intends to help?
 
 ### Evaluation criteria
 
 * Does the project measure success quantitatively or qualitatively?
-* If neither, how would the project demonstrate success \(i.e., Does the project have potential quantitative or qualitative metrics\)?
+* If neither, how would the project demonstrate success \(i.e., does the project have potential quantitative or qualitative metrics\)?
 * Is there a roadmap for the project? Is it public/open? If not, why?
 * Does Reset have the capacity to comprehend and manage the project?
 
 ## Technical merit
+
+### Technical overview
 
 * Does the project clearly articulate the technical problem, solution, and approach?
 * How is the problem clearly justifiable?
@@ -111,7 +113,7 @@ The following topics are discussed in this section. Reviewers can read the topic
 
 ## Additional considerations
 
-In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the OTF team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
+In terms of overall review considerations, please base your review solely on the merits of the project rather than comparing it to other projects for the purposes of resource allocation. If the Reset team and yourselves find that all active proposals are worthy of support then that is what we will fund. I included 5 specific questions in the review form:
 
 1. Are the project objectives and timeline realistic?
 2. Should additional collaboration be included?
@@ -119,7 +121,9 @@ In terms of overall review considerations, please base your review solely on the
 4. Are there clear means of assessing the success of the project?
 5. What changes or additions need to be made to the proposed effort?
 
-Also, please note that this review is the same one as the OTF team uses. As a result, some of these questions may be less applicable. Please include any information you think is relevant regardless of whether they align with a specific question. As you might have guessed, the questions are areas where we have seen previous fellows have challenges with after the project is underway. The overall length of reviews vary considerably. Some AC members have included a few sentences whereas others include multiple paragraphs. Please know that there is no minimum or maximum nor an expectation of review length from OTF’s end. In terms of more general considerations to keep in mind:
+Also, please note that this review is the same one as the Reset team uses. As a result, some of these questions may be less applicable for NIC members. Please include any information you think is relevant regardless of whether they align with a specific question. As you might have guessed, the questions are areas where we have seen previous applicants have challenges with after the project is underway. The overall length of reviews vary considerably. Please know that we do not have a minimum or maximum expectation of review length. Some NIC members include a few sentences, whereas others include multiple paragraphs.
+
+In terms of more general considerations to keep in mind:
 
 • The fellow’s ability to contribute strategic value to the overall goals of the host and partner organisations, the Information Controls Fellowship Program, and OTF’s goals;
 
