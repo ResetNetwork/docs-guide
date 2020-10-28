@@ -14,7 +14,7 @@ Individuals who have agreed to guide, inform, and advance the Reset network broa
 A member of the NIC or AC who is actively meeting participation expectations, such as submitting application reviews.
 
 **Emeritus member\(s\)**  
-A member who was once an active reviewer on the NIC or who previously served on the AC, who continues to be associated with and recognized by Reset as being part of our network and community as a Council member, but who is no longer expected to submit reviews or meet other expectations ****
+A member who was once an active reviewer on the NIC or who previously served on the AC, who continues to be associated with and recognised by Reset as being part of our network and community as a Council member, but who is no longer expected to submit reviews or meet other expectations ****
 
 **Council or Council member\(s\)**  
 A reference to all individuals who have served on the NIC or AC, whether or not they are active reviewers or emeritus.
@@ -50,7 +50,7 @@ A reference to all individuals who have served on the NIC or AC, whether or not 
 * Abide our Non-Disclosure and Conflict of Interest policy for reviewers as well as our Code of Conduct.
 * Non-required extra credit :-\)
   * Attend \(on us\) any hosted council meetups we support; and,
-  * Consider requests to aid Reset partner organizations.
+  * Consider requests to aid Reset partner organisations.
 
 ### What NIC members can expect from Reset
 
