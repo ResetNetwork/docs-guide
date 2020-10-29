@@ -26,20 +26,20 @@ description: These are the benefits and expectations for NIC members.
 
 ## Expectations
 
-### What we expect of NIC members
+### What Reset expects of NIC members
 
 * Represent yourself as a proud and integral part of Reset as a member of Reset’s “Network Investment Council” or “Council”;
-* Submit 6 or more application reviews within your term as a member;
+* Submit six \(6\) or more application reviews within your term as a member;
 * Elevate Reset within your existing communities and help interconnect others when possible;
 * Provide us with your high/low strategic/tactical feedback whenever you have it on any and all topics affecting Reset, good or bad, whenever they come to you;
-* Abide our Non-Disclosure and Conflict of Interest policy for reviewers as well as our Code of Conduct.
-* Non-required extra credit :-\)
+* Abide by our [**Non-Disclosure Policy**](https://guide.reset.tech/for-reviewers/network-investment-council-onboarding/reviewer-commitments#non-disclosure-policy) and [**Conflict of Interest Policy**](https://guide.reset.tech/for-reviewers/network-investment-council-onboarding/reviewer-commitments#conflict-of-interest-policy) for reviewers, as well as our [**Code of Conduct**](https://guide.reset.tech/for-everyone/code-of-conduct);
+* Non-required \(but hoped for\):
   * Attend \(on us\) any hosted council meetups we support; and,
   * Consider requests to aid Reset partner organisations.
 
 ### What NIC members can expect from Reset
 
-* We will maintain this online Handbook/On-Boarding document for your reference
+* We will maintain this online Handbook/Onboarding document for your reference
 * Offer to conduct personal training sessions with anyone who requests it on how to review and key considerations
 * We will only send you a batch of proposals for review as described below and consult you if we need to change
 * Every now and again, in urgent situations, we may send a proposal or two in between periods for your review
