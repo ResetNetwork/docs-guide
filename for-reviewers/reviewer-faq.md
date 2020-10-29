@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this section of the Guide we address the most Frequently Asked Questions
-  (FAQs) posed by reviewers.
+  In this periodically updated section of the Guide we address the most
+  Frequently Asked Questions (FAQs) posed by reviewers.
 ---
 
 # Reviewer FAQ
