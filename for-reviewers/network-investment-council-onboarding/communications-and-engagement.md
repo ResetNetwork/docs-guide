@@ -22,7 +22,7 @@ This is a private, low-traffic list for currently active NIC members and review-
 
 ### Reset-Summit
 
-This is an invite-only list for all those attending Reset's Annual Summit, which includes past and current projects and fellows, service providers, NIC members, and invited guests from the larger Internet freedom community.
+This is an invite-only list for all those attending Reset annual gathering, which includes past and current projects and fellows, service providers, NIC members, and invited guests from the larger Internet freedom community.
 
 ### Reset-Announce
 
@@ -40,9 +40,9 @@ Every now and then, a Reset team member may also email a selection of NIC member
 
 ## NIC Calls
 
-Reset hosts three NIC Calls a year, within the third week of weeks of January, May, and September. These months were chosen to coincide with our every other month rounds, so that we have a call every other round. NIC Calls are facilitated by Reset's Executive Director, and serve as an opportunity for NIC members to ask questions, offer advice outside of individuals reviews, and discuss strategic or tactical topics of interest to NIC members, Reset, the general internet freedom field. These calls also serve as an opportunity for Reset team members to update NIC members on strategy and new initiatives, and provide high-level overviews of recent rounds and projects. Prior to each call, we will  reach out to the NIC-Talk list to solicit topics for the agenda. Call notes will be recorded by Reset and sent out to the NIC-Talk list for all members to review and discuss as needed.
+Reset hosts three NIC Calls a year, within the third week of weeks of January, May, and September. These months were chosen to coincide with our every other month rounds, so that we have a call every other round. NIC Calls are facilitated by the Reset team and serve as an opportunity for NIC members to ask questions, offer advice outside of individuals reviews, and discuss strategic or tactical topics of interest to NIC members, Reset, the general internet freedom field. These calls also serve as an opportunity for Reset team members to update NIC members on strategy and new initiatives, and provide high-level overviews of recent rounds and projects. Prior to each call, we will  reach out to the NIC-Talk list to solicit topics for the agenda. Call notes will be recorded by Reset and sent out to the NIC-Talk list for all members to review and discuss as needed.
 
-## Annual Summit
+## Annual gathering
 
-Every year \(global conditions permitting\) we plan to gather all of our active projects and fellows, service partners, NIC members, key stakeholders, and other established community members for the Reset Annual Summit. This is an invite-only event that moves around the world every year or two. All NIC members who are actively reviewing are invited to attend \(and have the cost of their travel covered by Reset\).
+Every year \(global conditions permitting\) we plan to invite all of our active projects and fellows, service partners, NIC members, key stakeholders, and other established community members to a Reset annual gathering. This is an invite-only event that moves around the world every year or two. All NIC members who are actively reviewing are invited to attend \(and have the cost of their travel covered by Reset\).
 
