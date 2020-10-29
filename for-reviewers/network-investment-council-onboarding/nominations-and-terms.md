@@ -6,7 +6,7 @@ description: How to nominate NIC members and how long such members serve.
 
 ## Nominations
 
-New NIC member nominations are formally presented by the Reset team to existing NIC members for feedback. At any time, the Reset team, existing NIC members, and the members of the general project can send nomination suggestions to Reset for consideration by emailing known team members or [hello@reset.tech](mailto://hello@reset.tech). As needed, Reset may also put forth a formal and public call for suggested nominees. Self-nominations are allowed and, indeed, encouraged. Reset's team maintains a list of suggestions and will bring finalist \(as needed\) to the NIC for feedback prior to a final determination by Reset. 
+New NIC member nominations are formally presented by the Reset team to existing NIC members for feedback. At any time, the Reset team, existing NIC members, and the members of the general project can send suggestions to Reset for consideration by emailing known team members or [**hello@reset.tech**](mailto://hello@reset.tech). As needed, Reset may also put forth a formal and public call for suggested nominees. Self-nominations are allowed and, indeed, encouraged. Reset's team maintains a list of suggestions and will bring finalist \(as needed\) to the NIC for feedback prior to a final determination by Reset. 
 
 ### Criteria for consideration
 
