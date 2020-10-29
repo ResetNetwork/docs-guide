@@ -4,10 +4,10 @@
 
 ## Designations
 
-**Network Investment Council \(NIC\), Reviewers, or Review Panel**  
+\*\*\*\*[**Network Investment Council**](https://www.reset.tech/people/#network-investment-council) **\(NIC\), reviewers, or review panel**  
 Individuals who have agreed to guide, inform, and advance the Reset network through our open call determination process. This section of the guide is for them.
 
-**Advisory Council \(AC\)**  
+\*\*\*\*[**Advisory Council**](https://www.reset.tech/people/#advisory-council) **\(AC\)**  
 Individuals who have agreed to guide, inform, and advance the Reset network broadly.
 
 **Active member\(s\)**  
