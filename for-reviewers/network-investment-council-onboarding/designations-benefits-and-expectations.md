@@ -4,7 +4,7 @@ description: These are the benefits and expectations for NIC members.
 
 # Reviewer benefits & expectations
 
-## Network Investment Council Benefits
+## Benefits
 
 **For all NIC members:**
 
@@ -24,7 +24,7 @@ description: These are the benefits and expectations for NIC members.
 * Opportunity to attend other supported events, with expenses paid by Reset
 * Opportunity to receive an annual honorarium
 
-## Network Investment Council Expectations
+## Expectations
 
 ### What we expect of NIC members
 
