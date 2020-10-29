@@ -21,7 +21,7 @@ _**Note:**_  The review considerations provided on this page are the same ones u
 
 ## **Contribution and relevance to Reset goals and principles**
 
-These considerations speak to the proposed project's ability to contribute to Reset's [**goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work).
+These considerations speak to the proposed project's ability to contribute to Reset's [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**Principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work).
 
 ### Organisational profile
 
@@ -49,7 +49,7 @@ These considerations speak to the proposed project's ability to contribute to Re
 * What is complementary and can it be explained clearly \(i.e., geographic focus, technology, organisation profile, etc.\)?
 * What are the liabilities and risks of taking on this project \(i.e., political personalities, financial concerns, technical controversial, etc.\)? 
 
-### Human-centered / Demand-side focus
+### Human-oriented / Demand-side focus
 
 * How does the project define its “users”?
 * Is the project’s effort actually relevant to its defined users?
@@ -133,7 +133,7 @@ In terms of general review considerations, reviewers should base their assessmen
 * Are there clear means of assessing the success of the project?
 * What changes or additions need to be made to the proposed effort?
 
-In addition, maintaining a general awareness of these overall considerations will help streamline the review process:
+In addition, maintaining a general awareness of these overall considerations can help streamline the review process:
 
 * The proposed project's ability to contribute strategic value to the overall goals of Reset and any applicable host/partner organisations;
 * The applicant's qualifications, demonstrated skills, and experience relevant to the proposed project;
