@@ -8,21 +8,21 @@ description: These are the benefits and expectations for NIC members.
 
 **For all NIC members:**
 
-* Regular progress reports from Reset
-* Access to the Reset application system with the ability to view any application considered by the NIC
-* Ability to see the formal determination messages from Reset for any application considered by the NIC
-* Opportunity to engage Reset team directly on any strategic and operational aspects
-* Invitation to periodic Council only calls
-* Ability to represent themselves as a part of Reset
+* Regular progress reports from Reset.
+* Access to the Reset application system with the ability to view any application considered by the NIC.
+* Ability to see the formal determination messages from Reset for any application considered by the NIC.
+* Opportunity to engage Reset team directly on any strategic and operational aspects.
+* Invitation to periodic NIC-only calls.
+* Ability to represent themselves as a part of Reset.
 
 **For active members:**
 
-* All of the above
-* Agency to directly influence the final determination of Reset decisions on open call applications sent to the NIC
-* Ability to submit a review for any application currently under consideration
-* Opportunity to attend our annual gathering with expenses paid by Reset
-* Opportunity to attend other supported events, with expenses paid by Reset
-* Opportunity to receive an annual honorarium
+* All of the above.
+* Agency to directly influence the final determination of Reset decisions on Open Call applications sent to the NIC.
+* Ability to submit a review for any application currently under consideration.
+* Opportunity to attend our annual gathering with expenses paid by Reset.
+* Opportunity to attend other supported events, with expenses paid by Reset.
+* Opportunity to receive an annual honorarium.
 
 ## Expectations
 
