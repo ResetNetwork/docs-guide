@@ -9,7 +9,7 @@ description: >-
 
 ## Overview
 
-When joining our team, reviewers commit to follow and abide by Reset's Conflict of Interest and Non-Disclosure policies. Together, these two policies help ensure that the Open Call review process remains unbiased and that applicants continue to trust Reset with non-public, proprietary, or confidential information.
+When joining our team, reviewers commit to follow and abide by Reset's Conflict of Interest and Non-Disclosure policies. Together, these two policies help ensure that the Open Call review process remains unbiased and that applicants continue to trust Reset with non-public, proprietary, or confidential information. 
 
 ## Conflict of Interest Policy
 
