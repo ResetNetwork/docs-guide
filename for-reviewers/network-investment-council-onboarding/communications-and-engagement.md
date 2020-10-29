@@ -36,7 +36,7 @@ Every now and then, a Reset team member may also email a selection of NIC member
 
 ## NIC Calls
 
-Reset hosts three NIC Calls a year, within the third week of weeks of January, May, and September. These months were chosen to coincide with our every other month rounds, so that we have a call every other round. NIC Calls are facilitated by the Reset team and serve as an opportunity for NIC members to ask questions, offer advice outside of individuals reviews, and discuss strategic or tactical topics of interest to NIC members, Reset, the general internet freedom field. These calls also serve as an opportunity for Reset team members to update NIC members on strategy and new initiatives, and provide high-level overviews of recent rounds and projects. Prior to each call, we will  reach out to the Rst-NIC list to solicit topics for the agenda. Call notes will be recorded by Reset and sent out to the Rst-NIC list for all members to review and discuss as needed.
+Reset hosts quarterly NIC Calls. The calls are facilitated by the Reset team and serve as an opportunity for NIC members to ask questions, offer advice outside of individuals reviews, and discuss strategic or tactical topics of interest to NIC members, Reset, the general internet freedom field. NIC calls also serve as an opportunity for Reset team members to update NIC members on strategy and new initiatives, and provide high-level overviews of recent rounds and projects. Prior to each call, we will  reach out to the Rst-NIC list to solicit topics for the agenda. Call notes will be recorded by Reset and sent out to the Rst-NIC list for all members to review and discuss as needed.
 
 ## Annual gathering
 
