@@ -8,33 +8,29 @@ description: >-
 
 ## Mailing lists
 
-### Reset-Talk
+### Rst-Talk
 
-This is a private, moderate-traffic list for past and current Reset-supported projects, fellows, NIC members, and other key at-large folks from the internet freedom community who have opted in to join the list. Reset and many current projects provide monthly updates on this list. For those interested, this is a great space to engage with projects and community members outside of the regular NIC tasks. If you are a reviewer and not on this list, contact a Reset team member to get signed up.
+This is a private, moderate-traffic list for past and current Reset-supported projects, fellows, all Council members, and other key at-large folks within communities and networks who have opted in to join the list. Reset and many current projects provide monthly updates on this list. For those interested, this is a great space to engage with projects and community members outside of the regular NIC tasks. If you are a reviewer and not on this list, contact a Reset team member to get signed up.
 
-### NIC-Talk
+### Rst-Council
 
-This is private, low-traffic list for past and current NIC members only. Through the list, NIC members and Reset can bring up broader strategic topics for discussion. Reset also sends out to this list the summary of application rounds and invitations for periodic NIC Calls.
+This is private, moderate-traffic list for all past and current Council members to discuss broader strategic topics related to Reset's work. Reset sends out to this list the summary of application rounds and invitations for periodic all Council gatherings. 
 
-### NIC-Review
+### Rst-NIC
 
-This is a private, low-traffic list for currently active NIC members and review-related discussions. At the start of each month, Reset will send out a tranche of applications for review with summaries, as well as the final determination for prior applications. Through this list, NIC members \(as they see fit\) should feel free to openly discuss any matters related to applications.
+This is private, low-traffic list for NIC members only for review-related discussions and broader strategic topics related to NIC role. Typically every couple months, Reset will send out a tranche of applications for review with summaries, as well as the final determination for prior applications. Through this list, NIC members \(as they see fit\) should feel free to openly discuss any matters related to applications.
 
-### Reset-Summit
+### Rst-TX
 
-This is an invite-only list for all those attending Reset annual gathering, which includes past and current projects and fellows, service providers, NIC members, and invited guests from the larger Internet freedom community.
-
-### Reset-Announce
-
-This is an open-to-the-public, announce-only list for both Reset and other funder opportunities that we curate and send out on a regular basis. 
+This is a low-traffic open-to-the-public and available for all applicants announce-only list for both Reset and other funder opportunities that we curate and send out periodically. 
 
 ### Reset Newsletter
 
-This is a periodic email open to the public with Reset-curated news related to internet freedom. You can also follow our ​[**tweets**](https://twitter.com/resetdottech)​ to stay current on Reset-related news.
+Coming soon. This will be a periodic email open to the public with Reset-curated news related to internet freedom. You can also follow our ​[**tweets**](https://twitter.com/resetdottech)​ to stay current on Reset-related news.
 
 ## Individual emails
 
-NIC members automatically become part of a group for the fund and fellowships they have signed up to help review. When an application moves into the NIC review process, the application system will send reviewers individual emails letting reviewers know there is a new application for them to review.
+NIC members automatically assigned access to all finalist applications in our application system. When an application moves into the NIC review process stage, the application system will send reviewers individual emails letting reviewers know there is a new application for them to review.
 
 Every now and then, a Reset team member may also email a selection of NIC members to review applications that have languished past review deadlines or that need to be expedited.
 
