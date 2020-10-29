@@ -8,7 +8,7 @@ description: >-
 
 ## Covered Topics
 
-When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough for all applicants. And, by asking the same questions for each application, Reset is able to best maximize the efficiency and effectiveness of each ultimate award investment. 
+When reviewing applications, the following general considerations apply. By keeping these in mind for each application, reviewers help to ensure the Open Call process is consistent, fair, and thorough for all applicants. And, by asking the same questions of each application, Reset is able to best maximize the efficiency and effectiveness of each ultimate award investment. 
 
 The following types of considerations \(based on areas where we have seen previous projects struggle after they are already underway\) are addressed below:
 
