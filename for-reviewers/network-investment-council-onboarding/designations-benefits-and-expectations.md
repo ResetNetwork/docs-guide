@@ -1,3 +1,7 @@
+---
+description: These are the benefits and expectations for NIC members.
+---
+
 # Reviewer benefits & expectations
 
 ## Network Investment Council Benefits
