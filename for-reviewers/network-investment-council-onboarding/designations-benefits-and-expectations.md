@@ -33,21 +33,21 @@ description: These are the benefits and expectations for NIC members.
 * Elevate Reset within your existing communities and help interconnect others when possible;
 * Provide us with your high/low strategic/tactical feedback whenever you have it on any and all topics affecting Reset, good or bad, whenever they come to you;
 * Abide by our [**Non-Disclosure Policy**](https://guide.reset.tech/for-reviewers/network-investment-council-onboarding/reviewer-commitments#non-disclosure-policy) and [**Conflict of Interest Policy**](https://guide.reset.tech/for-reviewers/network-investment-council-onboarding/reviewer-commitments#conflict-of-interest-policy) for reviewers, as well as our [**Code of Conduct**](https://guide.reset.tech/for-everyone/code-of-conduct);
-* Non-required \(but hoped for\):
+* Non-required \(but hoped for!\):
   * Attend \(on us\) any hosted council meetups we support; and,
   * Consider requests to aid Reset partner organisations.
 
 ### What NIC members can expect from Reset
 
-* We will maintain this online Handbook/Onboarding document for your reference
-* Offer to conduct personal training sessions with anyone who requests it on how to review and key considerations
-* We will only send you a batch of proposals for review as described below and consult you if we need to change
-* Every now and again, in urgent situations, we may send a proposal or two in between periods for your review
-* Set deadlines of no less than 2 weeks to review proposals and send you plenty of reminders :-\)
-* Ensure the application system makes it very clear which proposals need reviews \(those with less than 2 NIC member reviews\)
-* Ensure all active NIC members have full access to every proposal we have ever asked for NIC review \(that is every effort we have ever supported as well as the ones we said no to\) along with the formal determination messages sent to applicants
-* Send an email briefing every two months containing: new efforts we have approved and why; which efforts have concluded and key outcomes; new, probably not-yet-public efforts/ideas upcoming we would like you to know about \(and get your thoughts on\); some of the most important news we have seen; and where Reset team members will be in the next couple months for you to meet with.
-* Invitation every four months to help craft the agenda for and participate in an online video session to dig into Reset topics high and low
-* Invitation annually to attend \(on us\) the Reset supported events
-* That we will come find you whenever we find our selves in shared spaces throughout the year :-\)
+* We will maintain this online Handbook/Onboarding document for your reference;
+* We will offer to conduct personal training sessions with anyone who requests it on key considerations and how to review applications;
+* We will only send a batch of proposals for review as described below and consult you if we need to change;
+* Every now and again, in urgent situations, we may send a proposal or two in between periods for your review;
+* Set deadlines of no less than two weeks to review proposals \(and send you plenty of reminders!\);
+* Ensure the application system makes it very clear which proposals need reviews \(those with less than 2 NIC member reviews\);
+* Ensure all active NIC members have full access to every proposal we have ever asked for NIC review \(that is every effort we have ever supported as well as the ones we said no to\) along with the formal determination messages sent to applicants;
+* Send an email briefing every two months containing: new efforts we have approved and why; which efforts have concluded and key outcomes; new, probably not-yet-public efforts/ideas upcoming we would like you to know about \(and get your thoughts on\); some of the most important news we have seen; and where Reset team members will be in the next couple months for you to meet with;
+* Invitation every four months to help craft the agenda for and participate in an online video session to dig into Reset topics high and low;
+* Annual invitation to attend \(on us\) a Reset-supported event; and
+* That we will come find you whenever we find ourselves in shared spaces throughout the year!
 
