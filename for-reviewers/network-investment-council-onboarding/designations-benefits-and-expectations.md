@@ -1,23 +1,4 @@
-# Designations, benefits, & expectations
-
-
-
-## Designations
-
-\*\*\*\*[**Network Investment Council**](https://www.reset.tech/people/#network-investment-council) **\(NIC\), reviewers, or review panel**  
-Individuals who have agreed to guide, inform, and advance the Reset network through our open call determination process. This section of the guide is for them.
-
-\*\*\*\*[**Advisory Council**](https://www.reset.tech/people/#advisory-council) **\(AC\)**  
-Individuals who have agreed to guide, inform, and advance the Reset network broadly.
-
-**Active member\(s\)**  
-A member of the NIC or AC who is actively meeting participation expectations, such as submitting application reviews.
-
-**Emeritus member\(s\)**  
-A member who was once an active reviewer on the NIC or who previously served on the AC, who continues to be associated with and recognised by Reset as being part of our network and community as a Council member, but who is no longer expected to submit reviews or meet other expectations ****
-
-**Council or Council member\(s\)**  
-A reference to all individuals who have served on the NIC or AC, whether or not they are active reviewers or emeritus.
+# Reviewer benefits & expectations
 
 ## Network Investment Council Benefits
 
@@ -39,7 +20,7 @@ A reference to all individuals who have served on the NIC or AC, whether or not 
 * Opportunity to attend other supported events, with expenses paid by Reset
 * Opportunity to receive an annual honorarium
 
-## Expectations
+## Network Investment Council Expectations
 
 ### What we expect of NIC members
 
