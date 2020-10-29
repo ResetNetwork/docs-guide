@@ -1,6 +1,12 @@
+---
+description: How NIC members can log in and begin reviewing Open Call applications.
+---
+
 # Application system
 
 The Reset Open Call application system can be found at [**https://apply.reset.tech/login/**](https://apply.reset.tech/login/). All reviewers have been provided a login for use. 
+
+To log in for the first time, input your email at [**https://apply.reset.tech/account/password/reset/**](https://apply.reset.tech/account/password/reset/) and follow the instructions sent to your inbox to set a password for your account. At this point, you should be able login at [**https://apply.reset.tech/login/**](https://apply.reset.tech/login/) ****and begin reviewing applications.
 
 Once logged in, the best place to start is your workbench. From the workbench, you can find all the applications available for your review \(those that are listed in the state of “External review”\). You can also search for any applications that have ever been in this state before, regardless of final outcome \(approved or dismissed\). NIC member accounts have access to most data related to an application, including: reviews by the Reset team, the determination messages Reset sends applicants as formal feedback \(either requesting further information, dismissing, or approving their application\), the final determination, and any applicant responses to Reset feedback. We encourage you to explore these materials to better understand the issues previously raised by the Reset team during the course of our review.
 
