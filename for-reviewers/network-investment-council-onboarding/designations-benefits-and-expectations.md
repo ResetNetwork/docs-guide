@@ -39,15 +39,15 @@ description: These are the benefits and expectations for NIC members.
 
 ### What NIC members can expect from Reset
 
-* We will maintain this online Handbook/Onboarding document for your reference;
-* We will offer to conduct personal training sessions with anyone who requests it on key considerations and how to review applications;
-* We will only send a batch of proposals for review as described below and consult you if we need to change;
-* Every now and again, in urgent situations, we may send a proposal or two in between periods for your review;
-* Set deadlines of no less than two weeks to review proposals \(and send you plenty of reminders!\);
-* Ensure the application system makes it very clear which proposals need reviews \(those with less than 2 NIC member reviews\);
-* Ensure all active NIC members have full access to every proposal we have ever asked for NIC review \(that is every effort we have ever supported as well as the ones we said no to\) along with the formal determination messages sent to applicants;
-* Send an email briefing every two months containing: new efforts we have approved and why; which efforts have concluded and key outcomes; new, probably not-yet-public efforts/ideas upcoming we would like you to know about \(and get your thoughts on\); some of the most important news we have seen; and where Reset team members will be in the next couple months for you to meet with;
-* Invitation every four months to help craft the agenda for and participate in an online video session to dig into Reset topics high and low;
-* Annual invitation to attend \(on us\) a Reset-supported event; and
+* That we will maintain this online Handbook/Onboarding document for your reference;
+* That we will offer to conduct personal training sessions with anyone who requests it on key considerations and how to review applications;
+* That we will only send a batch of proposals for review as described in this Guide and consult you if we need to change;
+* That every now and again, in urgent situations, we may send a proposal or two in between periods for your review;
+* That we will set deadlines of no less than two weeks to review proposals \(and send you plenty of reminders!\);
+* That we will ensure the application system makes it very clear which proposals need to be reviewed \(those with less than 2 NIC member reviews\);
+* That we will ensure all active NIC members have full access to every proposal we have ever asked to be NIC-reviewed \(that is every effort we have ever supported, as well as the ones we said no to\) along with the formal determination messages sent to applicants;
+* That we will send an email briefing every two months containing: \(a\) new efforts we have approved and why; \(b\) which efforts have concluded and key outcomes; \(c\) new, probably not-yet-public efforts/ideas upcoming we would like you to know about and get your thoughts on; \(d\) some of the most important news we have seen; and \(e\) where Reset team members will be in the next couple months for you to meet with;
+* That we will send an invitation every four months to help craft the agenda for and participate in an online video session to dig into Reset topics high and low;
+* That we will send an annual invitation to attend \(on us\) Reset-supported events; and
 * That we will come find you whenever we find ourselves in shared spaces throughout the year!
 
