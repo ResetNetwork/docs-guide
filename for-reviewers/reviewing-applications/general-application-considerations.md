@@ -157,5 +157,5 @@ Ultimately, when completing a review, the following twelve questions must be ans
 11. How measurable are the outcomes and milestones/how clear will success or failure be?
 12. How well does the project align with our own goals and objectives?
 
-_**Note:**_ The overall length of reviews varies considerably. Please know that we do not have a minimum or maximum expectation of review length for each application/reviewer. Some NIC members may choose to provide a sentence or two in answering a question, whereas others may include multiple paragraphs.
+_**Note:**_ The overall length of reviews varies considerably. Please know that we do not have a minimum or maximum expectation of review length for each application/reviewer. Some NIC members may choose to provide the minimum required to submit a review, a sentence or two in answering a question, whereas others may include multiple paragraphs. All are welcome and appreciated.
 
