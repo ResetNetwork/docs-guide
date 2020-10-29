@@ -16,3 +16,22 @@ The benefit is felt most by the applicants and those most affected by the harms.
 
 Once again, thank you!
 
+## Designations
+
+Throughout this section, the following designations will be used:
+
+\*\*\*\*[**Network Investment Council**](https://www.reset.tech/people/#network-investment-council) **\(NIC\), reviewers, or review panel**  
+Individuals who have agreed to guide, inform, and advance the Reset network through our Open Call determination process. This section of the Guide is primarily for them.
+
+\*\*\*\*[**Advisory Council**](https://www.reset.tech/people/#advisory-council) **\(AC\)**  
+Individuals who have agreed to broadly guide, inform, and advance the Reset network.
+
+**Active member\(s\)**  
+A member of the NIC or AC who is actively meeting participation expectations, such as submitting application reviews.
+
+**Emeritus member\(s\)**  
+A member who was once an active reviewer on the NIC or who previously served on the AC, who continues to be associated with and recognised by Reset as being part of our network and community as a Council member \(but who is no longer expected to submit reviews or meet other expectations\).
+
+**Council or Council member\(s\)**  
+A reference to all individuals who have served on the NIC or AC, whether or not they are active reviewers or emeritus.
+
