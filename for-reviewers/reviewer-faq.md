@@ -6,6 +6,10 @@ description: >-
 
 # Reviewer FAQ
 
+## How do I login for the first time?
+
+Using your email address, an account has already be created for you but a password has not yet been set. To set a password, input your email at [https://apply.reset.tech/account/password/reset/](https://apply.reset.tech/account/password/reset/) and follow the instructions sent to your inbox. At this point, you should be able login at [https://apply.reset.tech/login/](https://apply.reset.tech/login/) and begin reviewing applications.
+
 ## What if I don’t feel as though I have the necessary expertise \(or feel comfortable\) to review a specific application?
 
 That’s OK, you’re not alone. Everyday the Reset team reviews applications that any one of us alone does not have much knowledge about. In those cases, there are usually non-technical but equally important factors you may be able to weigh in on. 
