@@ -1,3 +1,7 @@
+---
+description: How to nominate NIC members and how long such members serve.
+---
+
 # Nominations & terms
 
 ## Nominations
