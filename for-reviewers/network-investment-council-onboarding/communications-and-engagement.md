@@ -1,7 +1,7 @@
 ---
 description: >-
   These are the various ways by which NIC members can choose to stay informed
-  and communicate with one another and the Reset team.
+  and communicate with one another and members of the Reset team.
 ---
 
 # Communications & engagement
