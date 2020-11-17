@@ -20,6 +20,7 @@
   * [Flash grants](for-applicants/fund-guidelines/flash-grants.md)
 * [Topical Guidance](for-applicants/topical-guidance/README.md)
   * [Information controls](for-applicants/topical-guidance/information-controls.md)
+  * [Common determination responses](for-applicants/topical-guidance/common-determination-responses.md)
 
 ## For Reviewers
 
