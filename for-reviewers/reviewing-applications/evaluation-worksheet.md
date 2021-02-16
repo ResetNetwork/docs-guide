@@ -42,7 +42,7 @@ _**Considerations:**_ Does the effort demonstrate a high degree of usability/acc
 
 ### How feasible are the stated outcomes/how likely are they to be accomplished?
 
-_**Considerations:**_ Does the application clearly state the effort's technical, research, policy/advocacy, and/or civic engagement outcomes? Are they articulated technically and succinctly? Does the application explain what is new in the approach and why it will succeed? Does the project buy tactical breathing space for existing problems or push towards convergence by changing the playing field? Does the project identify any expected or past hurdles in achieving its technical goals?
+_**Considerations:**_ Does the application clearly state the effort's technology, research + investigation, policy change, and/or public campaigns outcomes? Are they articulated technically and succinctly? Does the application explain what is new in the approach and why it will succeed? Does the project buy tactical breathing space for existing problems or push towards convergence by changing the playing field? Does the project identify any expected or past hurdles in achieving its technical goals?
 
 ### How well does the application present an adversarial risk analysis?
 
