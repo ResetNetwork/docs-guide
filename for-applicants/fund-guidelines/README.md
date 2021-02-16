@@ -72,12 +72,12 @@ Applicants must not provide any type of support for any member, affiliate or rep
 
 ## Areas of work
 
-Ideal applications will fit within one of these four [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work):
+Ideal applications will fit within one of these [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work):
 
-* **Policy/Advocacy:** Develop and advance a global public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
-* **Research:** Study the ways technology is harming democracy, how this can be reversed by creating better technology, and how to design effective legal and regulatory systems.
+* **Policy Change:** Develop and advance a global public policy agenda that sets fair rules and standards for Big Tech companies, ensuring they better serve democracy.
+* **Research + Investigation:** Study the ways technology is harming democracy, how this can be reversed by creating better technology, and how to design effective legal and regulatory systems.
 * **Technology:** Design and implement both existing and new tools that support in-depth research, activist engagement, and educational insights into surveillance commerce and digital threats to democracy, and viable virtuous alternatives to the dominant exploitative platforms.
-* **Civic Engagement:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
+* **Public Campaigns:** Educate the public about the problems caused by digital threats to democracy and the subversion of the internet.
 
 When in doubt, apply.
 
