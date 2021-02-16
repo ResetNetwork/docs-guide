@@ -21,7 +21,7 @@ _**Note:**_  The review considerations provided on this page are the same ones u
 
 ## **Contribution and relevance to Reset goals and principles**
 
-These considerations speak to the proposed project's ability to contribute to Reset's [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**Principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner in one of Reset's four core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work).
+These considerations speak to the proposed project's ability to contribute to Reset's [**Goals**](https://guide.reset.tech/introduction/goals-objectives#goals) and [**Principles**](https://guide.reset.tech/introduction/principles-values#principles) in a relevant manner in one of Reset's core [**Areas of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work).
 
 ### Organisational profile
 
