@@ -113,7 +113,7 @@ Work with outcomes focused to intervene or affect policy in the European Union, 
 
 When in doubt, apply.
 
-_**Note:**_ A competitive application does not have to directly engage in Policy/Advocacy as an [**Area of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work), but it _does_ need to clearly show how the outcomes for the selected beneficiaries will result in outcomes that will, or could, lead to policy change. For example, the research and technology projects that ultimately helped to justify the need for the GDPR by demonstrating the significant misuse of data would have been in scope \(and still are for enforcement purposes, or to point out limitations for future policy\). 
+_**Note:**_ A competitive application does not have to directly engage in Policy Change as an [**Area of work**](https://guide.reset.tech/introduction/goals-objectives#areas-of-work), but it _does_ need to clearly show how the outcomes for the selected beneficiaries will result in outcomes that will, or could, lead to policy change. For example, the research and technology projects that ultimately helped to justify the need for the GDPR by demonstrating the significant misuse of data would have been in scope \(and still are for enforcement purposes, or to point out limitations for future policy\). 
 
 ## **Commitment to diversity**
 
