@@ -199,6 +199,8 @@ Based on the current priorities of the program, applicants are limited to one gr
 
 Applications that request more than the award ceiling of $600,000 USD, or less than the award floor of $5,000 USD, may, at our discretion, be deemed technically ineligible. Note that our target support ceiling is $300,000 USD, with most supported efforts receiving between $50,000 USD and $200,000 USD.
 
+### Fellows
+
 Fellows will receive a monthly stipend based on the number of hours per week they commit to working, a travel stipend of up to $5,000 USD \(depending on project needs\), any hardware needed such as a computer or mobile device, and access to Reset internal resources \(depending on project needs\). The hourly rate for all fellows is $40 USD. As a result: a fellow committing to 20 hours per week for nine months would permit a total of $28,800 USD \(dispersed in $3,200 USD/month payments\). A 30-hour-per-week commitment for 12 months would permit the fellow to $57,600 USD \(dispersed in $4,800 USD/month payments\). A 10-hour-per-week commitment for three months would permit the fellow $4,800 USD \(dispersed in $1,600 USD/month payments\).
 
 _**Note:**_ When deemed in the best interest of Reset priorities, Reset reserves the right to award less \(or more\) than the amount of funds requested, or suggest an alternate agreement type than that which was requested.
