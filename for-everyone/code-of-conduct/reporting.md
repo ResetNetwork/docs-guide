@@ -1,17 +1,17 @@
 # Reporting
 
-If you believe someone is violating the code of conduct we ask that you report it to the Reset by emailing [conduct@](mailto:conduct@djangoproject.com)reset.tech. **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the code of conduct we ask that you report it to the Reset by emailing [conduct@](mailto:conduct@djangoproject.com)reset.tech. **All reports will be kept confidential.** In some cases, we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 **If you believe anyone is in physical danger, please notify appropriate law enforcement first.** If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
 
-If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We would much rather have a few extra reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
+If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We would much rather have a few extra reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively at you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
 
 In your report please include:
 
 * Your contact info \(so we can get in touch with you if we need to follow up\)
 * Names \(real, nicknames, or pseudonyms\) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
 * When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a link-able available record \(e.g. a application, mailing list archive or other public record\) please include a link.
+* Your account of what occurred. If there is a linkable available record \(e.g. an application, mailing list archive or other public records\) please include a link.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
@@ -48,7 +48,7 @@ Finally, the committee will make a report on the situation to the Reset Steering
 
 If your report concerns a current member of the Code of Conduct committee, you may not feel comfortable sending your report to the committee, as all members will see the report.
 
-In that case, you can make a report directly to any one of the Code of Conduct committee. Their e-mail addresses are listed on the [Code of Conduct Committee](committee.md) page. The members will follow the usual enforcement process with the other members, but will exclude the member\(s\) that the report concerns from any discussion or decision making.
+In that case, you can make a report directly to any one of the Code of Conduct committee members. Their e-mail addresses are listed on the [Code of Conduct Committee](committee.md) page. The members will follow the usual enforcement process with the other members but will exclude the member\(s\) that the report concerns from any discussion or decision making.
 
 #### Reconsideration
 
