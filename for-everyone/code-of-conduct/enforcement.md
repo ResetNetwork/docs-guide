@@ -31,7 +31,7 @@ The committee should aim to have a resolution agreed upon within one week. In th
 
 #### Acting Unilaterally
 
-If the act is ongoing \(such as someone engaging in harassment on mailing list\), or involves a threat to anyone's safety \(e.g. threats of violence\), any committee member may act immediately \(before reaching consensus\) to end the situation. In ongoing situations, any member may at their discretion employ any of the tools available to the committee, including bans and blocks.
+If the act is ongoing \(such as someone engaging in harassment on the mailing list\), or involves a threat to anyone's safety \(e.g. threats of violence\), any committee member may act immediately \(before reaching consensus\) to end the situation. In ongoing situations, any member may at their discretion employ any of the tools available to the committee, including bans and blocks.
 
 If the incident involves physical danger, any member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law enforcement \(or other local personnel\) and speaking on behalf of the Reset.
 
@@ -39,7 +39,7 @@ In situations where an individual committee member acts unilaterally, they must 
 
 #### Resolutions
 
-The committee must agree on a resolution by consensus. If the committee cannot reach consensus and deadlocks for over a week, the committee will turn the matter over to the board for resolution.
+The committee must agree on a resolution by consensus. If the committee cannot reach a consensus and deadlocks for over a week, the committee will turn the matter over to the board for resolution.
 
 Possible responses may include:
 
@@ -52,13 +52,13 @@ Possible responses may include:
 
 Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.
 
-Finally the committee will make a report for the Reset Steering Committee. In case the incident or report involves a current member of the Steering Committee, the committee will provide the report only to the other Steering Committee members.
+Finally, the committee will make a report for the Reset Steering Committee. In case the incident or report involves a current member of the Steering Committee, the committee will provide the report only to the other Steering Committee members.
 
 The committee will never publicly discuss the issue; all public statements will be made by Reset Staff and/or the Steering Committee.
 
 #### Conflicts of Interest
 
-In the event of any conflict of interest a committee member must immediately notify the other members, and recuse themselves if necessary. If a report concerns a possible violation by a current committee member, this member should be excluded from the response process. For these cases, anyone can make a report directly to any of the committee chairs, as documented in the [reporting guidelines](reporting.md).
+In the event of any conflict of interest, a committee member must immediately notify the other members, and recuse themselves if necessary. If a report concerns a possible violation by a current committee member, this member should be excluded from the response process. For these cases, anyone can make a report directly to any of the committee chairs, as documented in the [reporting guidelines](reporting.md).
 
 -----------------
 
