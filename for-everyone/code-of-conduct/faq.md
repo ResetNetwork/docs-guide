@@ -9,7 +9,7 @@ description: >-
 
 **Why have you adopted a Code of Conduct?**
 
-We think the Reset network is awesome. If you're familiar with the those already apart of the network you'll probably notice that the Code basically aligns with what we already do. Think of this as documentation: we're taking implicit expectations about behavior and making them explicit.
+We think the Reset network is awesome. If you're familiar with those already a part of the network you'll probably notice that the Code basically aligns with what we already do. Think of this as documentation: we're taking implicit expectations about behavior and making them explicit.
 
 We're doing this because the Reset network is growing quickly. This is on balance a very positive thing, but as we've grown past the point where it's possible to know everyone within the network we think it's very important to be clear about our values.
 
@@ -21,7 +21,7 @@ For the most part, we don't think it means large changes. We think that the text
 
 However, we do expect that people will abide by the spirit and words of the CoC when in "official" Reset spaces. This code has been adopted by both the Reset core team and by the Reset council members. That means that it'll apply both in community spaces _and_ at Reset events.
 
-In practice, this mean content within our submission app, mailing lists, issue tracker, and code review tools, and "official" Reset events. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+In practice, this means content within our submission app, mailing lists, issue tracker, and code review tools, and "official" Reset events. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
 #### What about events funded by the Django Software Foundation? <a id="dsf-events"></a>
 

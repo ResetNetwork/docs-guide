@@ -18,7 +18,7 @@ In your report please include:
 
 #### What happens after you file a report?
 
-You will receive an email from the Reset Code of Conduct Committee acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours \(and will aim for much quicker than that\).
+You will receive an email from the [Reset Code of Conduct Committee](committee.md) acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours \(and will aim for much quicker than that\).
 
 The committee will immediately meet to review the incident and determine:
 
@@ -29,7 +29,7 @@ The committee will immediately meet to review the incident and determine:
 
 If this is determined to be an ongoing incident or a threat to physical safety, the committees' immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
 
-Once the committee has a complete account of the events they will make a decision as to how to response. Responses may include:
+Once the committee has a complete account of the events they will make a decision as to how to respond. Responses may include:
 
 * Nothing \(if we determine no violation occurred\).
 * A private reprimand from the committee to the individual\(s\) involved.
@@ -48,7 +48,7 @@ Finally, the committee will make a report on the situation to the Reset Steering
 
 If your report concerns a current member of the Code of Conduct committee, you may not feel comfortable sending your report to the committee, as all members will see the report.
 
-In that case, you can make a report directly to any one of the Code of Conduct committee. Their e-mail addresses are listed on the [Code of Conduct Committee](https://www.djangoproject.com/foundation/committees/) page. The members will follow the usual enforcement process with the other members, but will exclude the member\(s\) that the report concerns from any discussion or decision making.
+In that case, you can make a report directly to any one of the Code of Conduct committee. Their e-mail addresses are listed on the [Code of Conduct Committee](committee.md) page. The members will follow the usual enforcement process with the other members, but will exclude the member\(s\) that the report concerns from any discussion or decision making.
 
 #### Reconsideration
 
