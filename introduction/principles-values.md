@@ -13,7 +13,7 @@ Together, our principles and values form the foundation of the culture we hope t
 We adhere to the following principles as we make our day-to-day decisions in the Open Calls process: 
 
 * **Data privacy advances human rights:** Sustain and advance individual data privacy protections in everything we do. In the digital age, the misuse of personal information facilitates discrimination, deteriorates free expression, disrupts citizen participation in government, and endangers many other declared human rights. We believe the best way to defend human rights today is by advancing data privacy.
-* **Tell the truth, be trusted:** “Honesty is a gift we can give to others, a source of power, and an engine of simplicity. Knowing that we told the truth in the past leaves us nothing to keep track of \(paraphrasing Sam Harris' [_**Lying**_](https://samharris.org/books/lying/)\)." Does what we do help us become a more trusted community member?
+* **Tell the truth, be trusted:** “Honesty is a gift we can give to others, a source of power, and an engine of simplicity. Knowing that we told the truth in the past leaves us nothing to keep track of." Does what we do help us become a more trusted community member?
 * **We know very little:** View every situation as an opportunity to learn, practice active listening, give feedback without fear, and be more interested in learning than being right.
 * **Be human-centered:** Measure the actual impact of what we do and what we support by evaluating the experience of those who are at the receiving end of the engagement. We view our work as building relationships by conducting transactions.
 * **Communicate clearly:** We speak our loudest and clearest with what and how we fund when we are succinct, candid, and kind. 
